@@ -2,6 +2,8 @@
 title: "Metodo 50/30/20: Como Organizar tu Dinero con un Sistema Probado"
 description: "Aprende a distribuir tu sueldo con el metodo 50/30/20. Guia practica con ejemplos reales en euros."
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/27797871/pexels-photo-27797871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "A fan arrangement of colorful Brazilian Real banknotes on a white background showcasing different va"
 category: "presupuesto"
 tags: ["presupuesto", "50/30/20", "ahorro", "finanzas personales"]
 author: "FinanzasClara"
