@@ -5,7 +5,7 @@ import mdx from '@astrojs/mdx';
 import vercel from '@astrojs/vercel';
 
 export default defineConfig({
-  site: 'https://finanzasclara-web.vercel.app',
+  site: 'https://finanzasclara.uk',
   output: 'static',
   integrations: [
     sitemap({
