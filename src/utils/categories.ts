@@ -1,9 +1,9 @@
 export const CATEGORIES = {
-  'ahorro': { name: 'Ahorro', slug: 'ahorro', description: 'Estrategias de ahorro con resultados reales' },
-  'inversion': { name: 'Inversion', slug: 'inversion', description: 'Invertir desde cero con datos concretos' },
-  'deudas': { name: 'Deudas', slug: 'deudas', description: 'Salir de deudas con metodos probados' },
-  'presupuesto': { name: 'Presupuesto', slug: 'presupuesto', description: 'Gestionar tu dinero mes a mes' },
-  'ingresos-pasivos': { name: 'Ingresos Pasivos', slug: 'ingresos-pasivos', description: 'Generar ingresos extra con evidencia' },
+  'savings': { name: 'Savings', slug: 'savings', description: 'Save more money every month' },
+  'investing': { name: 'Investing', slug: 'investing', description: 'Grow your wealth with real data' },
+  'debt': { name: 'Debt', slug: 'debt', description: 'Pay off debt faster' },
+  'budgeting': { name: 'Budgeting', slug: 'budgeting', description: 'Control your spending' },
+  'passive-income': { name: 'Passive Income', slug: 'passive-income', description: 'Build income streams' }
 } as const;
 
 export type Category = keyof typeof CATEGORIES;
