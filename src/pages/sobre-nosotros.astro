@@ -2,32 +2,35 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="Sobre nosotros" description="FinanzasClara: salud y bienestar basados en evidencia cientifica. Conoce nuestra mision.">
+<BaseLayout title="About FinanzasClara" description="FinanzasClara: practical personal finance advice backed by data and real experience. Meet the author.">
   <section class="about">
     <div class="container about__inner">
-      <h1>Sobre FinanzasClara</h1>
+      <h1>About FinanzasClara</h1>
 
-      <p class="about__lead">
-        FinanzasClara nacio para hacer accesibles las finanzas personales. Cada articulo.
-      </p>
+      <div class="about-author">
+        <h2>Vladys Z.</h2>
+        <p class="author-subtitle">App Developer · Professional Chef · Personal Finance Enthusiast</p>
+      </div>
 
-      <h2>Nuestra mision</h2>
-      <p>FinanzasClara nacio con un objetivo claro: hacer accesible la informacion de salud respaldada por evidencia cientifica. Cada articulo que publicamos incluye referencias a estudios reales, publicados en revistas cientificas reconocidas.</p>
+      <p>I'm Vladys, an app developer and professional chef who learned personal finance the hard way — by making every mistake in the book first. After years of tracking budgets, cutting costs, and building savings systems, I started FinanzasClara to share what actually works.</p>
 
-      <h2>Como trabajamos</h2>
-      <p>Investigamos temas de salud, nutricion, ejercicio y bienestar. Consultamos estudios publicados en revistas como The New England Journal of Medicine, JAMA, The Lancet, y publicaciones de instituciones como Harvard, Oxford y la OMS. Cada afirmacion va acompanada de su fuente.</p>
+      <p><strong>FinanzasClara</strong> is about practical money advice for real people. No get-rich-quick schemes, no expensive courses — just tested strategies backed by data and personal experience.</p>
 
-      <h2>Lo que NO somos</h2>
-      <p>No somos medicos ni profesionales sanitarios. Nuestro contenido es informativo y educativo. Siempre recomendamos consultar con un profesional de la salud antes de tomar decisiones medicas.</p>
+      <h2>Why This Blog?</h2>
+      <p>As a developer, I approach money like code: find the bug, fix it, optimize. As a chef, I know that the best recipes (and budgets) are simple, repeatable, and satisfying. Every article here cites real studies, names specific tools, and gives you actionable steps — not vague advice.</p>
 
-      <h2>Donde encontrarnos</h2>
+      <h2>My Promise</h2>
       <ul>
-        <li><a href="https://youtube.com/@FinanzasClara" target="_blank" rel="noopener">YouTube</a> — Tips de salud en 60 segundos</li>
-        <li><a href="/newsletter">Newsletter</a> — Lo mejor de la semana, cada domingo</li>
-        <li><a href="/rss.xml">RSS</a> — Para lectores de feeds</li>
+        <li><strong>Real data</strong> — Every claim comes with a source: studies, institutions, verified numbers</li>
+        <li><strong>Zero products to sell</strong> — I don't promote expensive courses, apps, or financial products</li>
+        <li><strong>Personal experience</strong> — I share what I've actually tried and what works</li>
+        <li><strong>Free forever</strong> — All knowledge is free and accessible</li>
       </ul>
 
-      <h2>Contacto</h2>
+      <h2>Also on YouTube</h2>
+      <p>I post daily money tips on <a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener">@FinanzasClara</a> — quick, actionable finance content backed by real numbers.</p>
+
+      <h2>Contact</h2>
       <p>vladys.z96@gmail.com</p>
     </div>
   </section>
@@ -42,6 +45,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     margin-bottom: 2rem;
     line-height: 1.7;
   }
+  .about-author { margin-bottom: 2rem; }
+  .author-subtitle { font-size: 1.1rem; color: var(--color-text-light); margin-top: 0.25rem; }
   .about h2 { margin-top: 2rem; margin-bottom: 0.75rem; }
   .about p { margin-bottom: 1rem; color: var(--color-text-light); line-height: 1.7; }
   .about ul { padding-left: 1.5rem; margin-bottom: 1rem; }

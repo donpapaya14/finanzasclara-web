@@ -35,8 +35,9 @@ CATEGORY_NAMES = {
 }
 
 AMAZON_TAG = os.getenv("AMAZON_TAG", "vds96-20")
-SITE_URL = os.getenv("SITE_URL", "https://finanzasclara-web.vercel.app")
+SITE_URL = os.getenv("SITE_URL", "https://finanzasclara.uk")
 BRAND = os.getenv("BRAND", "FinanzasClara")
+AUTHOR = "Vladys Z."
 
 
 def research_topic(category: str, formula: str, existing_titles: list[str]) -> dict:
@@ -136,9 +137,11 @@ SECTION PLAN:
    - Include a comparison or data markdown table where relevant
    - FAQ answers should start by directly answering (for featured snippets and AI citation)
 
-8. LENGTH: 2000-2800 words of REAL and useful content.
+8. PERSONAL TOUCH: Include a section "## My Take" (after the FAQ section) with 2-3 paragraphs in first person from the author Vladys Z., an app developer and professional chef. Share a personal reflection, anecdote, or advice based on real experience about the topic. This is MANDATORY — Google penalizes 100% AI-generated content without human voice.
 
-{f'9. AMAZON PRODUCTS: Mention "{amazon_product}" and 1-2 complementary products naturally. Use [AMAZON:product name] for each. Do not force it if it does not fit.' if amazon_product else '9. AMAZON PRODUCTS: If there are relevant products, mention 2-3 naturally with [AMAZON:product name]. Only if it fits organically.'}
+9. LENGTH: 2000-2800 words of REAL and useful content.
+
+{f'10. AMAZON PRODUCTS: Mention "{amazon_product}" and 1-2 complementary products naturally. Use [AMAZON:product name] for each. Do not force it if it does not fit.' if amazon_product else '10. AMAZON PRODUCTS: If there are relevant products, mention 2-3 naturally with [AMAZON:product name]. Only if it fits organically.'}
 
 Respond JSON:
 {{
@@ -300,7 +303,7 @@ description: "{description}"
 pubDate: {today}
 category: "{category}"
 tags: {tags_yaml}
-author: "{BRAND}"
+author: "{AUTHOR}"
 readingTime: {reading_time}
 {image_lines}
 sources:
@@ -312,6 +315,10 @@ draft: false
     file_path = BLOG_DIR / f"{slug}.md"
     if file_path.exists():
         file_path = BLOG_DIR / f"{slug}-{today}.md"
+
+    # Author bio footer
+    author_bio = f"\n\n---\n\n*Written by **{AUTHOR}** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*\n"
+    content = content + author_bio
 
     file_path.write_text(f"{frontmatter}\n\n{content}", encoding="utf-8")
     log.info("Escrito: %s (%d palabras)", file_path.name, len(content.split()))
