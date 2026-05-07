@@ -14,7 +14,7 @@ export default defineConfig({
         !page.includes('/aviso-legal') &&
         !page.includes('/politica-privacidad') &&
         !page.includes('/politica-cookies'),
-      i18n: { defaultLocale: 'es', locales: { es: 'es-ES' } },
+      i18n: { defaultLocale: 'en', locales: { en: 'en-US' } },
     }),
     mdx(),
   ],
@@ -22,7 +22,7 @@ export default defineConfig({
     webAnalytics: { enabled: true },
   }),
   i18n: {
-    defaultLocale: 'es',
-    locales: ['es'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 });
