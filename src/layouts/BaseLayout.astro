@@ -15,7 +15,7 @@ interface Props {
 
 const {
   title,
-  description = 'Finanzas personales basadas en datos reales. Consejos practicos respaldados por estudios reales.',
+  description = 'Personal finance backed by real data. Practical, tested advice without the hype.',
   ogImage = '/og-default.jpg',
   ogType = 'website',
   canonicalUrl,
@@ -29,7 +29,7 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
 ---
 
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,7 +46,7 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <meta property="og:description" content={description} />
   <meta property="og:image" content={resolvedOgImage} />
   <meta property="og:url" content={resolvedCanonical} />
-  <meta property="og:locale" content="es_ES" />
+  <meta property="og:locale" content="en_US" />
   <meta property="og:site_name" content="FinanzasClara" />
 
   <!-- Twitter -->

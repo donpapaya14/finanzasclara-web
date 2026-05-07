@@ -7,11 +7,11 @@ const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title="Todos los articulos" description="Articulos de salud, nutricion, ejercicio y bienestar basados en evidencia cientifica.">
+<BaseLayout title="All articles" description="Articles on saving, investing, debt, budgeting and passive income — every claim backed by data.">
   <section class="section">
     <div class="container">
-      <h1>Todos los articulos</h1>
-      <p class="page-subtitle">Salud y bienestar respaldados por ciencia</p>
+      <h1>All articles</h1>
+      <p class="page-subtitle">Personal finance grounded in real data</p>
       <div class="articles-grid">
         {sortedPosts.map(post => (
           <ArticleCard

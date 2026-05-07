@@ -20,7 +20,7 @@ const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.va
 
 <BaseLayout
   title={catInfo.name}
-  description={`Articulos de ${catInfo.name.toLowerCase()}: ${catInfo.description.toLowerCase()}.`}
+  description={`${catInfo.name} articles: ${catInfo.description.toLowerCase()}.`}
 >
   <section class="section">
     <div class="container">
@@ -41,7 +41,7 @@ const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.va
           ))}
         </div>
       ) : (
-        <p class="empty">Proximamente articulos en esta categoria.</p>
+        <p class="empty">Articles coming soon in this category.</p>
       )}
     </div>
   </section>

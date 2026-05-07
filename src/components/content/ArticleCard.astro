@@ -30,7 +30,7 @@ const { title, description, pubDate, category, slug, image, readingTime } = Astr
       <p class="article-card__excerpt">{description}</p>
       <div class="article-card__meta">
         <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
-        {readingTime && <span>{readingTime} min lectura</span>}
+        {readingTime && <span>{readingTime} min read</span>}
       </div>
     </div>
   </a>

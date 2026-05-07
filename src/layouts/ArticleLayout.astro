@@ -29,7 +29,7 @@ interface Props {
 
 const {
   title, description, pubDate, updatedDate, category, tags,
-  author = 'VidaSana360', image, imageAlt, readingTime,
+  author = 'FinanzasClara', image, imageAlt, readingTime,
   sources, youtubeRelated, slug
 } = Astro.props;
 
@@ -70,7 +70,7 @@ const canonicalUrl = `${siteUrl}/blog/${slug}`;
           <div class="article__meta">
             <span>{author}</span>
             <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
-            {readingTime && <span>{readingTime} min lectura</span>}
+            {readingTime && <span>{readingTime} min read</span>}
           </div>
         </header>
 
@@ -97,7 +97,7 @@ const canonicalUrl = `${siteUrl}/blog/${slug}`;
         
         {youtubeRelated && (
           <div class="article__video">
-            <h3>Video relacionado</h3>
+            <h3>Related video</h3>
             <lite-youtube videoid={youtubeRelated}></lite-youtube>
           </div>
         )}

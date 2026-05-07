@@ -8,9 +8,9 @@ const popular = allPosts
   .slice(0, 5);
 ---
 
-<aside class="sidebar" aria-label="Barra lateral">
+<aside class="sidebar" aria-label="Sidebar">
   <div class="sidebar__section">
-    <h4 class="sidebar__title">Mas leidos</h4>
+    <h4 class="sidebar__title">Most read</h4>
     <ul class="sidebar__list">
       {popular.map((post, i) => (
         <li class="sidebar__item">
@@ -21,17 +21,11 @@ const popular = allPosts
     </ul>
   </div>
 
-  <div class="sidebar__section sidebar__newsletter">
-    <h4 class="sidebar__title">Newsletter</h4>
-    <p>Cada domingo, lo mejor de salud y bienestar en tu email.</p>
-    
-  </div>
-
   <AdSenseSlot position="sidebar" />
 
   <div class="sidebar__section">
     <h4 class="sidebar__title">YouTube</h4>
-    <p class="sidebar__yt-text">Tips de salud en 60 segundos</p>
+    <p class="sidebar__yt-text">Quick money tips in 60 seconds</p>
     <a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener" class="btn btn--outline btn--full">
       Visit channel
     </a>
@@ -83,15 +77,6 @@ const popular = allPosts
     line-height: 1.4;
   }
   .sidebar__item a:hover { color: var(--color-primary); }
-  .sidebar__newsletter {
-    background: linear-gradient(135deg, #FFF5F5 0%, #FEF2F2 100%);
-    border: 1px solid #FECACA;
-  }
-  .sidebar__newsletter p {
-    font-size: 0.875rem;
-    color: var(--color-text-light);
-    margin-bottom: 1rem;
-  }
   .sidebar__yt-text {
     font-size: 0.875rem;
     color: var(--color-text-light);

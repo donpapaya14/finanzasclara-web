@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Privacy Policy" noindex={true}>
+  <div class="container legal-page">
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> April 26, 2026</p>
+
+    <h2>Data controller</h2>
+    <p>FinanzasClara — Contact: vladys.z96@gmail.com</p>
+
+    <h2>Data we collect</h2>
+    <p>FinanzasClara collects data on a very limited basis:</p>
+    <ul>
+      <li><strong>Browsing data:</strong> Anonymous data via Google AdSense and analytics cookies (only if you accept cookies).</li>
+    </ul>
+
+    <h2>Purpose</h2>
+    <ul>
+      <li>Anonymous traffic analysis to improve content.</li>
+      <li>Show relevant ads (Google AdSense).</li>
+    </ul>
+
+    <h2>Legal basis</h2>
+    <p>Data processing is based on your express consent (cookie acceptance).</p>
+
+    <h2>Recipients</h2>
+    <ul>
+      <li><strong>Google</strong> (Google Ireland Limited): advertising and analytics. Complies with the EU-US Data Privacy Framework.</li>
+      <li><strong>Hosting:</strong> static files served by our hosting provider.</li>
+    </ul>
+
+    <h2>Your rights</h2>
+    <p>You can exercise your rights of access, rectification, deletion, opposition and portability by contacting vladys.z96@gmail.com.</p>
+
+    <h2>Data retention</h2>
+    <p>Anonymous browsing data follows the policies of Google and our hosting provider.</p>
+
+    <h2>Security</h2>
+    <p>We implement technical security measures (HTTPS, security headers) to protect information.</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal-page {
+    max-width: var(--content-width);
+    padding: 3rem 1.5rem;
+  }
+  .legal-page h1 { margin-bottom: 0.5rem; }
+  .legal-page h2 { margin-top: 2rem; margin-bottom: 0.75rem; font-size: 1.25rem; }
+  .legal-page p, .legal-page li { margin-bottom: 0.75rem; color: var(--color-text-light); line-height: 1.7; }
+  .legal-page ul { padding-left: 1.5rem; }
+</style>

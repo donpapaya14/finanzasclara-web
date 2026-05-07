@@ -9,10 +9,10 @@ interface Props {
 }
 
 const { items } = Astro.props;
-const allItems = [{ label: 'Inicio', href: '/' }, ...items];
+const allItems = [{ label: 'Home', href: '/' }, ...items];
 ---
 
-<nav class="breadcrumbs" aria-label="Ruta de navegacion">
+<nav class="breadcrumbs" aria-label="Breadcrumb">
   <ol>
     {allItems.map((item, i) => (
       <li>

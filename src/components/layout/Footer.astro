@@ -1,16 +1,16 @@
 ---
 const year = new Date().getFullYear();
 const categories = [
-  { href: '/categoria/ahorro', label: 'Ahorro' },
-  { href: '/categoria/inversion', label: 'Inversion' },
-  { href: '/categoria/deudas', label: 'Deudas' },
-  { href: '/categoria/presupuesto', label: 'Presupuesto' },
-  { href: '/categoria/ingresos-pasivos', label: 'Ingresos Pasivos' },
+  { href: '/categoria/savings', label: 'Savings' },
+  { href: '/categoria/investing', label: 'Investing' },
+  { href: '/categoria/debt', label: 'Debt' },
+  { href: '/categoria/budgeting', label: 'Budgeting' },
+  { href: '/categoria/passive-income', label: 'Passive Income' },
 ];
 const legal = [
-  { href: '/aviso-legal', label: 'Aviso legal' },
-  { href: '/politica-privacidad', label: 'Politica de privacidad' },
-  { href: '/politica-cookies', label: 'Politica de cookies' },
+  { href: '/legal-notice', label: 'Legal Notice' },
+  { href: '/privacy-policy', label: 'Privacy Policy' },
+  { href: '/cookie-policy', label: 'Cookie Policy' },
 ];
 ---
 
@@ -18,11 +18,11 @@ const legal = [
   <div class="container footer__inner">
     <div class="footer__brand">
       <span class="footer__logo">&#9829; Finanzas<strong>Clara</strong></span>
-      <p class="footer__tagline">Finanzas personales basadas en datos reales</p>
+      <p class="footer__tagline">Personal finance backed by real data</p>
     </div>
 
     <div class="footer__col">
-      <h4>Categorias</h4>
+      <h4>Categories</h4>
       <ul>
         {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
       </ul>
@@ -36,7 +36,7 @@ const legal = [
     </div>
 
     <div class="footer__col">
-      <h4>Conecta</h4>
+      <h4>Connect</h4>
       <ul>
         <li><a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener">YouTube</a></li>
                 <li><a href="/rss.xml">RSS</a></li>
@@ -44,20 +44,20 @@ const legal = [
     </div>
 
     <div class="footer__col">
-      <h4>Nuestras webs</h4>
+      <h4>Our sites</h4>
       <ul>
         <li><a href="https://vida-sana-360.com" target="_blank" rel="noopener">VidaSana360</a></li>
         <li><a href="https://saludlongevidad.org" target="_blank" rel="noopener">SaludLongevidad</a></li>
         <li><a href="https://catbrothers.uk" target="_blank" rel="noopener">CatBrothers</a></li>
-        <li><a href="https://espaciointeligente.org" target="_blank" rel="noopener">Espacio Inteligente</a></li>
-        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Café</a></li>
+        <li><a href="https://espaciointeligente.org" target="_blank" rel="noopener">EspacioInteligente</a></li>
+        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Cafe</a></li>
       </ul>
     </div>
   </div>
 
   <div class="footer__bottom">
     <div class="container">
-      <p>&copy; {year} FinanzasClara. Contenido informativo, no sustituye consejo medico profesional.</p>
+      <p>&copy; {year} FinanzasClara. Educational content, not professional financial advice.</p>
     </div>
   </div>
 </footer>

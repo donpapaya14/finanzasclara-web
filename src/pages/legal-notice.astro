@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Legal Notice" noindex={true}>
+  <div class="container legal-page">
+    <h1>Legal Notice</h1>
+    <p><strong>Last updated:</strong> April 26, 2026</p>
+
+    <h2>Site owner</h2>
+    <p>FinanzasClara is an editorial project focused on personal finance education.</p>
+    <p>Contact: vladys.z96@gmail.com</p>
+
+    <h2>Purpose</h2>
+    <p>This website provides information about personal finance, saving, investing and budgeting, backed by data and real-world experience. All content is informational and educational.</p>
+
+    <h2>Intellectual property</h2>
+    <p>The contents of this site (text, images, design, logos) belong to FinanzasClara or their respective authors and are protected by intellectual property laws.</p>
+
+    <h2>Liability</h2>
+    <p>The information on this site is not a substitute for professional financial advice. FinanzasClara is not responsible for decisions made based on the content published here.</p>
+    <p>We do not guarantee continuous availability of the site or the absence of errors in the content.</p>
+
+    <h2>External links</h2>
+    <p>This site may include links to third-party websites. FinanzasClara is not responsible for the content or privacy policies of those external sites.</p>
+
+    <h2>Governing law</h2>
+    <p>This legal notice is governed by applicable law.</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal-page {
+    max-width: var(--content-width);
+    padding: 3rem 1.5rem;
+  }
+  .legal-page h1 { margin-bottom: 0.5rem; }
+  .legal-page h2 { margin-top: 2rem; margin-bottom: 0.75rem; font-size: 1.25rem; }
+  .legal-page p { margin-bottom: 0.75rem; color: var(--color-text-light); line-height: 1.7; }
+</style>

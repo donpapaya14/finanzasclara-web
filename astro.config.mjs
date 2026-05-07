@@ -11,9 +11,9 @@ export default defineConfig({
   integrations: [
     sitemap({
       filter: (page) =>
-        !page.includes('/aviso-legal') &&
-        !page.includes('/politica-privacidad') &&
-        !page.includes('/politica-cookies'),
+        !page.includes('/legal-notice') &&
+        !page.includes('/privacy-policy') &&
+        !page.includes('/cookie-policy'),
       i18n: { defaultLocale: 'en', locales: { en: 'en-US' } },
     }),
     mdx(),

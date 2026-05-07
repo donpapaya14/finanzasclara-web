@@ -8,7 +8,7 @@ export async function GET(context: APIContext) {
 
   return rss({
     title: 'FinanzasClara',
-    description: 'Finanzas personales basadas en datos reales.',
+    description: 'Personal finance backed by real data.',
     site: context.site!.toString(),
     items: sorted.map(post => ({
       title: post.data.title,
