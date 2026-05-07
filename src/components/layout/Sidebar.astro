@@ -23,11 +23,11 @@ const popular = allPosts
 
   <AdSenseSlot position="sidebar" />
 
-  <div class="sidebar__section">
+  <div class="sidebar__section sidebar__yt">
     <h4 class="sidebar__title">YouTube</h4>
-    <p class="sidebar__yt-text">Quick money tips in 60 seconds</p>
-    <a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener" class="btn btn--outline btn--full">
-      Visit channel
+    <p class="sidebar__yt-text">Money tips in 60 seconds — daily shorts backed by real numbers.</p>
+    <a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener" class="btn btn--primary btn--full">
+      Visit channel &rarr;
     </a>
   </div>
 </aside>
@@ -38,49 +38,74 @@ const popular = allPosts
     top: 80px;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
   }
   .sidebar__section {
-    background: var(--color-surface);
+    background: var(--surface-1);
+    border: 1px solid var(--line);
     border-radius: var(--radius);
     padding: 1.5rem;
     box-shadow: var(--shadow-sm);
   }
   .sidebar__title {
-    font-size: 0.875rem;
+    font-size: 12px;
+    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--color-text);
-    margin-bottom: 1rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 2px solid var(--color-primary);
+    letter-spacing: 0.12em;
+    color: var(--ink-1);
+    margin-bottom: 14px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--accent);
   }
-  .sidebar__list { list-style: none; }
+  .sidebar__list { list-style: none; padding: 0; margin: 0; }
   .sidebar__item {
     display: flex;
     gap: 0.75rem;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--color-border);
+    padding: 12px 0;
+    border-bottom: 1px solid var(--line);
+    align-items: baseline;
   }
   .sidebar__item:last-child { border-bottom: none; }
   .sidebar__num {
-    font-weight: 800;
-    font-size: 1.25rem;
-    color: var(--color-primary);
-    opacity: 0.3;
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: 22px;
+    color: var(--accent);
+    opacity: 0.55;
     flex-shrink: 0;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
   }
   .sidebar__item a {
-    font-size: 0.875rem;
+    font-size: 14px;
     font-weight: 500;
-    color: var(--color-text);
-    line-height: 1.4;
+    color: var(--ink-1);
+    line-height: 1.35;
+    text-decoration: none;
   }
-  .sidebar__item a:hover { color: var(--color-primary); }
+  .sidebar__item a:hover { color: var(--accent); }
+
+  .sidebar__yt {
+    background: linear-gradient(135deg, var(--surface-dark) 0%, var(--surface-dark-2) 100%);
+    border-color: rgba(30, 64, 175, 0.4);
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+  }
+  .sidebar__yt::before {
+    content: ""; position: absolute; inset: 0;
+    background: radial-gradient(ellipse at 100% 0%, rgba(16, 185, 129, 0.18), transparent 60%);
+    pointer-events: none;
+  }
+  .sidebar__yt > * { position: relative; z-index: 1; }
+  .sidebar__yt .sidebar__title {
+    color: #fff;
+    border-bottom-color: var(--green);
+  }
   .sidebar__yt-text {
-    font-size: 0.875rem;
-    color: var(--color-text-light);
-    margin-bottom: 1rem;
+    font-size: 13.5px;
+    color: rgba(255, 255, 255, 0.78);
+    margin-bottom: 14px;
+    line-height: 1.55;
   }
-  .btn--full { width: 100%; justify-content: center; }
 </style>

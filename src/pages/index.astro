@@ -13,16 +13,50 @@ const latestPosts = allPosts
 const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[Category]][];
 ---
 
-<BaseLayout title="FinanzasClara" description="Personal finance backed by real data. Practical, tested advice without the hype.">
-  <!-- Hero -->
-  <section class="hero">
-    <div class="container hero__inner">
-      <h1 class="hero__title">Personal finance <span>backed by real data</span></h1>
-      <p class="hero__subtitle">
-        Saving, investing and money habits. Practical advice tested with numbers, not gimmicks.
-      </p>
-      <div class="hero__actions">
-        <a href="/blog" class="btn btn--primary">Read articles</a>
+<BaseLayout title="FinanzasClara" description="Editorial personal finance for US & UK. Saving, investing, debt and budgeting — backed by real numbers, not hype.">
+  <!-- Hero with Pexels finance imagery -->
+  <section class="hero hero--finance">
+    <div class="container hero__inner hero-grid">
+      <div class="hero-text">
+        <div class="eyebrow">Editorial personal finance</div>
+        <h1 class="display hero__title">
+          Money decisions,<br />
+          <em>backed by real numbers</em>
+        </h1>
+        <p class="lede hero__subtitle">
+          Saving, investing, debt and budgeting — analyzed with data, not hype.
+          Practical guides for everyday US &amp; UK readers.
+        </p>
+        <div class="hero__actions">
+          <a href="/blog" class="btn-primary">Read articles &rarr;</a>
+          <a href="#categories" class="btn-ghost">Explore categories</a>
+        </div>
+
+        <div class="pop-chips" aria-label="Popular topics">
+          <span class="pop-chips-label">Popular</span>
+          <a href="/categoria/investing" class="pop-chip">Index funds</a>
+          <a href="/categoria/savings" class="pop-chip">High-yield savings</a>
+          <a href="/categoria/debt" class="pop-chip">Debt payoff</a>
+          <a href="/categoria/budgeting" class="pop-chip">Zero-based budget</a>
+          <a href="/categoria/passive-income" class="pop-chip">Passive income</a>
+        </div>
+      </div>
+
+      <div class="hero-visual" aria-hidden="true">
+        <img
+          src="https://images.pexels.com/photos/4386442/pexels-photo-4386442.jpeg?auto=compress&cs=tinysrgb&w=900"
+          alt=""
+          loading="eager"
+          decoding="async"
+        />
+        <div class="hero-card hero-card--top">
+          <span class="hero-card__label">High-yield savings APY</span>
+          <span class="hero-card__num"><em>4.85</em>%</span>
+        </div>
+        <div class="hero-card hero-card--bottom">
+          <span class="hero-card__label">S&amp;P 500 — 30Y avg</span>
+          <span class="hero-card__num hero-card__num--green">+<em>10.2</em>%</span>
+        </div>
       </div>
     </div>
   </section>
@@ -31,7 +65,10 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   <section class="section">
     <div class="container">
       <div class="section__header">
-        <h2>Latest articles</h2>
+        <div>
+          <div class="eyebrow">Recent</div>
+          <h2 class="section-title">Latest articles</h2>
+        </div>
         <a href="/blog" class="section__link">See all &rarr;</a>
       </div>
       <div class="articles-grid">
@@ -50,10 +87,40 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
     </div>
   </section>
 
-  <!-- Categories -->
-  <section class="section section--alt">
+  <!-- Numbers we trust — dark navy with stats -->
+  <section class="section section--dark">
     <div class="container">
-      <h2 class="section__heading-center">Explore by category</h2>
+      <div style="text-align:center;max-width:680px;margin:0 auto">
+        <div class="eyebrow eyebrow--on-dark" style="justify-content:center">Numbers we trust</div>
+        <h2 class="section-title">Data, not opinions.</h2>
+        <p class="lede" style="margin-top:14px">
+          Every guide we publish is grounded in historical data, current rates, and verified sources — never gut feeling.
+        </p>
+      </div>
+      <div class="stats-row">
+        <div class="stat">
+          <div class="stat__num"><em>10.2</em>%</div>
+          <div class="stat__label">S&amp;P 500 30-year average annual return</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num">$<em>1,500</em></div>
+          <div class="stat__label">Median monthly savings of US households who budget</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num"><em>7.2</em>%</div>
+          <div class="stat__label">Average APR on a 5-year auto loan, May 2026</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section id="categories" class="section section--alt">
+    <div class="container">
+      <div style="text-align:center;margin-bottom:36px">
+        <div class="eyebrow" style="justify-content:center">Explore</div>
+        <h2 class="section-title">By category</h2>
+      </div>
       <div class="categories-grid">
         {categories.map(([key, cat]) => (
           <a href={`/categoria/${key}`} class={`cat-card cat-card--${key}`}>
@@ -65,132 +132,107 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
     </div>
   </section>
 
-
   <!-- YouTube CTA -->
   <section class="section">
     <div class="container yt-section">
-      <div class="yt-section__text">
-        <h2>Also on YouTube</h2>
-        <p>Quick money tips in 60 seconds. Daily shorts backed by real numbers.</p>
-        <a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener" class="btn btn--outline">
-          Visit channel
-        </a>
-      </div>
+      <div class="eyebrow" style="justify-content:center">Also on YouTube</div>
+      <h2 class="section-title">Money tips in 60 seconds</h2>
+      <p class="lede" style="margin:14px auto 26px;max-width:520px">
+        Daily shorts backed by real numbers — quick decisions, no fluff.
+      </p>
+      <a href="https://youtube.com/@FinanzasClara-l3w" target="_blank" rel="noopener" class="btn-primary btn--lg">
+        Visit channel &rarr;
+      </a>
     </div>
   </section>
 </BaseLayout>
 
 <style>
-  .hero {
-    background: linear-gradient(135deg, #0A2E1A 0%, #1B3D2E 50%, #0A2E1A 100%);
-    color: white;
-    padding: 5rem 0 4rem;
-  }
-  .hero__inner { max-width: 700px; }
-  .hero__title {
-    font-size: 3rem;
-    font-weight: 800;
-    line-height: 1.15;
-    color: white;
-  }
-  .hero__title span { color: var(--color-primary-light); }
-  .hero__subtitle {
-    font-size: 1.125rem;
-    color: #D1D5DB;
-    margin-top: 1.25rem;
-    line-height: 1.7;
-  }
-  .hero__actions {
-    display: flex;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-  .hero .btn--outline {
-    color: white;
-    border-color: rgba(255,255,255,0.3);
-  }
-  .hero .btn--outline:hover {
-    background: rgba(255,255,255,0.1);
-    color: white;
-  }
-  .section { padding: 4rem 0; }
-  .section--alt { background: #F3F4F6; }
-  .section__header {
-    display: flex;
-    justify-content: space-between;
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1.15fr 1fr;
+    gap: 56px;
     align-items: center;
-    margin-bottom: 2rem;
   }
-  .section__link {
-    font-size: 0.875rem;
+  .hero-text { max-width: 620px; }
+
+  /* Hero visual with floating data cards */
+  .hero-visual {
+    position: relative;
+    border-radius: 22px;
+    overflow: visible;
+  }
+  .hero-visual > img {
+    width: 100%;
+    aspect-ratio: 4/5;
+    object-fit: cover;
+    border-radius: 22px;
+    box-shadow: 0 30px 80px -40px rgba(10, 25, 41, 0.55);
+  }
+  .hero-card {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 14px 18px;
+    box-shadow: var(--shadow-md);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 180px;
+  }
+  .hero-card--top    { top: 8%; left: -28px; }
+  .hero-card--bottom { bottom: 14%; right: -28px; }
+  .hero-card__label {
+    font-size: 11px;
     font-weight: 600;
-    color: var(--color-primary);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-3);
   }
-  .section__heading-center {
-    text-align: center;
-    margin-bottom: 2rem;
+  .hero-card__num {
+    font-family: var(--font-serif);
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1;
+    color: var(--ink-1);
+    letter-spacing: -0.02em;
   }
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
+  .hero-card__num em {
+    font-family: var(--font-mono);
+    font-style: normal;
+    font-weight: 600;
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
   }
-  .categories-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1rem;
-  }
-  .cat-card {
-    display: block;
-    padding: 1.5rem;
-    border-radius: var(--radius);
-    color: white;
-    transition: transform 0.2s, box-shadow 0.2s;
-    text-decoration: none;
-  }
-  .cat-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
-    color: white;
-  }
-  .cat-card h3 { font-size: 1.125rem; margin-bottom: 0.5rem; color: white; }
-  .cat-card p { font-size: 0.8125rem; opacity: 0.9; }
-  
-  
-  
-  
-  
-    .cat-card--savings { background: #2E7D32; }
-  .cat-card--investing { background: #1565C0; }
-  .cat-card--debt { background: #C62828; }
-  .cat-card--budgeting { background: #6A1B9A; }
-  .cat-card--passive-income { background: #E65100; }
-  .newsletter-hero {
-    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
-    color: white;
-  }
-  .newsletter-hero__inner { text-align: center; max-width: 550px; margin: 0 auto; }
-  .newsletter-hero h2 { color: white; font-size: 1.75rem; }
-  .newsletter-hero p { color: #FECACA; margin: 1rem 0 1.5rem; }
-  .newsletter-hero .btn--primary {
-    background: white;
-    color: var(--color-primary);
-  }
-  .newsletter-hero .btn--primary:hover { background: #FFF5F5; }
-  .btn--lg { padding: 0.875rem 2rem; font-size: 1rem; }
+  .hero-card__num--green em { color: var(--green); }
+
+  /* Per-category accent edge */
+  .cat-card--savings        { box-shadow: inset 4px 0 0 var(--green),   var(--shadow-sm); }
+  .cat-card--investing      { box-shadow: inset 4px 0 0 var(--accent),  var(--shadow-sm); }
+  .cat-card--debt           { box-shadow: inset 4px 0 0 var(--red),     var(--shadow-sm); }
+  .cat-card--budgeting      { box-shadow: inset 4px 0 0 #7c3aed,        var(--shadow-sm); }
+  .cat-card--passive-income { box-shadow: inset 4px 0 0 var(--amber),   var(--shadow-sm); }
+
   .yt-section {
     text-align: center;
-    max-width: 550px;
+    max-width: 580px;
     margin: 0 auto;
   }
-  .yt-section p {
-    color: var(--color-text-light);
-    margin: 0.75rem 0 1.5rem;
+
+  @media (max-width: 980px) {
+    .hero-grid { grid-template-columns: 1fr; gap: 40px; }
+    .hero-visual { max-width: 480px; margin: 0 auto; }
+    .hero-card--top    { left: -16px; }
+    .hero-card--bottom { right: -16px; }
   }
   @media (max-width: 600px) {
-    .hero { padding: 3rem 0; }
-    .hero__title { font-size: 2rem; }
-    .hero__actions { flex-direction: column; }
-    .articles-grid { grid-template-columns: 1fr; }
+    .hero__actions { flex-direction: column; align-items: stretch; }
+    .hero__actions .btn-primary,
+    .hero__actions .btn-ghost { width: 100%; justify-content: center; }
+    .hero-card { min-width: 150px; padding: 12px 14px; }
+    .hero-card__num { font-size: 22px; }
   }
 </style>
