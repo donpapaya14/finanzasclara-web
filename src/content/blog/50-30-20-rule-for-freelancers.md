@@ -93,7 +93,7 @@ Here are some concrete action bullets to help you implement the 50/30/20 rule:
 * Consider investing in a retirement account or other investment vehicles.
 * Allocate 30% of your income towards non-essential expenses.
 * Review and adjust your budget regularly to ensure you're on track with your financial goals.
-* Use tools like [NerdWallet's Budgeting Workbook for Freelancers](https://www.amazon.com/NerdWallets-Budgeting-Workbook-Freelancers) to help you manage your finances.
+* Use tools like [NerdWallet's Budgeting Workbook for Freelancers](https://www.amazon.com/NerdWallets-Budgeting-Workbook-Freelancers?tag=vds96-20) to help you manage your finances.
 * Consider complementary products like [Mint](https://www.mint.com) or [Personal Capital](https://www.personalcapital.com) to track your expenses and stay on top of your finances.
 
 

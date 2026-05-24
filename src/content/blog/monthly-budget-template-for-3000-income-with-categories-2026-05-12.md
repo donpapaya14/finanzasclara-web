@@ -119,7 +119,7 @@ For those looking to start their budgeting journey, I suggest starting with smal
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
 - [Tiller Money Budget Spreadsheet Template](https://www.amazon.com/s?k=Tiller+Money+Budget+Spreadsheet+Template&tag=vds96-20)
-- [You Need a Budget (YNAB)](https://www.amazon.com/s?k=You+Need+a+Budget+(YNAB)&tag=vds96-20)
+- [You Need a Budget (YNAB)](https://www.amazon.com/s?k=You+Need+a+Budget+(YNAB&tag=vds96-20)&tag=vds96-20)
 
 
 ---

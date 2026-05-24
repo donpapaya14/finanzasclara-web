@@ -27,7 +27,7 @@ Key features include:
 - Credit score monitoring
 - Bill payment reminders
 
-For beginners, [Mint: The Concise Guide to Getting Started with Mint.com](https://www.amazon.com) provides step-by-step tutorials.
+For beginners, [Mint: The Concise Guide to Getting Started with Mint.com](https://amazon.com/?tag=vds96-20) provides step-by-step tutorials.
 
 ## Step-by-Step Mint Account Setup
 

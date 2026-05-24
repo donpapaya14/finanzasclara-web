@@ -60,7 +60,7 @@ Understanding the **true cost of a loan with fees** is crucial for making inform
 Yes, a **loan calculator** can be used to estimate the true cost of a loan, including the monthly payment and total repayment amount.
 
 ## My Take
-As an app developer and professional chef, I have seen firsthand the importance of understanding the **true cost of a loan with fees**. When I was starting my business, I had to take out a loan to cover expenses. I used a **loan calculator** to estimate the true cost of the loan and made sure to make timely payments to avoid late fees. I also considered using the [NerdWallet Personal Finance Planner](https://www.amazon.com/NerdWallet-Personal-Finance-Planner) to help me stay on track.
+As an app developer and professional chef, I have seen firsthand the importance of understanding the **true cost of a loan with fees**. When I was starting my business, I had to take out a loan to cover expenses. I used a **loan calculator** to estimate the true cost of the loan and made sure to make timely payments to avoid late fees. I also considered using the [NerdWallet Personal Finance Planner](https://www.amazon.com/NerdWallet-Personal-Finance-Planner?tag=vds96-20) to help me stay on track.
 
 
 
@@ -77,8 +77,8 @@ As an app developer and professional chef, I have seen firsthand the importance 
 * Make timely payments to avoid late fees.
 * Choose a loan with a lower APR and fewer fees.
 * Seek professional advice if needed.
-* Use a **personal finance planner**, such as the [NerdWallet Personal Finance Planner](https://www.amazon.com/NerdWallet-Personal-Finance-Planner), to stay on track with your finances.
-* Consider using complementary products, such as [Mint Personal Finance en Amazon](https://www.amazon.com/s?k=Mint+Personal+Finance&tag=vds96-20)(https://www.amazon.com/Mint-Personal-Finance) or [You Need a Budget en Amazon](https://www.amazon.com/s?k=You+Need+a+Budget&tag=vds96-20)(https://www.amazon.com/You-Need-a-Budget),
+* Use a **personal finance planner**, such as the [NerdWallet Personal Finance Planner](https://www.amazon.com/NerdWallet-Personal-Finance-Planner?tag=vds96-20), to stay on track with your finances.
+* Consider using complementary products, such as [Mint Personal Finance en Amazon](https://www.amazon.com/s?k=Mint+Personal+Finance&tag=vds96-20)(https://www.amazon.com/Mint-Personal-Finance?tag=vds96-20) or [You Need a Budget en Amazon](https://www.amazon.com/s?k=You+Need+a+Budget&tag=vds96-20)(https://www.amazon.com/You-Need-a-Budget?tag=vds96-20),
 
 
 ---

@@ -55,7 +55,7 @@ Some tips for building an **emergency fund quickly** include reducing your expen
 You should review and update your **emergency fund** every 6-12 months to ensure it's still aligned with your financial goals. According to [Kiplinger](https://www.kiplinger.com), this can help you stay on track and make adjustments as needed.
 
 ## My Take
-As an app developer and professional chef, I understand the importance of having a financial safety net. In my experience, building an **emergency fund** has given me peace of mind and allowed me to focus on my passions. I recommend using tools like [Personal Capital](https://www.personalcapital.com) to track your expenses and stay on top of your finances. You can also consider using [ YNAB (You Need a Budget) en Amazon](https://www.amazon.com/s?k=+YNAB+(You+Need+a+Budget)&tag=vds96-20)(https://www.amazon.com/You-Need-Budget) or [ The Total Money Makeover en Amazon](https://www.amazon.com/s?k=+The+Total+Money+Makeover&tag=vds96-20)(https://www.amazon.com/Total-Money-Makeover) to help you get started.
+As an app developer and professional chef, I understand the importance of having a financial safety net. In my experience, building an **emergency fund** has given me peace of mind and allowed me to focus on my passions. I recommend using tools like [Personal Capital](https://www.personalcapital.com) to track your expenses and stay on top of your finances. You can also consider using [ YNAB (You Need a Budget) en Amazon](https://www.amazon.com/s?k=+YNAB+(You+Need+a+Budget&tag=vds96-20)&tag=vds96-20)(https://www.amazon.com/You-Need-Budget?tag=vds96-20) or [ The Total Money Makeover en Amazon](https://www.amazon.com/s?k=+The+Total+Money+Makeover&tag=vds96-20)(https://www.amazon.com/Total-Money-Makeover?tag=vds96-20) to help you get started.
 
 
 
@@ -72,7 +72,7 @@ As an app developer and professional chef, I understand the importance of having
 - Consider using tools like [Personal Capital](https://www.personalcapital.com) or [Mint](https://www.mint.com) to track your expenses and stay on top of your finances
 - Review and update your emergency fund every 6-12 months to ensure it's still aligned with your financial goals
 - Use a savings app like [Qapital](https://www.qapital.com) or [Digit](https://www.digit.co) to automate your emergency fund savings
-- Consider using [ YNAB (You Need a Budget) en Amazon](https://www.amazon.com/s?k=+YNAB+(You+Need+a+Budget)&tag=vds96-20)(https://www.amazon.com/You-Need-Budget) or [ The Total Money Makeover en Amazon](https://www.amazon.com/s?k=+The+Total+Money+Makeover&tag=vds96-20)(https://www.amazon.com/Total-Money-Makeover) to help you get started
+- Consider using [ YNAB (You Need a Budget) en Amazon](https://www.amazon.com/s?k=+YNAB+(You+Need+a+Budget&tag=vds96-20)&tag=vds96-20)(https://www.amazon.com/You-Need-Budget?tag=vds96-20) or [ The Total Money Makeover en Amazon](https://www.amazon.com/s?k=+The+Total+Money+Makeover&tag=vds96-20)(https://www.amazon.com/Total-Money-Makeover?tag=vds96-20) to help you get started
 - Reduce your expenses, increase your income, and avoid debt to build your emergency fund quickly
 - Use a budgeting app like [You Need a Budget (YNAB)](https://www.youneedabudget.com) to track your expenses and stay on top of your finances
 

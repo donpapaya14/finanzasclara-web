@@ -91,7 +91,7 @@ At 18% APR, pay **$500/month** ($10,000 principal + $1,100 interest). Use the [F
 
 ## My Take
 
-As someone who paid off **$8,000 in credit card debt** while bootstrapping my app development business, I learned that **automation is key**. I set up biweekly transfers matching my freelance income spikes—$200 here, $500 there—while using [ YNAB (You Need A Budget) en Amazon](https://www.amazon.com/s?k=+YNAB+(You+Need+A+Budget)&tag=vds96-20) to track spending. The psychological shift from "I’ll pay it later" to **"every dollar has a job"** was transformative. 
+As someone who paid off **$8,000 in credit card debt** while bootstrapping my app development business, I learned that **automation is key**. I set up biweekly transfers matching my freelance income spikes—$200 here, $500 there—while using [ YNAB (You Need A Budget) en Amazon](https://www.amazon.com/s?k=+YNAB+(You+Need+A+Budget&tag=vds96-20)&tag=vds96-20) to track spending. The psychological shift from "I’ll pay it later" to **"every dollar has a job"** was transformative. 
 
 One hack? I **cooked all meals** using budget-friendly ingredients like lentils and frozen veggies, saving $300/month. Debt freedom isn’t about deprivation—it’s about **redirecting resources to what truly matters**.
 

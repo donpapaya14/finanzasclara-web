@@ -90,7 +90,7 @@ As an app developer and professional chef, I have seen firsthand the impact of d
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [The Credit Karma Money Guide: Take Control of Your Finances (Book)](https://www.amazon.com/s?k=The+Credit+Karma+Money+Guide:+Take+Control+of+Your+Finances+(Book)&tag=vds96-20)
+- [The Credit Karma Money Guide: Take Control of Your Finances (Book)](https://www.amazon.com/s?k=The+Credit+Karma+Money+Guide:+Take+Control+of+Your+Finances+(Book&tag=vds96-20)&tag=vds96-20)
 - [Debt Relief: A Step-by-Step Guide to Getting Out of Debt](https://www.amazon.com/s?k=Debt+Relief:+A+Step-by-Step+Guide+to+Getting+Out+of+Debt&tag=vds96-20)
 
 

@@ -64,7 +64,7 @@ Follow these steps: **select a niche**, **create a premium product**, and **mark
 Use **price anchoring** and **price tiering** to maximize revenue and increase user engagement.
 
 ## My Take
-As an app developer and professional chef, I have seen firsthand the potential for mobile apps to generate significant passive income. In my experience, **in-app purchases** are the most effective way to monetize a mobile app, and **targeted marketing** is key to reaching your target audience. I recommend checking out [Mobile App Development: Made Easy](https://www.amazon.com/Mobile-App-Development-Made-Easy) for more information on creating a successful mobile app.
+As an app developer and professional chef, I have seen firsthand the potential for mobile apps to generate significant passive income. In my experience, **in-app purchases** are the most effective way to monetize a mobile app, and **targeted marketing** is key to reaching your target audience. I recommend checking out [Mobile App Development: Made Easy](https://www.amazon.com/Mobile-App-Development-Made-Easy?tag=vds96-20) for more information on creating a successful mobile app.
 
 
 
@@ -82,7 +82,7 @@ Here are the key takeaways from this article:
 * Develop a **premium product** that offers significant value to users and use **targeted marketing** to reach your target audience.
 * Follow these steps to create a high-ticket in-app purchase model: **select a niche**, **create a premium product**, and **market effectively**.
 * Use **price anchoring** and **price tiering** to maximize revenue and increase user engagement.
-* Check out [Mobile App Development: Made Easy](https://www.amazon.com/Mobile-App-Development-Made-Easy) for more information on creating a successful mobile app.
+* Check out [Mobile App Development: Made Easy](https://www.amazon.com/Mobile-App-Development-Made-Easy?tag=vds96-20) for more information on creating a successful mobile app.
 
 
 ---

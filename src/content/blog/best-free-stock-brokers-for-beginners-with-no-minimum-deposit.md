@@ -80,7 +80,7 @@ As an app developer and professional chef, I've learned the importance of **dive
 
 In my personal experience, I've found that **Fidelity's research capabilities** are invaluable for long-term investors. I also appreciate the **banking integration** offered by SoFi, which makes it easy to manage my finances in one place.
 
-For those looking to learn more about investing, I recommend reading [The Bogleheads' Guide to Investing](https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore/dp/0470919019) and exploring other resources on [Amazon](https://www.amazon.com/), such as [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Rev-Updated/dp/0060555661).
+For those looking to learn more about investing, I recommend reading [The Bogleheads' Guide to Investing](https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore/dp/0470919019?tag=vds96-20) and exploring other resources on [Amazon](https://www.amazon.com/?tag=vds96-20), such as [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384?tag=vds96-20) and [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Rev-Updated/dp/0060555661?tag=vds96-20).
 
 
 
@@ -98,8 +98,8 @@ Here are some concrete action bullets to get you started:
 * Start with a **robo-advisor** and gradually move to more advanced investing strategies.
 * **Diversify** your portfolio across different asset classes and industries.
 * Take advantage of **educational resources** offered by brokers and online platforms.
-* Read books like [The Bogleheads' Guide to Investing](https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore/dp/0470919019) to learn more about investing.
-* Explore other resources on [Amazon](https://www.amazon.com/) to continue your investing education.
+* Read books like [The Bogleheads' Guide to Investing](https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore/dp/0470919019?tag=vds96-20) to learn more about investing.
+* Explore other resources on [Amazon](https://www.amazon.com/?tag=vds96-20) to continue your investing education.
 * Consult the [SEC's Investor.gov](https://www.investor.gov/) website for more information on investing and brokers.
 
 

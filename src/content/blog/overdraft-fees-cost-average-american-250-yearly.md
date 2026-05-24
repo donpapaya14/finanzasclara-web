@@ -56,7 +56,7 @@ The metabolic switch from glucose to ketones occurs between **12-16 hours** acco
 ### What is the average overdraft fee 2024?
 As of 2024, the average overdraft fee is around **$35**, according to the [CFPB](https://www.consumerfinance.gov/).
 ### How to opt out of overdraft protection?
-To opt out, you can typically call your bank's customer service or visit their website. You can also use [Sharpie S-Note Creative Markers Highlighters](https://www.amazon.com/Sharpie-S-Note-Creative-Markers-Highlighters) to physically mark opt-out forms for clarity.
+To opt out, you can typically call your bank's customer service or visit their website. You can also use [Sharpie S-Note Creative Markers Highlighters](https://www.amazon.com/Sharpie-S-Note-Creative-Markers-Highlighters?tag=vds96-20) to physically mark opt-out forms for clarity.
 ### What are the best no-fee checking accounts?
 Some of the best no-fee checking accounts include those offered by Ally Bank and Discover Bank, with **$0** minimum balance requirements.
 ### Can I recover overdraft fees?
@@ -65,8 +65,8 @@ Yes, you can try to recover overdraft fees by calling your bank within **72 hour
 A bank fee calculator can help you estimate your potential overdraft fees based on your account activity and bank's fee structure. You can find these calculators on your bank's website or through online banking tools.
 
 ## My Take
-As an app developer and professional chef, I've seen firsthand how overdraft fees can impact individuals and families. By understanding the math behind these fees and taking proactive steps to manage them, we can all work towards financial stability. One of my favorite tools for staying organized is the [Sharpie S-Note Creative Markers Highlighters](https://www.amazon.com/Sharpie-S-Note-Creative-Markers-Highlighters), which I use to mark important documents and reminders.
-I also recommend considering complementary products like [AmazonBasics Highlighter Pens](https://www.amazon.com/AmazonBasics-Highlighter-Pens) for additional organization tools.
+As an app developer and professional chef, I've seen firsthand how overdraft fees can impact individuals and families. By understanding the math behind these fees and taking proactive steps to manage them, we can all work towards financial stability. One of my favorite tools for staying organized is the [Sharpie S-Note Creative Markers Highlighters](https://www.amazon.com/Sharpie-S-Note-Creative-Markers-Highlighters?tag=vds96-20), which I use to mark important documents and reminders.
+I also recommend considering complementary products like [AmazonBasics Highlighter Pens](https://www.amazon.com/AmazonBasics-Highlighter-Pens?tag=vds96-20) for additional organization tools.
 In conclusion, managing overdraft fees requires a combination of awareness, planning, and the right tools. By following these steps and staying informed, we can all work towards a more financially secure future.
 
 
@@ -85,7 +85,7 @@ Here are some concrete steps to take away:
 * Decide whether to opt out of overdraft protection or link to savings based on your financial situation.
 * Consider switching to a bank with **$0 overdraft fees**.
 * Use a bank fee calculator to estimate your potential overdraft fees.
-* Keep track of your account activity and mark important documents with [Sharpie S-Note Creative Markers Highlighters](https://www.amazon.com/Sharpie-S-Note-Creative-Markers-Highlighters).
+* Keep track of your account activity and mark important documents with [Sharpie S-Note Creative Markers Highlighters](https://www.amazon.com/Sharpie-S-Note-Creative-Markers-Highlighters?tag=vds96-20).
 * Call your bank within **72 hours** to request a refund for recent overdraft fees.
 
 

@@ -64,7 +64,7 @@ To avoid credit card debt in the future, you should create a budget that priorit
 There are several resources available to help you pay off credit card debt, including budgeting apps, debt repayment calculators, and credit counseling services.
 
 ## My Take
-As an app developer and professional chef, I understand the importance of managing finances and creating a budget that prioritizes debt repayment. In my own experience, I have found that using a debt repayment strategy, such as the Debt Snowball or Debt Avalanche method, can be effective in paying off credit card debt. I also recommend reading [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Financial/dp/0785289697) by Dave Ramsey, which provides a comprehensive guide to managing finances and paying off debt.
+As an app developer and professional chef, I understand the importance of managing finances and creating a budget that prioritizes debt repayment. In my own experience, I have found that using a debt repayment strategy, such as the Debt Snowball or Debt Avalanche method, can be effective in paying off credit card debt. I also recommend reading [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Financial/dp/0785289697?tag=vds96-20) by Dave Ramsey, which provides a comprehensive guide to managing finances and paying off debt.
 
 
 
@@ -82,7 +82,7 @@ To pay off a $10,000 credit card balance in 3 years, follow these steps:
 * Use a debt repayment strategy, such as the Debt Snowball or Debt Avalanche method
 * Avoid credit card balance transfer fees and debt consolidation scams
 * Track your progress using budgeting apps or spreadsheets
-* Consider reading [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Plan-Financial/dp/0785289697) for a comprehensive guide to managing finances and paying off debt
+* Consider reading [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Plan-Financial/dp/0785289697?tag=vds96-20) for a comprehensive guide to managing finances and paying off debt
 * Use a debt repayment calculator, such as the one offered by [NerdWallet](https://www.nerdwallet.com/), to determine the best strategy for your situation
 * Consider using a budgeting app, such as [Mint](https://www.mint.com/), to track your expenses and stay on top of your debt repayment plan
 

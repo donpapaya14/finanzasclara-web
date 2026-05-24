@@ -74,7 +74,7 @@ To stay motivated during the debt repayment process, consider the following tips
 
 ## My Take
 As an app developer and professional chef, I understand the importance of effective debt management. In my personal experience, using the **avalanche method** has saved me thousands of dollars in interest payments. However, I also appreciate the benefits of the **snowball method**, particularly the sense of accomplishment that comes with paying off smaller debts. I recommend considering both methods and choosing the one that works best for your individual financial situation.
-In addition to using a debt repayment strategy, I also recommend reading books such as [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/Total-Money-Makeover/dp/1592570398) and [ Your Money or Your Life en Amazon](https://www.amazon.com/s?k=+Your+Money+or+Your+Life&tag=vds96-20)(https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766).
+In addition to using a debt repayment strategy, I also recommend reading books such as [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/Total-Money-Makeover/dp/1592570398?tag=vds96-20) and [ Your Money or Your Life en Amazon](https://www.amazon.com/s?k=+Your+Money+or+Your+Life&tag=vds96-20)(https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766?tag=vds96-20).
 Ultimately, the key to successful debt repayment is to stay motivated and committed to your goals.
 
 
@@ -92,7 +92,7 @@ To get started with **debt repayment strategies**, follow these concrete action 
 * Consider using a combination of both methods.
 * Look into **debt consolidation** options.
 * Stay motivated by celebrating small wins and setting clear financial goals.
-* Read books such as [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/Total-Money-Makeover/dp/1592570398) for additional guidance and support.
+* Read books such as [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/Total-Money-Makeover/dp/1592570398?tag=vds96-20) for additional guidance and support.
 
 
 ---

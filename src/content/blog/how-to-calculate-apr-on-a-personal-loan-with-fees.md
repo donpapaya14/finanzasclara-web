@@ -85,7 +85,7 @@ To calculate APR on a personal loan and make informed decisions, follow these st
 * Identify all fees associated with the loan
 * Calculate the total amount paid over the life of the loan
 * Use the APR formula to determine the true cost of borrowing
-* Consider using a financial calculator, such as the [Texas Instruments BA II Plus Financial Calculator](https://www.amazon.com/Texas-Instruments-BA-II-Plus), to simplify calculations
+* Consider using a financial calculator, such as the [Texas Instruments BA II Plus Financial Calculator](https://www.amazon.com/Texas-Instruments-BA-II-Plus?tag=vds96-20), to simplify calculations
 * Carefully review loan terms and compare rates from multiple lenders
 * Negotiate the APR with the lender if possible
 * Use online tools and consult with financial experts to ensure you're making an informed decision

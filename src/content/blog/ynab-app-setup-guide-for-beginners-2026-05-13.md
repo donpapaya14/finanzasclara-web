@@ -67,7 +67,7 @@ For more information, refer to the [YNAB official YouTube tutorials](https://www
 Yes, YNAB can be used on mobile devices by downloading the YNAB mobile app. According to the YNAB official mobile app documentation, the app offers features such as remote access, mobile banking integration, and mobile-specific budgeting tools.
 
 ## My Take
-As an app developer and professional chef, I have found YNAB to be an invaluable tool for managing my finances. By using YNAB, I have been able to reduce my financial stress and achieve a more stable financial situation. I recommend using [YNAB for Windows (Software)](https://www.amazon.com/YNAB-For-Windows-Software) and [Personal Capital](https://www.amazon.com/Personal-Capital-Personal-Finance-Software) for a comprehensive view of your finances.
+As an app developer and professional chef, I have found YNAB to be an invaluable tool for managing my finances. By using YNAB, I have been able to reduce my financial stress and achieve a more stable financial situation. I recommend using [YNAB for Windows (Software)](https://www.amazon.com/YNAB-For-Windows-Software?tag=vds96-20) and [Personal Capital](https://www.amazon.com/Personal-Capital-Personal-Finance-Software?tag=vds96-20) for a comprehensive view of your finances.
 
 
 

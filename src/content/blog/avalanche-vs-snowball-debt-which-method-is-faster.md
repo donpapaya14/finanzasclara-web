@@ -67,7 +67,7 @@ Yes, you can use a hybrid approach to pay off your debt. This involves combining
 The time it takes to pay off your debt will depend on the amount of debt you have, the interest rates on your debts, and the amount you can afford to pay each month. According to a [Bankrate study](https://www.bankrate.com/), the average American takes 5-7 years to pay off their debt.
 
 ### What are some additional resources for debt repayment?
-For additional resources on debt repayment, consider checking out [Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Financial/dp/1592575638) by Dave Ramsey, as well as [The Debt Snowball Workbook](https://www.amazon.com/Debt-Snowball-Workbook-Dave-Ramsey/dp/1592575646) and [The Automatic Millionaire](https://www.amazon.com/Automatic-Millionaire-Transforming-Wealth/dp/0767914224).
+For additional resources on debt repayment, consider checking out [Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Financial/dp/1592575638?tag=vds96-20) by Dave Ramsey, as well as [The Debt Snowball Workbook](https://www.amazon.com/Debt-Snowball-Workbook-Dave-Ramsey/dp/1592575646?tag=vds96-20) and [The Automatic Millionaire](https://www.amazon.com/Automatic-Millionaire-Transforming-Wealth/dp/0767914224?tag=vds96-20).
 
 ## My Take
 As someone who has struggled with debt in the past, I can attest to the importance of finding a debt repayment method that works for you. For me, the avalanche method was the most effective way to pay off my debt, as it allowed me to save money on interest payments and pay off my debt faster. However, I also understand the psychological benefits of the snowball method, and I think it's a great option for those who need quick wins to stay motivated.
@@ -91,7 +91,7 @@ Here are some concrete steps you can take to start paying off your debt:
 * Consider using a hybrid approach that combines elements of both the snowball and avalanche methods
 * Make consistent payments each month and avoid missing payments
 * Use a debt repayment calculator or consult with a financial advisor to determine the best course of action
-* Take advantage of additional resources, such as [Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Financial/dp/1592575638) and [The Debt Snowball Workbook](https://www.amazon.com/Debt-Snowball-Workbook-Dave-Ramsey/dp/1592575646)
+* Take advantage of additional resources, such as [Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/Total-Money-Makeover-Proven-Financial/dp/1592575638?tag=vds96-20) and [The Debt Snowball Workbook](https://www.amazon.com/Debt-Snowball-Workbook-Dave-Ramsey/dp/1592575646?tag=vds96-20)
 * Stay motivated by celebrating your progress and reminding yourself of your goals
 * Consider automating your payments to make it easier to stick to your plan
 * Review and adjust your budget regularly to ensure you're on track to pay off your debt

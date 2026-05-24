@@ -80,14 +80,14 @@ To calculate the total cost of a car loan, you need to consider the purchase pri
 Prepayment penalties are fees charged by lenders when a borrower pays off their loan early. To avoid them, review your contract carefully before signing and consider negotiating their removal.
 
 ### How can I use a TI-84 Plus CE Graphing Calculator for manual amortization calculations?
-The [TI-84 Plus CE Graphing Calculator](https://www.amazon.com/TI-84-Plus-CE-Graphing-Calculator) can be used to create an amortization schedule. By inputting the loan amount, interest rate, and loan term, you can calculate the monthly payments and total interest paid.
+The [TI-84 Plus CE Graphing Calculator](https://www.amazon.com/TI-84-Plus-CE-Graphing-Calculator?tag=vds96-20) can be used to create an amortization schedule. By inputting the loan amount, interest rate, and loan term, you can calculate the monthly payments and total interest paid.
 
 ## My Take
 As an app developer and professional chef, I've learned the importance of understanding the true cost of things. Whether it's the cost of ingredients for a new dish or the cost of a car loan, having all the facts is crucial for making informed decisions. My experience with car loans has taught me to always read the fine print and to negotiate terms whenever possible.
 
 In my personal life, I've seen how understanding the true cost of a car loan can save thousands of dollars over the life of the loan. It's not just about the monthly payment; it's about the total cost of ownership. By being aware of the hidden fees and understanding how interest works, borrowers can make smarter financial decisions.
 
-For those looking to calculate their car loan costs manually, I recommend using a [TI-84 Plus CE Graphing Calculator](https://www.amazon.com/TI-84-Plus-CE-Graphing-Calculator) or a complementary tool like [ Texas Instruments BA II Plus Professional Financial Calculator en Amazon](https://www.amazon.com/s?k=+Texas+Instruments+BA+II+Plus+Professional+Financial+Calculator&tag=vds96-20)(https://www.amazon.com/Texas-Instruments-BA-II-Plus-Professional) for more complex financial calculations.
+For those looking to calculate their car loan costs manually, I recommend using a [TI-84 Plus CE Graphing Calculator](https://www.amazon.com/TI-84-Plus-CE-Graphing-Calculator?tag=vds96-20) or a complementary tool like [ Texas Instruments BA II Plus Professional Financial Calculator en Amazon](https://www.amazon.com/s?k=+Texas+Instruments+BA+II+Plus+Professional+Financial+Calculator&tag=vds96-20)(https://www.amazon.com/Texas-Instruments-BA-II-Plus-Professional?tag=vds96-20) for more complex financial calculations.
 
 
 

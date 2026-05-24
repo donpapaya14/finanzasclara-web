@@ -72,7 +72,7 @@ To maximize the benefits of compound interest, consider investing for the long t
 ## My Take
 As an app developer and professional chef, I have always been fascinated by the power of compound interest. In my personal experience, I have seen how it can help build wealth over time. For example, I invested $10,000 in a low-fee index fund 10 years ago, and it has grown to over $20,000 today. I believe that compound interest is a powerful tool that can help anyone achieve their financial goals, regardless of their background or experience.
 In my opinion, the key to maximizing the benefits of compound interest is to start early and be consistent with your investments. It is also important to take advantage of dollar-cost averaging and minimize expense ratios. By following these principles, you can harness the power of compound interest and build wealth over time.
-I recommend reading [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101) to learn more about the power of compound interest and how to maximize its benefits. Additionally, you can consider investing in [Vanguard Total Stock Market Index Fund](https://www.amazon.com/Vanguard-Total-Stock-Market-Index/dp/B076MX9V3R) or [Fidelity 500 Index Fund](https://www.amazon.com/Fidelity-500-Index-Fund/dp/B076MX9V3S) to take advantage of low-fee index funds.
+I recommend reading [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101?tag=vds96-20) to learn more about the power of compound interest and how to maximize its benefits. Additionally, you can consider investing in [Vanguard Total Stock Market Index Fund](https://www.amazon.com/Vanguard-Total-Stock-Market-Index/dp/B076MX9V3R?tag=vds96-20) or [Fidelity 500 Index Fund](https://www.amazon.com/Fidelity-500-Index-Fund/dp/B076MX9V3S?tag=vds96-20) to take advantage of low-fee index funds.
 
 
 
@@ -85,13 +85,13 @@ I recommend reading [The Little Book of Common Sense Investing by John Bogle](ht
 
 ## Practical Summary
 To get started with compound interest, follow these steps:
-* Invest $10,000 in a low-fee index fund, such as [Vanguard Total Stock Market Index Fund](https://www.amazon.com/Vanguard-Total-Stock-Market-Index/dp/B076MX9V3R)
+* Invest $10,000 in a low-fee index fund, such as [Vanguard Total Stock Market Index Fund](https://www.amazon.com/Vanguard-Total-Stock-Market-Index/dp/B076MX9V3R?tag=vds96-20)
 * Set up automatic reinvestment in your brokerage account to take advantage of dollar-cost averaging
 * Consider investing in a [Dividend Reinvestment Plan (DRIP)](https://www.investor.gov) to accelerate growth
 * Start early and be consistent with your investments to maximize the benefits of compound interest
 * Minimize expense ratios by investing in low-fee index funds
 * Take advantage of compound interest by reinvesting dividends and interest
-* Consider reading [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101) to learn more about the power of compound interest
+* Consider reading [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101?tag=vds96-20) to learn more about the power of compound interest
 * Utilize online resources, such as the [SEC Compound Interest Calculator](https://www.sec.gov) or the [Investor.gov Compound Interest Calculator](https://www.investor.gov), to calculate and track your investments
 
 

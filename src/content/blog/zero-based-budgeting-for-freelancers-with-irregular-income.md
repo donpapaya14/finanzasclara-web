@@ -75,7 +75,7 @@ As an app developer and professional chef, I understand the importance of managi
 
 In my experience, the key to successful zero-based budgeting is to track your income and expenses regularly. This helps you identify areas where you can cut back on unnecessary expenses and allocate funds towards more important goals. I also recommend using a budgeting app or spreadsheet template to help you automate your budgeting and stay on track.
 
-If you're a freelancer looking to manage your finances more effectively, I highly recommend checking out [The Freelancer's Budget Planner: Financial Organizer for Variable Income](https://www.amazon.com). This planner provides a comprehensive framework for tracking your income and expenses, setting financial goals, and allocating funds accordingly. Additionally, you may want to consider [Personal Capital](https://www.personalcapital.com) for investment tracking and [Mint](https://www.mint.com) for bill tracking.
+If you're a freelancer looking to manage your finances more effectively, I highly recommend checking out [The Freelancer's Budget Planner: Financial Organizer for Variable Income](https://amazon.com/?tag=vds96-20). This planner provides a comprehensive framework for tracking your income and expenses, setting financial goals, and allocating funds accordingly. Additionally, you may want to consider [Personal Capital](https://www.personalcapital.com) for investment tracking and [Mint](https://www.mint.com) for bill tracking.
 
 
 
@@ -93,7 +93,7 @@ Here are some concrete steps you can take to implement zero-based budgeting for 
 * Allocate surplus income using the 50/30/20 rule
 * Use a budgeting app or spreadsheet template to automate your budgeting
 * Track your income and expenses regularly to identify areas for improvement
-* Consider using [The Freelancer's Budget Planner: Financial Organizer for Variable Income](https://www.amazon.com) to help you stay on track
+* Consider using [The Freelancer's Budget Planner: Financial Organizer for Variable Income](https://amazon.com/?tag=vds96-20) to help you stay on track
 * Explore complementary tools like [Personal Capital](https://www.personalcapital.com) and [Mint](https://www.mint.com) to enhance your financial management
 
 

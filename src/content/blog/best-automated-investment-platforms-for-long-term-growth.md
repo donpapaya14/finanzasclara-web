@@ -70,7 +70,7 @@ To get started, follow these steps:
 Yes, many automated investment platforms are suitable for **beginners**, offering **low minimum investment requirements** and **easy-to-use interfaces**. As reported by [The Balance](https://www.thebalance.com), these platforms can help beginners get started with investing and achieve their financial goals.
 
 ## My Take
-As an app developer and professional chef, I have always been interested in **automated investment platforms**. In my experience, these platforms offer a **convenient** and **cost-effective** way to invest in the stock market. I have used several platforms, including Betterment and Wealthfront, and have been impressed with their **ease of use** and **performance**. For those just starting out, I recommend checking out [Robo Advisor for Dummies: A Beginner's Guide to Investing in the 21st Century](https://www.amazon.com/Robo-Advisor-Dummies-Investing-Century/dp/1119544308) and [Investing For Dummies](https://www.amazon.com/Investing-Dummies-Eric-Tyson/dp/1119544286).
+As an app developer and professional chef, I have always been interested in **automated investment platforms**. In my experience, these platforms offer a **convenient** and **cost-effective** way to invest in the stock market. I have used several platforms, including Betterment and Wealthfront, and have been impressed with their **ease of use** and **performance**. For those just starting out, I recommend checking out [Robo Advisor for Dummies: A Beginner's Guide to Investing in the 21st Century](https://www.amazon.com/Robo-Advisor-Dummies-Investing-Century/dp/1119544308?tag=vds96-20) and [Investing For Dummies](https://www.amazon.com/Investing-Dummies-Eric-Tyson/dp/1119544286?tag=vds96-20).
 
 
 

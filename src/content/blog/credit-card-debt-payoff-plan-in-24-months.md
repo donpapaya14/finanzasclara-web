@@ -99,7 +99,7 @@ To create an effective **credit card debt payoff plan**, follow these steps:
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
 - [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&tag=vds96-20)
-- [You Need a Budget (YNAB)](https://www.amazon.com/s?k=You+Need+a+Budget+(YNAB)&tag=vds96-20)
+- [You Need a Budget (YNAB)](https://www.amazon.com/s?k=You+Need+a+Budget+(YNAB&tag=vds96-20)&tag=vds96-20)
 
 
 ---

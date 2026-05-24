@@ -70,7 +70,7 @@ You should review your zero-based budget **regularly**, ideally **monthly** or *
 Common mistakes to avoid in zero-based budgeting include **not tracking expenses**, **not regularly reviewing and adjusting the budget**, and **not prioritizing needs over wants**. As Investopedia notes, **avoiding these mistakes** can help you **achieve success with zero-based budgeting**.
 
 ## My Take
-As an app developer and professional chef, I've seen firsthand the importance of budgeting in achieving financial stability. When I implemented zero-based budgeting in my own life, I was able to **reduce my expenses by 20%** and increase my savings by **25%**. I recommend using tools like You Need a Budget (YNAB) and Mint to aid in implementing and maintaining a zero-based budget. Additionally, reading [You Need a Budget (YNAB) Book](https://www.amazon.com/You-Need-Budget-YNAB/dp/0307338424) can provide valuable insights and guidance on budgeting.
+As an app developer and professional chef, I've seen firsthand the importance of budgeting in achieving financial stability. When I implemented zero-based budgeting in my own life, I was able to **reduce my expenses by 20%** and increase my savings by **25%**. I recommend using tools like You Need a Budget (YNAB) and Mint to aid in implementing and maintaining a zero-based budget. Additionally, reading [You Need a Budget (YNAB) Book](https://www.amazon.com/You-Need-Budget-YNAB/dp/0307338424?tag=vds96-20) can provide valuable insights and guidance on budgeting.
 
 
 
@@ -89,8 +89,8 @@ To get started with zero-based budgeting, follow these concrete action bullets:
 * Use tools like You Need a Budget (YNAB) and Mint to aid in implementing and maintaining a zero-based budget
 * Allocate at least **10%** of your income towards retirement accounts
 * Focus on paying off high-interest debts first
-* Read [You Need a Budget (YNAB) Book](https://www.amazon.com/You-Need-Budget-YNAB/dp/0307338424) for valuable insights and guidance on budgeting
-* Consider using [ The Total Money Makeover en Amazon](https://www.amazon.com/s?k=+The+Total+Money+Makeover&tag=vds96-20)(https://www.amazon.com/Total-Money-Makeover-Classic/dp/1937075671) and [ The Automatic Millionaire en Amazon](https://www.amazon.com/s?k=+The+Automatic+Millionaire&tag=vds96-20)(https://www.amazon.com/Automatic-Millionaire-Explosively-Wealthy/dp/0767920038) for additional guidance on budgeting and financial planning
+* Read [You Need a Budget (YNAB) Book](https://www.amazon.com/You-Need-Budget-YNAB/dp/0307338424?tag=vds96-20) for valuable insights and guidance on budgeting
+* Consider using [ The Total Money Makeover en Amazon](https://www.amazon.com/s?k=+The+Total+Money+Makeover&tag=vds96-20)(https://www.amazon.com/Total-Money-Makeover-Classic/dp/1937075671?tag=vds96-20) and [ The Automatic Millionaire en Amazon](https://www.amazon.com/s?k=+The+Automatic+Millionaire&tag=vds96-20)(https://www.amazon.com/Automatic-Millionaire-Explosively-Wealthy/dp/0767920038?tag=vds96-20) for additional guidance on budgeting and financial planning
    
 
 

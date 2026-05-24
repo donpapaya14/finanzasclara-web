@@ -75,7 +75,7 @@ As an app developer and professional chef, I've learned the importance of patien
 
 In my culinary career, I've seen how a well-planned menu can lead to a successful dining experience. Similarly, in dividend investing, a well-planned portfolio can lead to long-term financial success. I recommend starting with established companies and gradually expanding your portfolio as you become more comfortable with the process.
 
-For those interested in learning more about dividend investing, I recommend reading [The Little Book of Common Sense Investing by John C. Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X) and exploring complementary resources like [A Random Walk Down Wall Street by Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393340748).
+For those interested in learning more about dividend investing, I recommend reading [The Little Book of Common Sense Investing by John C. Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X?tag=vds96-20) and exploring complementary resources like [A Random Walk Down Wall Street by Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393340748?tag=vds96-20).
 
 
 

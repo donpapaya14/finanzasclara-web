@@ -95,7 +95,7 @@ As an app developer and professional chef, I understand the importance of saving
 * Track your progress regularly and celebrate milestones.
 * Share your goals with a friend or family member to increase accountability.
 * Use a savings app, such as [You Need a Budget (YNAB)](https://www.youneedabudget.com), to track your progress and stay on top of your finances.
-* Consider using [ You Need a Budget (YNAB) book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB)+book&tag=vds96-20)(https://www.amazon.com) to learn more about budgeting and saving money.
+* Consider using [ You Need a Budget (YNAB) book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB&tag=vds96-20)+book&tag=vds96-20)(https://www.amazon.com) to learn more about budgeting and saving money.
 * Stay motivated and focused on your savings goals to achieve success with the **52-week savings challenge for beginners**.
 
 

@@ -47,7 +47,7 @@ To create a budget plan, follow these steps:
 2. Allocate 50% for essential expenses
 3. Allocate 30% for discretionary spending
 4. Allocate 20% for savings
-According to [Personal finance expert, David Bach's 'The Automatic Millionaire' book (2004)](https://www.amazon.com/Automatic-Millionaire-Explosively-Achieve-Wealth/dp/0767920026), automating your finances can help you stick to your budget plan.
+According to [Personal finance expert, David Bach's 'The Automatic Millionaire' book (2004)](https://www.amazon.com/Automatic-Millionaire-Explosively-Achieve-Wealth/dp/0767920026?tag=vds96-20), automating your finances can help you stick to your budget plan.
 
 ## Tracking Expenses and Adjusting the Budget
 Tracking expenses is crucial for identifying areas for improvement. According to [Mint's budgeting and expense tracking features](https://www.mint.com/), you can use the **Mint Personal Finance App** to track your expenses and adjust your budget plan as needed.

@@ -80,7 +80,7 @@ As an app developer and professional chef, I have always been interested in inve
 
 I also appreciate the transparency and liquidity of REITs, as they are required to disclose their financial information and can be easily bought and sold on major stock exchanges. Additionally, REITs offer a range of benefits, including the potential for long-term growth and the ability to invest in a variety of sectors and asset types.
 
-In conclusion, investing in REITs can be a great way to generate income and diversify a portfolio. With the rise of fractional shares, it is now more accessible than ever to invest in real estate. I would recommend reading [The Intelligent REIT Investor by Stephanie Krewson-Kelly](https://www.amazon.com/) to learn more about REITs and how to get started with investing in them. You can also check out [Real Estate Investing For Dummies](https://www.amazon.com/) and [The Real Estate Wholesaling Bible](https://www.amazon.com/) for more information on real estate investing.
+In conclusion, investing in REITs can be a great way to generate income and diversify a portfolio. With the rise of fractional shares, it is now more accessible than ever to invest in real estate. I would recommend reading [The Intelligent REIT Investor by Stephanie Krewson-Kelly](https://www.amazon.com/?tag=vds96-20) to learn more about REITs and how to get started with investing in them. You can also check out [Real Estate Investing For Dummies](https://www.amazon.com/?tag=vds96-20) and [The Real Estate Wholesaling Bible](https://www.amazon.com/?tag=vds96-20) for more information on real estate investing.
 
 
 
@@ -97,8 +97,8 @@ In conclusion, investing in REITs can be a great way to generate income and dive
 * Research and select a REIT or REIT ETF that aligns with your investment goals
 * Consider the risks associated with investing in REITs, including interest rate sensitivity and sector-specific risks
 * Take advantage of the transparency and liquidity of REITs
-* Read [The Intelligent REIT Investor by Stephanie Krewson-Kelly](https://www.amazon.com/) to learn more about REITs and how to get started with investing in them
-* Check out [Real Estate Investing For Dummies](https://www.amazon.com/) and [The Real Estate Wholesaling Bible](https://www.amazon.com/) for more information on real estate investing
+* Read [The Intelligent REIT Investor by Stephanie Krewson-Kelly](https://www.amazon.com/?tag=vds96-20) to learn more about REITs and how to get started with investing in them
+* Check out [Real Estate Investing For Dummies](https://www.amazon.com/?tag=vds96-20) and [The Real Estate Wholesaling Bible](https://www.amazon.com/?tag=vds96-20) for more information on real estate investing
 * Open a brokerage account with a reputable online broker, such as [Fidelity Investments](https://www.fidelity.com/)
 
 

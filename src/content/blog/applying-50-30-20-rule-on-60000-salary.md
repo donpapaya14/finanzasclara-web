@@ -103,7 +103,7 @@ After taxes. For a $60k salary, use **take-home pay** (~$4,000/month).
 Follow this order: 1) Minimum debt payments, 2) $1,000 emergency fund, 3) High-interest debt, 4) Retirement savings.
 
 ## My Take
-As an app developer and former professional chef, I’ve seen how small financial leaks—like daily $5 coffees—add up. When I first applied the **50/30/20 rule**, I automated savings via direct deposits to avoid temptation. Cooking at home (a chef’s perk!) saved me $300/month versus dining out. For tech tools, I recommend [ You Need a Budget (YNAB) en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB)&tag=vds96-20) for zero-based budgeting.
+As an app developer and former professional chef, I’ve seen how small financial leaks—like daily $5 coffees—add up. When I first applied the **50/30/20 rule**, I automated savings via direct deposits to avoid temptation. Cooking at home (a chef’s perk!) saved me $300/month versus dining out. For tech tools, I recommend [ You Need a Budget (YNAB) en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB&tag=vds96-20)&tag=vds96-20) for zero-based budgeting.
 
 Budgeting isn’t about deprivation; it’s about aligning spending with priorities. Start with tracking expenses for 30 days—you’ll spot patterns instantly.
 

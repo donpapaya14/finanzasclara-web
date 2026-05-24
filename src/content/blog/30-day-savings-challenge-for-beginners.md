@@ -97,7 +97,7 @@ Some good savings apps include Qapital and Digit. According to NerdWallet, these
 ## My Take
 As an app developer and professional chef, I understand the importance of saving money. I've been in situations where I had to **cut back on expenses** and prioritize my savings. One of the most effective ways I've found to save money is by using the **envelope system**. I allocate a certain amount of cash for each category of expenses and place it in an envelope. This helps me stick to my budget and avoid overspending.
 
-I also recommend reading [The Automatic Millionaire by David Bach](https://www.amazon.com/Automatic-Millionaire-Transforming-Wealth-Automatically/dp/0767903691) for more tips on saving money. Additionally, you can check out You Need a Budget (YNAB) and Mint for budgeting and savings tools.
+I also recommend reading [The Automatic Millionaire by David Bach](https://www.amazon.com/Automatic-Millionaire-Transforming-Wealth-Automatically/dp/0767903691?tag=vds96-20) for more tips on saving money. Additionally, you can check out You Need a Budget (YNAB) and Mint for budgeting and savings tools.
 
 
 
@@ -116,7 +116,7 @@ Here are some concrete actions you can take to start saving money:
 * Automate your savings using apps like Qapital or Digit
 * Set a long-term goal and create a plan to achieve it
 * Review your progress regularly and make adjustments as needed
-* Consider reading [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/Total-Money-Makeover-Classic/dp/1937075631) for more tips on saving money
+* Consider reading [The Total Money Makeover by Dave Ramsey](https://www.amazon.com/Total-Money-Makeover-Classic/dp/1937075631?tag=vds96-20) for more tips on saving money
 
 
 ---

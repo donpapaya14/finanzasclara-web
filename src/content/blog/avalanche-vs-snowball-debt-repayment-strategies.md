@@ -51,7 +51,7 @@ When using the **Avalanche method**, there are several common mistakes to avoid.
 
 ## Tools and Resources for Implementing the Avalanche Method
 There are several tools and resources available to help you implement the **Avalanche method**. According to [Personal Finance Insider's Best Debt Repayment Tools](https://www.businessinsider.com/personal-finance/best-debt-repayment-tools), some of the best tools include:
-* [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG) (Kindle Edition)
+* [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG?tag=vds96-20) (Kindle Edition)
 * [Mint](https://www.mint.com)
 * [You Need a Budget (YNAB)](https://www.youneedabudget.com)
 
@@ -67,10 +67,10 @@ To prioritize your debts, you should focus on paying off debts with the highest 
 ### What are some common mistakes to avoid when using the Avalanche method?
 According to [Kiplinger](https://www.kiplinger.com), some common mistakes to avoid include not accounting for fees, not prioritizing high-interest debt, and not making timely payments.
 ### How can I track my progress using the Avalanche method?
-You can track your progress using a debt repayment calculator or spreadsheet. According to [Personal Finance Insider](https://www.businessinsider.com/personal-finance), some of the best tools include [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG) (Kindle Edition) and [Mint](https://www.mint.com).
+You can track your progress using a debt repayment calculator or spreadsheet. According to [Personal Finance Insider](https://www.businessinsider.com/personal-finance), some of the best tools include [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG?tag=vds96-20) (Kindle Edition) and [Mint](https://www.mint.com).
 
 ## My Take
-As an app developer and professional chef, I have seen firsthand the importance of managing debt. When I was in culinary school, I accumulated a significant amount of debt, but I was able to pay it off using the **Avalanche method**. I prioritized my debts, made timely payments, and avoided common mistakes. I also used [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG) (Kindle Edition) to track my progress.
+As an app developer and professional chef, I have seen firsthand the importance of managing debt. When I was in culinary school, I accumulated a significant amount of debt, but I was able to pay it off using the **Avalanche method**. I prioritized my debts, made timely payments, and avoided common mistakes. I also used [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG?tag=vds96-20) (Kindle Edition) to track my progress.
 
 
 
@@ -88,7 +88,7 @@ Here are some concrete steps you can take to implement the **Avalanche method**:
 * Make timely payments and avoid common mistakes
 * Use a debt repayment calculator or spreadsheet to track your progress
 * Consider debt consolidation if you have multiple debts with high interest rates
-* Use [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG) (Kindle Edition) or other tools to help you stay on track
+* Use [NerdWallet's Debt Repayment Calculator and Planner](https://www.amazon.com/NerdWallets-Debt-Repayment-Calculator-Planner/dp/B076MX9RYG?tag=vds96-20) (Kindle Edition) or other tools to help you stay on track
 
 
 ---

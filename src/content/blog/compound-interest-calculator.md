@@ -47,7 +47,7 @@ Now, let's consider a real example of $20,000 invested at a **6% interest rate**
 Finally, let's consider a real example of $30,000 invested at an **8% interest rate** over 30 years. According to [Forbes](https://www.forbes.com), the interest earned each year would be even higher than the previous examples. In fact, the total interest earned over the 30-year period would be $141,819.19, with a total balance of $171,819.19. This is a staggering increase in wealth over the long term, demonstrating the significant impact of compound interest on **wealth growth**.
 
 ## Conclusion and Next Steps
-In conclusion, compound interest is a powerful force in **long term investing**, allowing investors to grow their wealth over time. By using a **compound interest calculator**, investors can calculate the future value of their investments and make informed decisions about their financial goals. For further reading, I recommend checking out [The Simple Path to Wealth](https://www.amazon.com/The-Simple-Path-to-Wealth) by JL Collins, as well as [Your Money or Your Life](https://www.amazon.com/Your-Money-or-Your-Life) by Vicki Robin and Joe Dominguez.
+In conclusion, compound interest is a powerful force in **long term investing**, allowing investors to grow their wealth over time. By using a **compound interest calculator**, investors can calculate the future value of their investments and make informed decisions about their financial goals. For further reading, I recommend checking out [The Simple Path to Wealth](https://www.amazon.com/The-Simple-Path-to-Wealth?tag=vds96-20) by JL Collins, as well as [Your Money or Your Life](https://www.amazon.com/Your-Money-or-Your-Life?tag=vds96-20) by Vicki Robin and Joe Dominguez.
 
 ## Frequently Asked Questions
 ### What is compound interest?
@@ -65,7 +65,7 @@ You can use compound interest to achieve your financial goals by investing regul
 
 ## My Take
 As an app developer and professional chef, I have always been interested in **long term investing** and the power of compound interest. In my experience, compound interest is a powerful force that can help investors achieve their financial goals over time. I recommend using a **compound interest calculator** to calculate the future value of your investments, and taking advantage of high-interest savings accounts to grow your wealth over time.
-In addition to investing, I also believe in the importance of living below your means and saving regularly. According to [The Financial Diet](https://www.thefinancialdiet.com), saving just 10% of your income each month can add up to a significant amount over time. I also recommend checking out [The Simple Path to Wealth](https://www.amazon.com/The-Simple-Path-to-Wealth) by JL Collins, as well as [Your Money or Your Life](https://www.amazon.com/Your-Money-or-Your-Life) by Vicki Robin and Joe Dominguez, for further reading on **long term investing** and personal finance.
+In addition to investing, I also believe in the importance of living below your means and saving regularly. According to [The Financial Diet](https://www.thefinancialdiet.com), saving just 10% of your income each month can add up to a significant amount over time. I also recommend checking out [The Simple Path to Wealth](https://www.amazon.com/The-Simple-Path-to-Wealth?tag=vds96-20) by JL Collins, as well as [Your Money or Your Life](https://www.amazon.com/Your-Money-or-Your-Life?tag=vds96-20) by Vicki Robin and Joe Dominguez, for further reading on **long term investing** and personal finance.
 
 
 

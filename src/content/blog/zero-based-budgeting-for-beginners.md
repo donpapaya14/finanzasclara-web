@@ -85,7 +85,7 @@ To get started with zero-based budgeting, follow these steps:
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [You Need a Budget (YNAB) - Budgeting Made Easy](https://www.amazon.com/s?k=You+Need+a+Budget+(YNAB)+-+Budgeting+Made+Easy&tag=vds96-20)
+- [You Need a Budget (YNAB) - Budgeting Made Easy](https://www.amazon.com/s?k=You+Need+a+Budget+(YNAB&tag=vds96-20)+-+Budgeting+Made+Easy&tag=vds96-20)
 - [Personal Capital](https://www.amazon.com/s?k=Personal+Capital&tag=vds96-20)
 
 

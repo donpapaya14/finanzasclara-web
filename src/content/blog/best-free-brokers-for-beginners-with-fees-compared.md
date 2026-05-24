@@ -101,7 +101,7 @@ No, all of the brokers mentioned offer **transparent pricing** with **no hidden 
 ## My Take
 As an app developer and professional chef, I understand the importance of **ease of use** and **transparency** when it comes to online brokers. After researching and comparing the top free brokers for beginners with fees, I highly recommend eToro and Robinhood for their **user-friendly platforms** and **competitive pricing**. I also appreciate the **educational resources** offered by Fidelity and Vanguard, which can help beginners get started with investing.
 In my experience, the key to successful investing is to **start small** and **be patient**. It's also important to **do your research** and **choose a broker** that meets your needs and goals. I hope this article has provided you with the information you need to make an informed decision.
-If you're interested in learning more about online brokers, I recommend checking out [Robinhood Financial, Inc. - Robinhood (Book, 2017) (paperback)](https://www.amazon.com/Robinhood-Financial-Inc-Book-2017/dp/1542823444) and [Investing For Dummies](https://www.amazon.com/Investing-For-Dummies-Eric-Tyson/dp/1119544384).
+If you're interested in learning more about online brokers, I recommend checking out [Robinhood Financial, Inc. - Robinhood (Book, 2017) (paperback)](https://www.amazon.com/Robinhood-Financial-Inc-Book-2017/dp/1542823444?tag=vds96-20) and [Investing For Dummies](https://www.amazon.com/Investing-For-Dummies-Eric-Tyson/dp/1119544384?tag=vds96-20).
 
 
 

@@ -80,7 +80,7 @@ Top tools, per [PCMag (2022)](https://www.pcmag.com):
 
 1. **Apps**: YNAB (You Need a Budget), Mint, EveryDollar.
 2. **Spreadsheets**: Google Sheets templates (free).
-3. **Books**: [ You Need a Budget (YNAB) Book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB)+Book&tag=vds96-20) by Jesse Mecham.
+3. **Books**: [ You Need a Budget (YNAB) Book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB&tag=vds96-20)+Book&tag=vds96-20) by Jesse Mecham.
 
 For **expense tracking**, apps like YNAB sync with bank accounts to automate categorization.
 
@@ -112,7 +112,7 @@ A [Federal Reserve report (2021)](https://www.federalreserve.gov) shows that **r
 
 ## My Take
 
-As an app developer and chef, I’ve used ZBB to manage both my tech startup and restaurant expenses. **Tracking every dollar** felt tedious at first, but it revealed surprising leaks—like overspending on niche ingredients. Now, I use [ You Need a Budget (YNAB) Book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB)+Book&tag=vds96-20) to stay disciplined. For fellow creatives, I recommend **automating savings first**; it’s the safety net that lets you experiment.
+As an app developer and chef, I’ve used ZBB to manage both my tech startup and restaurant expenses. **Tracking every dollar** felt tedious at first, but it revealed surprising leaks—like overspending on niche ingredients. Now, I use [ You Need a Budget (YNAB) Book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB&tag=vds96-20)+Book&tag=vds96-20) to stay disciplined. For fellow creatives, I recommend **automating savings first**; it’s the safety net that lets you experiment.
 
 In my kitchen, I apply ZBB principles too: **every ingredient must have a purpose**. Waste drops by **40%** when you plan meals like a budget. It’s proof that intentionality—whether with money or food—creates sustainability.
 
@@ -133,7 +133,7 @@ In my kitchen, I apply ZBB principles too: **every ingredient must have a purpos
 - **Review weekly**: Adjust for overspending.
 - **Save for irregular bills**: Sinking funds prevent surprises.
 - **Automate savings**: Set up transfers to build reserves.
-- **Read**: [ You Need a Budget (YNAB) Book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB)+Book&tag=vds96-20) for deeper strategies.
+- **Read**: [ You Need a Budget (YNAB) Book en Amazon](https://www.amazon.com/s?k=+You+Need+a+Budget+(YNAB&tag=vds96-20)+Book&tag=vds96-20) for deeper strategies.
 - **Stay flexible**: Life changes; your budget should too.
 
 

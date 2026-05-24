@@ -65,11 +65,11 @@ Some high-yield investment options include SP500 index funds, high-yield bonds, 
 ### How can I start investing in compound interest?
 To start investing in compound interest, open a brokerage account and deposit funds. Then, choose a high-yield investment option, such as an SP500 index fund or high-yield bond. According to [The Balance](https://www.thebalance.com), it's essential to start early and be consistent with your investments.
 ### What are some books on compound interest?
-Some books on compound interest include [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X) and [A Random Walk Down Wall Street by Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393340746).
+Some books on compound interest include [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X?tag=vds96-20) and [A Random Walk Down Wall Street by Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393340746?tag=vds96-20).
 
 ## My Take
 As an app developer and professional chef, I've learned the importance of **compound interest** in achieving long-term financial goals. I started investing in my early 20s and have seen the power of compounding firsthand. My advice is to start early, be consistent, and avoid withdrawing earnings.
-In my experience, automating investments and reinvesting dividends have been key to maximizing my returns. I also recommend reading books like [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X) to learn more about investing and compound interest.
+In my experience, automating investments and reinvesting dividends have been key to maximizing my returns. I also recommend reading books like [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X?tag=vds96-20) to learn more about investing and compound interest.
 Overall, compound interest is a powerful tool for achieving financial freedom. By starting early, being consistent, and avoiding withdrawing earnings, you can maximize your returns and achieve your long-term financial goals.
 
 
@@ -88,7 +88,7 @@ To get started with compound interest, follow these steps:
 * Automate investments to take advantage of compounding
 * Reinvest dividends to maximize returns
 * Avoid withdrawing earnings to allow your investment to grow over time
-* Read books like [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X) to learn more about investing and compound interest
+* Read books like [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X?tag=vds96-20) to learn more about investing and compound interest
 * Consider consulting with a financial advisor to create a personalized investment plan
 * Start early and be consistent with your investments to maximize your returns
 

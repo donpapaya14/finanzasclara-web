@@ -70,7 +70,7 @@ As an app developer and professional chef, I have always been interested in find
 
 One of the things that I appreciate about DCA is that it can help reduce **emotional decision-making**. By investing a fixed amount of money at regular intervals, you can avoid making impulsive decisions based on market volatility. Instead, you can focus on your long-term goals and let the power of **compound interest** work in your favor.
 
-If you are interested in learning more about investing and DCA, I recommend checking out **[The Little Book of Common Sense Investing by John C. Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X)**. This book provides a comprehensive overview of investing and offers practical advice for implementing a DCA strategy.
+If you are interested in learning more about investing and DCA, I recommend checking out **[The Little Book of Common Sense Investing by John C. Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X?tag=vds96-20)**. This book provides a comprehensive overview of investing and offers practical advice for implementing a DCA strategy.
 
 
 
@@ -86,7 +86,7 @@ To get started with DCA, follow these steps:
 * Consider using a hybrid strategy that combines lump sum and DCA investing
 * Monitor and adjust your DCA strategy as needed to ensure that it is aligned with your long-term goals
 * Take advantage of tax-advantaged accounts such as 401(k) or IRA to maximize your returns
-* Educate yourself on investing and DCA by reading books such as **[The Little Book of Common Sense Investing by John C. Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X)** and **[A Random Walk Down Wall Street by Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384)**,
+* Educate yourself on investing and DCA by reading books such as **[The Little Book of Common Sense Investing by John C. Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/047010210X?tag=vds96-20)** and **[A Random Walk Down Wall Street by Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384?tag=vds96-20)**,
 
 
 ---

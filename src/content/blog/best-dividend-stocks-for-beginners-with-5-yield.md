@@ -111,7 +111,7 @@ As an app developer and professional chef, I've learned the importance of patien
 5. Monitor your portfolio regularly and rebalance as needed.
 6. Consider tax implications when investing in dividend stocks.
 
-**Amazon Keywords:** [The Little Book of Big Dividends by Charles Carlson](https://www.amazon.com/Little-Book-Big-Dividends-Charles/dp/0470461931/), [Dividend Investing for Dummies](https://www.amazon.com/Dividend-Investing-Dummies-Scott-Brown/dp/1119564168/)
+**Amazon Keywords:** [The Little Book of Big Dividends by Charles Carlson](https://www.amazon.com/Little-Book-Big-Dividends-Charles/dp/0470461931/?tag=vds96-20), [Dividend Investing for Dummies](https://www.amazon.com/Dividend-Investing-Dummies-Scott-Brown/dp/1119564168/?tag=vds96-20)
 
 
 ---

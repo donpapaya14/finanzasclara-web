@@ -72,7 +72,7 @@ You can stay motivated by using a debt repayment tracker, setting reminders, and
 ## My Take
 As an app developer and professional chef, I have experienced the challenges of paying off debt. I paid off **$10,000** in credit card debt in 24 months by using the avalanche method and increasing my income by taking on a side job. I also reduced my expenses by cutting back on dining out and implementing a budgeting app. 
 
-I recommend reading [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/) by Dave Ramsey to learn more about paying off debt. You can also use [ Credit Card Debt Calculator en Amazon](https://www.amazon.com/s?k=+Credit+Card+Debt+Calculator&tag=vds96-20)(https://www.amazon.com/) to calculate your minimum monthly payment. 
+I recommend reading [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/?tag=vds96-20) by Dave Ramsey to learn more about paying off debt. You can also use [ Credit Card Debt Calculator en Amazon](https://www.amazon.com/s?k=+Credit+Card+Debt+Calculator&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) to calculate your minimum monthly payment. 
 
 
 
@@ -91,7 +91,7 @@ Here are some concrete action bullets to help you pay off $20,000 in credit card
 * Reduce your expenses by cutting back on dining out, canceling subscription services, and implementing a budgeting app 
 * Use windfalls such as tax refunds, bonuses, and inheritances to pay off debt 
 * Monitor your progress and stay motivated by using a debt repayment tracker, setting reminders, and rewarding yourself for reaching debt repayment milestones 
-* Read [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/) to learn more about paying off debt
+* Read [The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/?tag=vds96-20) to learn more about paying off debt
 
 
 ---

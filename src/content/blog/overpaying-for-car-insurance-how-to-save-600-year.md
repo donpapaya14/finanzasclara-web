@@ -49,8 +49,8 @@ To maximize savings, consider the following steps:
 1. **Shop around**: Compare quotes from at least three insurers.
 2. **Optimize your coverage**: Remove unnecessary add-ons.
 3. **Improve your credit score**: Aim for a 50-point increase.
-4. **Use an OBD2 scanner** ([OBD2 scanner en Amazon](https://www.amazon.com/s?k=OBD2+scanner&tag=vds96-20)(https://www.amazon.com/)) to prove low mileage for discounts.
-5. **Consider complementary products**, such as [car insurance guide en Amazon](https://www.amazon.com/s?k=car+insurance+guide&tag=vds96-20)(https://www.amazon.com/).
+4. **Use an OBD2 scanner** ([OBD2 scanner en Amazon](https://www.amazon.com/s?k=OBD2+scanner&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20)) to prove low mileage for discounts.
+5. **Consider complementary products**, such as [car insurance guide en Amazon](https://www.amazon.com/s?k=car+insurance+guide&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20).
 
 ## Frequently Asked Questions
 ### How much can I save on car insurance?
@@ -64,7 +64,7 @@ You should re-shop for car insurance every 6-12 months, or when your circumstanc
 ### What is the average car insurance overpayment?
 The average car insurance overpayment is around $600/year, according to [NAIC 2023 Auto Insurance Database Report](https://www.naic.org/).
 ### Can I use an OBD2 scanner to prove low mileage?
-Yes, you can use an [OBD2 scanner en Amazon](https://www.amazon.com/s?k=OBD2+scanner&tag=vds96-20)(https://www.amazon.com/) to prove low mileage and potentially qualify for discounts.
+Yes, you can use an [OBD2 scanner en Amazon](https://www.amazon.com/s?k=OBD2+scanner&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) to prove low mileage and potentially qualify for discounts.
 
 ## My Take
 As an app developer and professional chef, I've learned the importance of optimizing costs and streamlining processes. When it comes to car insurance, it's essential to be proactive and shop around regularly. By following the tips outlined in this article, you can save up to $600/year and make the most of your hard-earned money.
@@ -84,7 +84,7 @@ To summarize, here are the key takeaways:
 * Optimize your coverage by removing unnecessary add-ons.
 * Improve your credit score to qualify for lower premiums.
 * Use an independent broker to access regional insurers.
-* Consider using an [OBD2 scanner en Amazon](https://www.amazon.com/s?k=OBD2+scanner&tag=vds96-20)(https://www.amazon.com/) to prove low mileage.
+* Consider using an [OBD2 scanner en Amazon](https://www.amazon.com/s?k=OBD2+scanner&tag=vds96-20)(https://www.amazon.com/?tag=vds96-20) to prove low mileage.
 * Review and adjust your policy regularly to ensure you're getting the best rates.
 
 

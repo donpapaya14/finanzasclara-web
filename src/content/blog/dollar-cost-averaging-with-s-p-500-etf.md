@@ -18,10 +18,10 @@ draft: false
 ---
 
 ## Introduction to Dollar-Cost Averaging with S&P 500 ETF
-Dollar-cost averaging with the S&P 500 ETF is a **long-term investment strategy** that involves investing a fixed amount of money at regular intervals, regardless of the market's performance. According to [Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384), author of 'A Random Walk Down Wall Street' (2019 edition), this strategy helps reduce the impact of market volatility on investments. 
+Dollar-cost averaging with the S&P 500 ETF is a **long-term investment strategy** that involves investing a fixed amount of money at regular intervals, regardless of the market's performance. According to [Burton G. Malkiel](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384?tag=vds96-20), author of 'A Random Walk Down Wall Street' (2019 edition), this strategy helps reduce the impact of market volatility on investments. 
 
 ## What is Dollar-Cost Averaging and How Does it Work?
-Dollar-cost averaging is a strategy that helps investors **reduce timing risks**. For example, if an investor invests $100 every month in the S&P 500 ETF, they will buy more shares when the price is low and fewer shares when the price is high. As [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384) explains, this strategy can help investors **avoid emotional decisions** based on market fluctuations.
+Dollar-cost averaging is a strategy that helps investors **reduce timing risks**. For example, if an investor invests $100 every month in the S&P 500 ETF, they will buy more shares when the price is low and fewer shares when the price is high. As [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358384?tag=vds96-20) explains, this strategy can help investors **avoid emotional decisions** based on market fluctuations.
 
 Here are the benefits of dollar-cost averaging:
 * Reduces timing risks

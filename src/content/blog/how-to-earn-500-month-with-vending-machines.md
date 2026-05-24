@@ -59,7 +59,7 @@ To scale the vending machine business to $1,500/month, it's possible to reinvest
 
 ## Frequently Asked Questions
 ### How much does a vending machine cost?
-The cost of a vending machine can range from **$1,500-$3,000**, depending on the features and capacity. For example, the [APlusBuy Vending Machine with Bill Validator](https://www.amazon.com/APlusBuy-Vending-Machine-Bill-Validator) is a popular option.
+The cost of a vending machine can range from **$1,500-$3,000**, depending on the features and capacity. For example, the [APlusBuy Vending Machine with Bill Validator](https://www.amazon.com/APlusBuy-Vending-Machine-Bill-Validator?tag=vds96-20) is a popular option.
 ### What are the highest-margin products to stock?
 The highest-margin products to stock in a vending machine are **energy drinks**, **protein bars**, and **premium nuts**, with margins ranging from **50-80%**.
 ### How much money can I make with a vending machine?
@@ -91,7 +91,7 @@ To earn $500/month with passive income vending machines, follow these steps:
 * Keep the machine clean and well-maintained
 * Monitor the inventory levels and restock as needed
 * Collect the cash from the vending machine and deposit it into a bank account
-* Consider purchasing a [APlusBuy Vending Machine with Bill Validator](https://www.amazon.com/APlusBuy-Vending-Machine-Bill-Validator) or other complementary products, such as a [Vending Machine Lock](https://www.amazon.com/Vending-Machine-Lock) or a [Vending Machine Cash Box](https://www.amazon.com/Vending-Machine-Cash-Box)
+* Consider purchasing a [APlusBuy Vending Machine with Bill Validator](https://www.amazon.com/APlusBuy-Vending-Machine-Bill-Validator?tag=vds96-20) or other complementary products, such as a [Vending Machine Lock](https://www.amazon.com/Vending-Machine-Lock?tag=vds96-20) or a [Vending Machine Cash Box](https://www.amazon.com/Vending-Machine-Cash-Box?tag=vds96-20)
 
 
 ---

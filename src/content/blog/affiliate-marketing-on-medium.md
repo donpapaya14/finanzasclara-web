@@ -69,7 +69,7 @@ The best affiliate programs for Medium writers include the Amazon Associates Pro
 Yes, you can use Medium affiliate marketing to promote your own products. According to a study by [Entrepreneur](https://www.entrepreneur.com), **75% of entrepreneurs** use content marketing to promote their products.
 
 ## My Take
-As an app developer and professional chef, I've found that Medium affiliate marketing is a great way to earn passive income and promote products I love. One of my favorite products is [The Affiliate Marketing Blueprint](https://www.amazon.com), which provides a comprehensive guide to affiliate marketing. I've also found that using complementary products like [SEO optimization tools](https://www.ahrefs.com) can help increase affiliate earnings.
+As an app developer and professional chef, I've found that Medium affiliate marketing is a great way to earn passive income and promote products I love. One of my favorite products is [The Affiliate Marketing Blueprint](https://amazon.com/?tag=vds96-20), which provides a comprehensive guide to affiliate marketing. I've also found that using complementary products like [SEO optimization tools](https://www.ahrefs.com) can help increase affiliate earnings.
 
 In my experience, the key to success in Medium affiliate marketing is to choose profitable niche topics and create high-quality content that resonates with readers. I've found that using tools like Google Trends and Ahrefs can help identify trending topics and optimize articles for better visibility.
 

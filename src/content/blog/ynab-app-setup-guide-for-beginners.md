@@ -68,7 +68,7 @@ YNAB handles variable expenses by allowing users to set **monthly funding** for 
 Yes, YNAB is available on both **iOS** and **Android** devices.
 
 ## My Take
-As an app developer and professional chef, I have found YNAB to be an invaluable tool for managing my finances. I was able to pay off my debt and build a **30-day buffer** using YNAB's **envelope system** and **'Age Your Money'** metric. I highly recommend checking out the [YNAB Quick Start Guide (paperback)](https://www.amazon.com/) for a comprehensive guide to getting started with YNAB.
+As an app developer and professional chef, I have found YNAB to be an invaluable tool for managing my finances. I was able to pay off my debt and build a **30-day buffer** using YNAB's **envelope system** and **'Age Your Money'** metric. I highly recommend checking out the [YNAB Quick Start Guide (paperback)](https://www.amazon.com/?tag=vds96-20) for a comprehensive guide to getting started with YNAB.
 
 
 
@@ -86,8 +86,8 @@ To get started with YNAB, follow these steps:
 * Categorize your income and expenses.
 * Avoid setting unrealistic categories.
 * Use YNAB's **envelope system** and **'Age Your Money'** metric to optimize your cash flow.
-* Check out the [YNAB Quick Start Guide (paperback)](https://www.amazon.com/) for a comprehensive guide to getting started with YNAB.
-* Consider complementary products like [YNAB Budgeting Software](https://www.amazon.com/) and [Personal Finance Book](https://www.amazon.com/).
+* Check out the [YNAB Quick Start Guide (paperback)](https://www.amazon.com/?tag=vds96-20) for a comprehensive guide to getting started with YNAB.
+* Consider complementary products like [YNAB Budgeting Software](https://www.amazon.com/?tag=vds96-20) and [Personal Finance Book](https://www.amazon.com/?tag=vds96-20).
 
 
 ---

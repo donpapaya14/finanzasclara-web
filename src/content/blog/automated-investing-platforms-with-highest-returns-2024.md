@@ -110,7 +110,7 @@ Here are the key takeaways:
 * Start with a low minimum investment requirement
 * Monitor and adjust your portfolio as needed
 * Consider using multiple platforms, but be aware of the fees and complexity
-* Read [The Bogleheads' Guide to Investing (book)](https://www.amazon.com) for a comprehensive guide to investing
+* Read [The Bogleheads' Guide to Investing (book)](https://amazon.com/?tag=vds96-20) for a comprehensive guide to investing
 * Check out [ Personal Finance for Dummies en Amazon](https://www.amazon.com/s?k=+Personal+Finance+for+Dummies&tag=vds96-20)(https://www.amazon.com) for a beginner's guide to personal finance
 
 
