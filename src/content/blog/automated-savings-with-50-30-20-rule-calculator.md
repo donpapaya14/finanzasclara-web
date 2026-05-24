@@ -61,7 +61,7 @@ Common pitfalls include overspending in the '30%' category. NerdWallet (2019) ad
 To stay motivated, set specific financial goals, such as saving for a down payment on a house or paying off debt. According to The Balance (2020), sharing your goals with a friend or family member can help you stay accountable and motivated.
 
 ## My Take
-As an app developer and professional chef, I've seen firsthand the importance of budgeting and saving. Implementing the **50/30/20 savings rule calculator** has been a game-changer for my finances. By automating my savings and tracking my expenses, I've been able to save **$5,000** in just six months. I recommend using tools like [Mint](https://www.mint.com) or [You Need a Budget (YNAB)](https://www.youneedabudget.com) to help you stay on track.
+As an app developer and professional chef, I've seen firsthand the importance of budgeting and saving. Implementing the **50/30/20 savings rule calculator** has been a game-changer for my finances. By automating my savings and tracking my expenses, I've been able to save **$5,000** in just six months. I recommend using tools like Mint or You Need a Budget (YNAB) to help you stay on track.
 
 
 
@@ -79,7 +79,7 @@ As an app developer and professional chef, I've seen firsthand the importance of
 - Adjust the 50/30/20 rule for irregular income by averaging your income over a certain period.
 - Track your expenses to understand where your money is going and implement a '50/30/20' mindset.
 - Set specific financial goals and share them with a friend or family member to stay motivated.
-- Consider using tools like [Personal Capital](https://www.personalcapital.com) or [Quicken](https://www.quicken.com) to help you manage your finances.
+- Consider using tools like Personal Capital or Quicken to help you manage your finances.
 
 
 ---

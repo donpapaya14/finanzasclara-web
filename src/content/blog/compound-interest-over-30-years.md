@@ -20,7 +20,7 @@ draft: false
 
 ## Introduction to Compound Interest
 
-**Compound interest** is the process where interest earns additional interest over time, creating exponential growth. According to [Investopedia (2022)](https://www.investopedia.com), a $10,000 investment at 7% annual return grows to $76,123 in 30 years due to compounding. This makes it a cornerstone of **long-term investing** strategies, especially for retirement accounts like 401(k)s or IRAs.
+**Compound interest** is the process where interest earns additional interest over time, creating exponential growth. According to Investopedia (2022), a $10,000 investment at 7% annual return grows to $76,123 in 30 years due to compounding. This makes it a cornerstone of **long-term investing** strategies, especially for retirement accounts like 401(k)s or IRAs.
 
 Key factors affecting compound growth:
 - **Principal amount**: Initial investment sum
@@ -30,7 +30,7 @@ Key factors affecting compound growth:
 
 ## 10-Year Compound Interest Example
 
-Using a **compound interest calculator**, a $1,000 investment at 5% annual interest with **monthly compounding** grows to $1,647 in 10 years ([The Balance, 2020](https://www.thebalance.com)). Here's the breakdown:
+Using a **compound interest calculator**, a $1,000 investment at 5% annual interest with **monthly compounding** grows to $1,647 in 10 years (The Balance, 2020). Here's the breakdown:
 
 | Year | Balance     |
 |------|-------------|
@@ -49,7 +49,7 @@ Using a **compound interest calculator**, a $1,000 investment at 5% annual inter
 
 ## 20-Year Compound Interest Example
 
-A $5,000 investment at 7% annual return with **annual compounding** becomes $19,348 in 20 years ([NerdWallet, 2021](https://www.nerdwallet.com)). This demonstrates how time amplifies returns:
+A $5,000 investment at 7% annual return with **annual compounding** becomes $19,348 in 20 years (NerdWallet, 2021). This demonstrates how time amplifies returns:
 
 - **After 10 years**: $9,836
 - **After 20 years**: $19,348 (double the 10-year value)
@@ -64,7 +64,7 @@ Comparison of compounding frequencies on $5,000 at 7%:
 
 ## 30-Year Compound Interest Example
 
-A **30-year investment plan** with $10,000 at 10% annual return and **quarterly compounding** yields $174,494 ([Kiplinger, 2019](https://www.kiplinger.com)). Key observations:
+A **30-year investment plan** with $10,000 at 10% annual return and **quarterly compounding** yields $174,494 (Kiplinger, 2019). Key observations:
 
 - **First 10 years**: $26,533 (2.6x initial investment)
 - **Next 10 years**: $70,399 (7x initial investment)
@@ -74,7 +74,7 @@ A **30-year investment plan** with $10,000 at 10% annual return and **quarterly 
 
 ## Real-Life Scenarios and Case Studies
 
-A [Forbes (2022)](https://www.forbes.com) analysis of 401(k) accounts shows:
+A Forbes (2022) analysis of 401(k) accounts shows:
 - Employees contributing $500/month at 8% return for 30 years accumulate **$745,179**
 - Delaying by 10 years reduces the final amount by **53%** ($349,800)
 
@@ -87,7 +87,7 @@ Case study: Two investors starting at age 25 vs. 35:
 
 ## Maximizing Compound Interest with Tax-Advantaged Accounts
 
-[The Motley Fool (2020)](https://www.fool.com) recommends these strategies:
+The Motley Fool (2020) recommends these strategies:
 1. **Roth IRA**: Tax-free growth. $6,500/year limit (2023).
 2. **529 Plans**: Education savings with state tax benefits.
 3. **HSA**: Triple tax advantage for medical expenses.
@@ -100,7 +100,7 @@ Case study: Two investors starting at age 25 vs. 35:
 Monthly compounding yields higher returns due to more frequent interest calculations. For example, $10,000 at 5% for 10 years grows to $16,470 (monthly) vs. $16,289 (annually) ([SEC, 2023](https://www.sec.gov)).
 
 ### What’s the best compound interest rate for long-term investing?
-Historically, the S&P 500 averages **10% annual returns** before inflation (7% after). [Vanguard (2022)](https://www.vanguard.com) recommends index funds for consistent compounding.
+Historically, the S&P 500 averages **10% annual returns** before inflation (7% after). Vanguard (2022) recommends index funds for consistent compounding.
 
 ### Can compound interest make you a millionaire?
 Yes. Investing $500/month at 8% for 40 years yields **$1.55 million**. Time is the critical factor—starting early reduces the required monthly amount.
@@ -109,7 +109,7 @@ Yes. Investing $500/month at 8% for 40 years yields **$1.55 million**. Time is t
 Use the formula: **A = P(1 + r/n)^(nt)**, where P = principal, r = annual rate, n = compounding periods/year, t = years. For quick estimates, the **Rule of 72** (72 ÷ interest rate = years to double) is helpful.
 
 ### Are there compound interest calculators for irregular contributions?
-Yes. Tools like [NerdWallet’s calculator](https://www.nerdwallet.com) accommodate varying monthly deposits and one-time additions.
+Yes. Tools like NerdWallet’s calculator accommodate varying monthly deposits and one-time additions.
 
 ## My Take
 

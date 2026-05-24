@@ -23,7 +23,7 @@ Micro savings apps automate small, frequent deposits into savings or investment 
 
 Key benefits:
 - **No financial strain**: Saves $5–$50 daily without noticeable impact
-- **Behavioral nudges**: 78% of users save more with automated rules ([NerdWallet, 2022](https://www.nerdwallet.com))
+- **Behavioral nudges**: 78% of users save more with automated rules (NerdWallet, 2022)
 - **Compound growth**: $5/day at 5% APR grows to **$3,400** in 5 years
 
 ---
@@ -33,7 +33,7 @@ Key benefits:
 | App       | Fees          | Key Feature                          | Avg. Monthly Savings |
 |-----------|---------------|--------------------------------------|----------------------|
 | Qapital** | $3–$12/month  | **$750** (user-reported) |
-| Digit     | $5/month      | AI-driven savings                   | $1,200 ([NerdWallet, 2022](https://www.nerdwallet.com)) |
+| Digit     | $5/month      | AI-driven savings                   | $1,200 (NerdWallet, 2022) |
 | Acorns    | $3–$9/month   | Round-up investing + ETFs           | $600                 |
 
 **Qapital** excels for goal customization (e.g., "save $2 for every Uber ride"), while **Digit** uses predictive AI to avoid overdrafts. For passive investors, **Acorns** automatically invests spare change in diversified portfolios.
@@ -49,7 +49,7 @@ Key benefits:
    - Round-ups (e.g., save $0.50 per $4.50 coffee)
    - Fixed daily/weekly amounts ($3/day = $90/month)
    - Behavioral triggers ("save $10 if I skip the gym")
-3. **Adjust thresholds**: Most apps let you cap transfers at 10% of income ([Qapital Support, 2022](https://www.qapital.com))
+3. **Adjust thresholds**: Most apps let you cap transfers at 10% of income (Qapital Support, 2022)
 
 Pro tip: Start with **round-ups + $5/day** to save $200–$300/month painlessly.
 
@@ -57,7 +57,7 @@ Pro tip: Start with **round-ups + $5/day** to save $200–$300/month painlessly.
 
 ## Micro Savings Strategies
 
-1. **The 52-Week Challenge**: Save $1 in Week 1, $2 in Week 2, etc. → **$1,378/year** ([The Balance, 2021](https://www.thebalance.com))
+1. **The 52-Week Challenge**: Save $1 in Week 1, $2 in Week 2, etc. → **$1,378/year** (The Balance, 2021)
 2. **Spending Pairing**: Save 10% of discretionary purchases (e.g., $3 for a $30 meal)
 3. **Salary Sweep**: Auto-transfer 1% of every paycheck (earns $1,200/year at $50k salary)
 
@@ -69,7 +69,7 @@ Pro tip: Start with **round-ups + $5/day** to save $200–$300/month painlessly.
 
 ## Common Micro Savings Mistakes
 
-- **Over-optimizing rules**: 43% of users quit when transfers exceed 15% of income ([Kiplinger, 2020](https://www.kiplinger.com))
+- **Over-optimizing rules**: 43% of users quit when transfers exceed 15% of income (Kiplinger, 2020)
 - **Ignoring fees**: A $5/month fee wipes out gains on balances under $1,200 (5% APR)
 - **No goals**: Unspecified savings are 67% more likely to be spent impulsively
 
@@ -79,7 +79,7 @@ Fix: Set up **low-balance alerts** and review rules quarterly.
 
 ## Micro Savings Success Stories
 
-- **Maya K.** saved **$8,200** in 18 months using Acorns round-ups for a down payment ([Acorns Reviews, 2022](https://www.acorns.com))
+- **Maya K.** saved **$8,200** in 18 months using Acorns round-ups for a down payment (Acorns Reviews, 2022)
 - **Tomas R.** automated $3/day + 5% of freelance income via Qapital → **$6,000** emergency fund
 
 Case study: A **University of Michigan experiment (2021)** found participants using micro savings apps increased net worth by **17%** vs. control groups.
@@ -101,7 +101,7 @@ Yes. Top apps use **256-bit encryption** and FDIC insurance (up to $250,000). Av
 **Acorns and Stash** auto-invest spare change. $5/day over 10 years could grow to **$28,000** at 7% returns (S&P 500 average).
 
 ### Do micro savings work with irregular income?
-Yes. Apps like **Digit** adjust transfers based on cash flow. Freelancers save 22% more with variable-amount rules ([NerdWallet, 2022](https://www.nerdwallet.com)).
+Yes. Apps like **Digit** adjust transfers based on cash flow. Freelancers save 22% more with variable-amount rules (NerdWallet, 2022).
 
 ---
 

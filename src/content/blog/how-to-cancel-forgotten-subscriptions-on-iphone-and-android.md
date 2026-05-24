@@ -19,21 +19,21 @@ draft: false
 ---
 
 ## Introduction to Canceling Forgotten Subscriptions
-The average American wastes **$219/year** on forgotten subscriptions, according to the [C+R Research 2022 Subscription Waste Report](https://www.crresearch.com). This can include streaming services, app subscriptions, and cloud storage. To **cancel forgotten subscriptions on phone**, it's essential to identify these hidden costs.
+The average American wastes **$219/year** on forgotten subscriptions, according to the C+R Research 2022 Subscription Waste Report. This can include streaming services, app subscriptions, and cloud storage. To **cancel forgotten subscriptions on phone**, it's essential to identify these hidden costs.
 
 ## The Average American's Forgotten Subscriptions
 A breakdown of commonly forgotten subscriptions includes:
 * Streaming services: **45%** of users forget these subscriptions
 * Apps: **31%** of users forget these subscriptions
 * Cloud storage: **21%** of users forget these subscriptions
-As reported by the [C+R Research 2022 Subscription Waste Report](https://www.crresearch.com), these forgotten subscriptions can add up quickly.
+As reported by the C+R Research 2022 Subscription Waste Report, these forgotten subscriptions can add up quickly.
 
 ## iPhone: Find Hidden Subscriptions in 3 Taps
 To find hidden subscriptions on an iPhone, follow these steps:
 1. Go to **Settings**
 2. Tap on **[Your Name]**
 3. Tap on **Subscriptions**
-As shown in the [Apple Support Documentation 2023](https://support.apple.com), this path will help you identify any fraudulent charges.
+As shown in the Apple Support Documentation 2023, this path will help you identify any fraudulent charges.
 
 ## Android's Hidden Subscription Manager
 The path to find hidden subscriptions on Android varies by manufacturer. Here's a comparison:
@@ -42,7 +42,7 @@ The path to find hidden subscriptions on Android varies by manufacturer. Here's 
 | Samsung | **Play Store** > **Menu** > **Subscriptions** |
 | Google Pixel | **Settings** > **Google** > **Pay & Subscriptions** |
 | Other | Varies |
-According to the [Google Play Help 2023](https://support.google.com/googleplay), it's essential to check your device's specific path.
+According to the Google Play Help 2023, it's essential to check your device's specific path.
 
 ## The Bank Statement Trick to Find All Active Subscriptions
 To find all active subscriptions, search your bank or PayPal statements for recurring charges with common billing descriptor keywords, such as **'Subscription'** or **'Recurring'**. As advised by the [Consumer Financial Protection Bureau 2022](https://www.consumerfinance.gov), this trick can help you identify any hidden costs.
@@ -61,13 +61,13 @@ Here's a comparison of top apps to track future subscriptions:
 | Rocket Money | **Easy to use**, **Comprehensive tracking** | **Limited customization** |
 | Truebill | **Advanced features**, **Good customer support** | **Steep learning curve** |
 | Subby | **Simple interface**, **Affordable** | **Limited tracking capabilities** |
-According to the [PC Magazine 2023 App Review](https://www.pcmag.com), these apps can help you stay on top of your subscriptions.
+According to the PC Magazine 2023 App Review, these apps can help you stay on top of your subscriptions.
 
 ## Frequently Asked Questions
 ### How do I cancel a subscription on my iPhone?
-To cancel a subscription on your iPhone, go to **Settings** > **[Your Name]** > **Subscriptions** and select the subscription you want to cancel. As shown in the [Apple Support Documentation 2023](https://support.apple.com), this path will help you cancel any unwanted subscriptions.
+To cancel a subscription on your iPhone, go to **Settings** > **[Your Name]** > **Subscriptions** and select the subscription you want to cancel. As shown in the Apple Support Documentation 2023, this path will help you cancel any unwanted subscriptions.
 ### What are some common hidden subscription costs?
-Common hidden subscription costs include **streaming services**, **app subscriptions**, and **cloud storage**. According to the [C+R Research 2022 Subscription Waste Report](https://www.crresearch.com), these costs can add up quickly.
+Common hidden subscription costs include **streaming services**, **app subscriptions**, and **cloud storage**. According to the C+R Research 2022 Subscription Waste Report, these costs can add up quickly.
 ### How do I find all my active subscriptions?
 To find all your active subscriptions, search your bank or PayPal statements for recurring charges with common billing descriptor keywords, such as **'Subscription'** or **'Recurring'**. As advised by the [Consumer Financial Protection Bureau 2022](https://www.consumerfinance.gov), this trick can help you identify any hidden costs.
 ### Can I use a virtual credit card to prevent unwanted charges?
@@ -75,7 +75,7 @@ Yes, you can use a virtual credit card, such as the [ Privacy.com Virtual Credit
 ### How do I stop automatic payments?
 To stop automatic payments, go to your bank or PayPal account and cancel the recurring payment. As reported by the [FTC Complaint Database 2023](https://www.ftc.gov), it's essential to review your account regularly to avoid unwanted charges.
 ### What is a subscription tracker app?
-A subscription tracker app, such as **Rocket Money** or **Truebill**, helps you track your subscriptions and stay on top of your expenses. According to the [PC Magazine 2023 App Review](https://www.pcmag.com), these apps can help you avoid **hidden subscription costs** and **unwanted charges**.
+A subscription tracker app, such as **Rocket Money** or **Truebill**, helps you track your subscriptions and stay on top of your expenses. According to the PC Magazine 2023 App Review, these apps can help you avoid **hidden subscription costs** and **unwanted charges**.
 
 ## My Take
 As an app developer and professional chef, I've experienced the frustration of forgotten subscriptions firsthand. To avoid these costs, I use a combination of **subscription tracker apps** and **virtual credit cards**, such as the [ Privacy.com Virtual Credit Card en Amazon](https://www.amazon.com/s?k=+Privacy.com+Virtual+Credit+Card&tag=vds96-20)(https://www.amazon.com). I also recommend using a **budgeting app**, such as **Mint**, to stay on top of your finances.

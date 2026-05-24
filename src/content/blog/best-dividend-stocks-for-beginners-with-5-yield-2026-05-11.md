@@ -28,7 +28,7 @@ Here are three **blue-chip stocks** known for their **safe 5%+ dividends**:
 1. **Verizon (VZ)**: Known for its stable dividend payout and low payout ratio, Verizon offers a dividend yield of around 5.1%.
 2. **Altria (MO)**: With a long history of dividend payments and a yield of approximately 7.6%, Altria is a favorite among dividend investors.
 3. **AT&T (T)**: Offering a dividend yield of about 5.3%, AT&T is another stable player in the telecommunications sector.
-These stocks are listed on the [S&P Global Dividend Aristocrats List 2024](https://www.spglobal.com/), which tracks companies with at least 25 consecutive years of dividend increases.
+These stocks are listed on the S&P Global Dividend Aristocrats List 2024, which tracks companies with at least 25 consecutive years of dividend increases.
 
 ## 2 High-Yield REITs with Monthly Payouts
 For those looking for **monthly payouts**, consider these high-yield REITs:
@@ -36,7 +36,7 @@ For those looking for **monthly payouts**, consider these high-yield REITs:
 | --- | --- | --- |
 | Realty Income (O) | 4.5% | Monthly |
 | AGNC Investment Corp (AGNC) | 12.1% | Monthly |
-Both **Realty Income** and **AGNC Investment Corp** offer attractive yields and monthly payout schedules, but it's essential to consider their **tax implications** and **occupancy rates**, as reported by the [NAREIT Total Returns Index 2023](https://www.nareit.com/).
+Both **Realty Income** and **AGNC Investment Corp** offer attractive yields and monthly payout schedules, but it's essential to consider their **tax implications** and **occupancy rates**, as reported by the NAREIT Total Returns Index 2023.
 
 ## The $10,000 Compounding Example (5 Years)
 To illustrate the power of compounding, consider a $10,000 investment with a 5% dividend yield and 3% annual growth rate, reinvesting dividends over 5 years. Using the [SEC Compound Interest Calculator](https://www.sec.gov/), the total value after 5 years would be approximately $14,292, significantly outpacing the growth of a savings account.
@@ -46,7 +46,7 @@ High yields can sometimes indicate **sector risks** or **dividend cuts**. Be cau
 * **Payout ratios >100%**, which may not be sustainable.
 * **Sector risks**, such as the volatility in the oil and energy sectors.
 * **Recent dividend cuts**, which can signal underlying financial issues.
-Consult the [Morningstar Dividend Safety Scores 2024](https://www.morningstar.com/) for detailed insights into dividend safety.
+Consult the Morningstar Dividend Safety Scores 2024 for detailed insights into dividend safety.
 
 ## How to Buy Your First Dividend Stock
 To get started, follow these steps:
@@ -54,7 +54,7 @@ To get started, follow these steps:
 2. Fund your account with at least $100.
 3. Choose your first dividend stock, considering factors like yield, payout ratio, and sector.
 4. Set up a **DRIP (Dividend Reinvestment Plan)** to automatically reinvest dividends.
-Refer to the [Fidelity DRIP Guide 2023](https://www.fidelity.com/) for detailed instructions.
+Refer to the Fidelity DRIP Guide 2023 for detailed instructions.
 
 ## Frequently Asked Questions
 ### What are the best dividend stocks for beginners?

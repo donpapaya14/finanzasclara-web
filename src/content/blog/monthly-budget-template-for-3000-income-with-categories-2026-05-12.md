@@ -40,7 +40,7 @@ For **debt repayment** and **savings**, allocate 20% of your income. The [Federa
 - **Debt Avalanche**: Focus on debts with the highest interest rates.
 
 ## Flexible Spending (20%)
-**Flexible spending** categories include dining out and entertainment. According to [NerdWallet’s Discretionary Spending Analysis](https://www.nerdwallet.com/blog/), consider allocating:
+**Flexible spending** categories include dining out and entertainment. According to NerdWallet’s Discretionary Spending Analysis, consider allocating:
 - 10% for dining out
 - 5% for entertainment
 - 5% for hobbies and personal development
@@ -51,13 +51,13 @@ Adjust these percentages based on your lifestyle and priorities.
 **Irregular expenses** like car maintenance and gifts can be managed with **sinking funds**. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) recommends setting aside a portion of your income each month for these expenses. Calculate your annual costs and divide by 12 for a monthly contribution.
 
 ## Income Fluctuation Buffer
-For those with **gig economy jobs** or **seasonal income variations**, it’s crucial to have a buffer. According to the [JP Morgan Chase Institute’s 2023 Gig Economy Report](https://www.jpmorganchase.com/institute/research/labor-markets), consider modifying your budget percentages during periods of low income.
+For those with **gig economy jobs** or **seasonal income variations**, it’s crucial to have a buffer. According to the JP Morgan Chase Institute’s 2023 Gig Economy Report, consider modifying your budget percentages during periods of low income.
 
 ## Template Customization
 To customize your **monthly budget template**, follow these steps:
 1. **Assess Your Expenses**: Track your spending for a month.
 2. **Adjust Percentages**: Based on your spending habits, adjust the percentages for each category.
-3. **Consider Your Location**: Use the [Economic Policy Institute’s Family Budget Calculator](https://www.epi.org/resources/budget/) to adjust for your location and family size.
+3. **Consider Your Location**: Use the Economic Policy Institute’s Family Budget Calculator to adjust for your location and family size.
 
 ### Comparison of Budgeting Approaches
 | Approach | Description | Recommendation |
@@ -67,7 +67,7 @@ To customize your **monthly budget template**, follow these steps:
 
 ## Frequently Asked Questions
 ### How do I create a budget if I have a variable income?
-The key to budgeting with a variable income is to prioritize essential expenses and build an emergency fund. According to [Forbes](https://www.forbes.com/), aim to save 3-6 months’ worth of expenses.
+The key to budgeting with a variable income is to prioritize essential expenses and build an emergency fund. According to Forbes, aim to save 3-6 months’ worth of expenses.
 
 ### What is the best budgeting app?
 Consider using [Tiller Money Budget Spreadsheet Template] or [You Need a Budget (YNAB)] for comprehensive budget tracking.

@@ -18,13 +18,13 @@ draft: false
 
 
 ## Introduction to Dollar-Cost Averaging vs Lump Sum Investing
-When it comes to investing, one of the most debated topics is whether to use **dollar-cost averaging (DCA)** or **lump sum investing**. According to a study by [Vanguard Research](https://www.vanguard.com), DCA underperforms lump sum investing about **75% of the time**, with an average annual return difference of **2.3%**.
+When it comes to investing, one of the most debated topics is whether to use **dollar-cost averaging (DCA)** or **lump sum investing**. According to a study by Vanguard Research, DCA underperforms lump sum investing about **75% of the time**, with an average annual return difference of **2.3%**.
 
 ## The Surprising Truth: DCA Underperforms 75% of the Time
 As mentioned, Vanguard's landmark study showed that lump sum beats DCA in most market conditions. The study found that over a 10-year period, lump sum investing outperformed DCA by an average of **2.3% per year**. This is a significant difference, especially for long-term investors.
 
 ## The 3 Market Conditions When DCA Actually Wins
-However, there are certain market conditions where DCA actually outperforms lump sum investing. According to a study by [Schwab Market Analysis](https://www.schwab.com), DCA wins during prolonged bear markets, such as the ones in **2000-2002** and **2008**. In these scenarios, DCA outperformed lump sum investing by an average of **5.1%** and **3.5%**, respectively.
+However, there are certain market conditions where DCA actually outperforms lump sum investing. According to a study by Schwab Market Analysis, DCA wins during prolonged bear markets, such as the ones in **2000-2002** and **2008**. In these scenarios, DCA outperformed lump sum investing by an average of **5.1%** and **3.5%**, respectively.
 
 | Market Condition | DCA Performance | Lump Sum Performance |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ However, there are certain market conditions where DCA actually outperforms lump
 > Relacionado: [5 Money Habits That Keep Most People Broke (And How to Fix Them)](/blog/5-money-habits-that-keep-you-broke)
 
 ## Psychological Benefits Quantified: DCA Reduces Stress by 40%
-Another benefit of DCA is that it can help reduce stress and anxiety for investors. According to a study by [Fidelity Behavioral Finance](https://www.fidelity.com), DCA users are **40% less likely to panic sell** during periods of market volatility. This can be especially beneficial for investors who are new to the market or have a low risk tolerance.
+Another benefit of DCA is that it can help reduce stress and anxiety for investors. According to a study by Fidelity Behavioral Finance, DCA users are **40% less likely to panic sell** during periods of market volatility. This can be especially beneficial for investors who are new to the market or have a low risk tolerance.
 
 ## Step-by-Step: How to Automate DCA on 3 Major Platforms
 To automate DCA on major platforms, follow these steps:
@@ -44,7 +44,7 @@ To automate DCA on major platforms, follow these steps:
 3. **Robinhood**: Set up a recurring investment plan by going to the "Invest" tab and selecting "Recurring Investments".
 
 ## The Hybrid Strategy Top Advisors Recommend
-Some top advisors recommend using a hybrid strategy that combines both lump sum and DCA investing. For example, if you receive a windfall of **$10,000**, you could invest **$5,000** immediately and then use DCA to invest the remaining **$5,000** over a period of **6 months**. According to a survey by [Charles Schwab Advisor Survey](https://www.schwab.com), this hybrid strategy can provide a good balance between minimizing risk and maximizing returns.
+Some top advisors recommend using a hybrid strategy that combines both lump sum and DCA investing. For example, if you receive a windfall of **$10,000**, you could invest **$5,000** immediately and then use DCA to invest the remaining **$5,000** over a period of **6 months**. According to a survey by Charles Schwab Advisor Survey, this hybrid strategy can provide a good balance between minimizing risk and maximizing returns.
 
 ## Frequently Asked Questions
 ### What is the best time to invest a lump sum?
@@ -60,10 +60,10 @@ The optimal frequency for DCA depends on the individual investor's goals and ris
 Yes, DCA can be used for tax-advantaged accounts such as **401(k)** or **IRA**. In fact, using DCA in these accounts can help reduce taxes and maximize returns.
 
 ### How does DCA affect my overall investment portfolio?
-DCA can help reduce the overall risk of your investment portfolio by **diversifying** your investments over time. According to a study by [Harvard Business Review](https://hbr.org), DCA can also help reduce the impact of **market volatility** on your portfolio.
+DCA can help reduce the overall risk of your investment portfolio by **diversifying** your investments over time. According to a study by Harvard Business Review, DCA can also help reduce the impact of **market volatility** on your portfolio.
 
 ### What are the fees associated with DCA?
-The fees associated with DCA depend on the investment platform and the specific investment vehicle. However, according to a study by [Investopedia](https://www.investopedia.com), **low-cost index funds** can provide a cost-effective way to implement DCA.
+The fees associated with DCA depend on the investment platform and the specific investment vehicle. However, according to a study by Investopedia, **low-cost index funds** can provide a cost-effective way to implement DCA.
 
 ## My Take
 As an app developer and professional chef, I have always been interested in finding ways to **optimize** and **streamline** processes. When it comes to investing, I believe that DCA can be a powerful tool for reducing risk and maximizing returns. In my own experience, I have used DCA to invest in a **tax-advantaged account**, and I have been pleased with the results.

@@ -26,9 +26,9 @@ According to the S&P 500 Dividend Aristocrats Index 2023, most blue-chip stocks 
 
 | Stock | Current Yield | Ex-Dividend Date | 10+ Year Dividend Growth History | Payout Ratio | Morningstar 'Wide Moat' Rating |
 | --- | --- | --- | --- | --- | --- |
-| [AGNC](https://www.agnc.com) | 5.44% | 2023-02-15 | Yes | 73.4% | Wide Moat |
-| [OHI](https://www.ohi.com) | 5.15% | 2023-03-14 | Yes | 66.7% | Wide Moat |
-| [MAIN](https://www.mainstreetcap.com) | 5.32% | 2023-02-15 | Yes | 71.1% | Wide Moat |
+| AGNC | 5.44% | 2023-02-15 | Yes | 73.4% | Wide Moat |
+| OHI | 5.15% | 2023-03-14 | Yes | 66.7% | Wide Moat |
+| MAIN | 5.32% | 2023-02-15 | Yes | 71.1% | Wide Moat |
 
 Data: Morningstar Dividend Sustainability Scores 2024
 
@@ -71,7 +71,7 @@ To invest in dividend stocks, research and select a few high-quality stocks with
 
 #### What is the best dividend stock for beginners?
 
-The best dividend stock for beginners is [AGNC](https://www.agnc.com), a real estate investment trust (REIT) with a 5.44% yield and a 10+ year dividend growth history.
+The best dividend stock for beginners is AGNC, a real estate investment trust (REIT) with a 5.44% yield and a 10+ year dividend growth history.
 
 #### How to calculate dividend yield?
 
@@ -91,7 +91,7 @@ The best way to reinvest dividends is through a dividend reinvestment plan (DRIP
 
 ### My Take
 
-As an app developer and professional chef, I've learned the importance of patience and discipline when it comes to investing in dividend stocks. By researching high-quality stocks with a history of paying consistent dividends, I've been able to build a diversified portfolio that generates a steady stream of income. One of my favorite dividend stocks is [AGNC](https://www.agnc.com), which has a 5.44% yield and a 10+ year dividend growth history. I've also learned to be cautious of dividend traps and to research a company's financial health, payout ratio, and dividend history before investing.
+As an app developer and professional chef, I've learned the importance of patience and discipline when it comes to investing in dividend stocks. By researching high-quality stocks with a history of paying consistent dividends, I've been able to build a diversified portfolio that generates a steady stream of income. One of my favorite dividend stocks is AGNC, which has a 5.44% yield and a 10+ year dividend growth history. I've also learned to be cautious of dividend traps and to research a company's financial health, payout ratio, and dividend history before investing.
 
 #
 

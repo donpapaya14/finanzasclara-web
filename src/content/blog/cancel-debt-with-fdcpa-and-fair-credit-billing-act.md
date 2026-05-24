@@ -46,7 +46,7 @@ There are exceptions to FDCPA and FCBA protections, including:
 * **Alternative dispute resolution**: Consumers may be required to participate in alternative dispute resolution, such as **arbitration** or **mediation**.
 
 ## Seeking Professional Help for Debt Relief
-Consumers can seek professional help for debt relief from **non-profit credit counseling agencies** and **attorney services**. According to the [National Foundation for Credit Counseling](https://www.nfcc.org), non-profit credit counseling agencies can provide consumers with **free or low-cost** debt counseling and education.
+Consumers can seek professional help for debt relief from **non-profit credit counseling agencies** and **attorney services**. According to the National Foundation for Credit Counseling, non-profit credit counseling agencies can provide consumers with **free or low-cost** debt counseling and education.
 
 ### Comparison of Debt Relief Options
 | Option | Description | Cost |
@@ -68,7 +68,7 @@ Yes, you can cancel your debt under FDCPA and FCBA if you follow the step-by-ste
 There are exceptions to FDCPA and FCBA protections, including **business debts**, **government debts**, and **alternative dispute resolution**. Consumers may be required to participate in alternative dispute resolution, such as **arbitration** or **mediation**.
 
 ## My Take
-As an app developer and professional chef, I have seen firsthand the impact of debt on individuals and families. I believe that it is essential to understand your rights under FDCPA and FCBA and to seek professional help if you are struggling with debt. I recommend seeking help from non-profit credit counseling agencies and attorney services, such as the [National Foundation for Credit Counseling](https://www.nfcc.org).
+As an app developer and professional chef, I have seen firsthand the impact of debt on individuals and families. I believe that it is essential to understand your rights under FDCPA and FCBA and to seek professional help if you are struggling with debt. I recommend seeking help from non-profit credit counseling agencies and attorney services, such as the National Foundation for Credit Counseling.
 I have worked with individuals who have successfully canceled their debt under FDCPA and FCBA, and I believe that it is possible to achieve debt relief with the right guidance and support. I recommend checking out [ The Debt Relief Guide en Amazon](https://www.amazon.com/s?k=+The+Debt+Relief+Guide&tag=vds96-20)(https://www.amazon.com) for more information on debt relief options.
 
 

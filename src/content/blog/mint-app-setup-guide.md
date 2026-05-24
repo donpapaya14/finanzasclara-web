@@ -19,7 +19,7 @@ draft: false
 
 ## Introduction to Mint App
 
-Mint is a **free personal finance app** developed by Intuit that helps users track spending, create budgets, and manage investments. According to [Intuit Inc. (2022)](https://www.intuit.com), Mint has over **25 million users** and connects to more than **20,000 financial institutions** in North America. The app requires iOS 13.0+/Android 7.0+ and uses **256-bit encryption** for security.
+Mint is a **free personal finance app** developed by Intuit that helps users track spending, create budgets, and manage investments. According to Intuit Inc. (2022), Mint has over **25 million users** and connects to more than **20,000 financial institutions** in North America. The app requires iOS 13.0+/Android 7.0+ and uses **256-bit encryption** for security.
 
 Key features include:
 - Real-time expense tracking
@@ -31,7 +31,7 @@ For beginners, [Mint: The Concise Guide to Getting Started with Mint.com](https:
 
 ## Step-by-Step Mint Account Setup
 
-Follow these **5 steps** to set up Mint ([Mint Support, 2023](https://help.mint.com)):
+Follow these **5 steps** to set up Mint (Mint Support, 2023):
 
 1. **Download the app** from App Store (4.8★) or Google Play (4.6★)
 2. **Create an account** using email or Apple/Google login
@@ -47,7 +47,7 @@ Pro Tip: Mint updates transactions every **4-6 hours**, but manual syncs are ava
 
 ## Tracking Expenses with Mint
 
-Mint automatically categorizes **95% of transactions** accurately ([The Balance, 2022](https://www.thebalancemoney.com)). To optimize:
+Mint automatically categorizes **95% of transactions** accurately (The Balance, 2022). To optimize:
 
 1. **Review categories weekly**: Tap any transaction to reclassify (e.g., "Starbucks" → Dining")
 2. **Set monthly limits**: The app users who budget save **23% more** annually (NerdWallet 2021)
@@ -61,7 +61,7 @@ Mint automatically categorizes **95% of transactions** accurately ([The Balance,
 
 ## Mint App Investment Tracking
 
-Mint supports **brokerage accounts** from Fidelity, Vanguard, and others ([Investopedia, 2022](https://www.investopedia.com)). Key functions:
+Mint supports **brokerage accounts** from Fidelity, Vanguard, and others (Investopedia, 2022). Key functions:
 
 - **Portfolio breakdown** by asset class (stocks/bonds/crypto)
 - **Performance comparisons** against S&P 500
@@ -71,7 +71,7 @@ Note: Mint doesn't support **direct trading**—use it alongside platforms like 
 
 ## Mint Bill Tracking and Alerts
 
-Users who enable bill tracking avoid **$120/year in late fees** on average ([NerdWallet, 2023](https://www.nerdwallet.com)). Setup:
+Users who enable bill tracking avoid **$120/year in late fees** on average (NerdWallet, 2023). Setup:
 
 1. Navigate to **Bills** → **Add Bill**
 2. Select from 5,000+ billers (utilities, credit cards)
@@ -82,7 +82,7 @@ Users who enable bill tracking avoid **$120/year in late fees** on average ([Ner
 Mint uses **bank-level security** including:
 - **Two-factor authentication** (SMS or authenticator apps)
 - **Read-only access** (cannot move funds)
-- **Touch ID/Face ID login** ([Intuit Security, 2022](https://security.intuit.com))
+- **Touch ID/Face ID login** (Intuit Security, 2022)
 
 ## Frequently Asked Questions
 

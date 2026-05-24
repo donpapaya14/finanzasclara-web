@@ -27,7 +27,7 @@ Key protections include:
 
 ## Understanding the Statute of Limitations for Credit Card Debt
 
-Each state sets a **statute of limitations** (SOL) for credit card debt, ranging from **3-10 years**. The [National Conference of State Legislatures (2022)](https://www.ncsl.org) reports these key deadlines:
+Each state sets a **statute of limitations** (SOL) for credit card debt, ranging from **3-10 years**. The National Conference of State Legislatures (2022) reports these key deadlines:
 
 | State | SOL (Years) |
 |-------|------------|
@@ -55,39 +55,39 @@ For persistent issues, consider a [ Credit Repair Kit en Amazon](https://www.ama
 ## Credit Card Debt Forgiveness Programs and Options
 
 Legitimate **debt forgiveness** options include:
-- **Debt management plans (DMPs)**: Nonprofits like the [National Foundation for Credit Counseling (2022)](https://www.nfcc.org) negotiate lower interest rates (avg. 8% reduction).
+- **Debt management plans (DMPs)**: Nonprofits like the National Foundation for Credit Counseling (2022) negotiate lower interest rates (avg. 8% reduction).
 - **Debt settlement**: Settle for 40-60% of balances, but expect credit score drops of 100+ points.
 - **Bankruptcy**: Chapter 7 eliminates unsecured debt but remains on reports for 10 years.
 
 ## Common Mistakes to Avoid When Canceling Credit Card Debt
 
-1. **Ignoring court summons**: Default judgments increase owed amounts by 25% ([Credit Karma, 2022](https://www.creditkarma.com)).
+1. **Ignoring court summons**: Default judgments increase owed amounts by 25% (Credit Karma, 2022).
 2. **Verbal agreements**: Always get settlement terms in writing.
 3. **Using retirement funds**: 401(k) withdrawals incur 10% penalties plus income tax.
 
 ## Conclusion and Next Steps for Credit Card Debt Cancellation
 
 Start with these actions:
-1. Order free credit reports at [AnnualCreditReport.com](https://www.annualcreditreport.com).
-2. Calculate your state's SOL using the [NCLC calculator](https://www.nclc.org).
+1. Order free credit reports at AnnualCreditReport.com.
+2. Calculate your state's SOL using the NCLC calculator.
 3. Consult a nonprofit credit counselor for personalized strategies.
 
 ## Frequently Asked Questions
 
 ### Can credit card debt be forgiven completely?
-Yes, through Chapter 7 bankruptcy or rare hardship programs. Most lenders require partial repayment—the average settlement is 48% of balances ([American Fair Credit Council, 2021](https://www.afcconline.org)).
+Yes, through Chapter 7 bankruptcy or rare hardship programs. Most lenders require partial repayment—the average settlement is 48% of balances (American Fair Credit Council, 2021).
 
 ### How long does canceled debt stay on credit reports?
 **7 years** from the delinquency date per FCRA guidelines. Disputed debts removed earlier still affect scores until the original timeframe lapses.
 
 ### What's the fastest way to cancel credit card debt?
-Bankruptcy discharges debt in 3-6 months but has severe consequences. For non-bankruptcy options, debt settlement takes 12-48 months ([NFCC, 2022](https://www.nfcc.org)).
+Bankruptcy discharges debt in 3-6 months but has severe consequences. For non-bankruptcy options, debt settlement takes 12-48 months (NFCC, 2022).
 
 ### Can I cancel debt myself without a lawyer?
-Yes—82% of debt disputes are filed pro se (without attorneys) according to [NACA data (2020)](https://www.naca.net). Use [ Debt Validation Letter Templates en Amazon](https://www.amazon.com/s?k=+Debt+Validation+Letter+Templates&tag=vds96-20) for DIY cases.
+Yes—82% of debt disputes are filed pro se (without attorneys) according to NACA data (2020). Use [ Debt Validation Letter Templates en Amazon](https://www.amazon.com/s?k=+Debt+Validation+Letter+Templates&tag=vds96-20) for DIY cases.
 
 ### Will debt cancellation hurt my credit score?
-Yes. Settlements typically cause 75-125 point drops, while bankruptcy impacts vary by starting score ([FICO, 2021](https://www.fico.com)).
+Yes. Settlements typically cause 75-125 point drops, while bankruptcy impacts vary by starting score (FICO, 2021).
 
 ## My Take
 
@@ -110,7 +110,7 @@ Tools like [ Budget Planners en Amazon](https://www.amazon.com/s?k=+Budget+Plann
 ## Practical Summary
 
 - **Verify all debts** with collectors within 30 days of contact
-- **Know your state's SOL**—this stops 43% of collection lawsuits ([NCLC, 2021](https://www.nclc.org))
+- **Know your state's SOL**—this stops 43% of collection lawsuits (NCLC, 2021)
 - **Dispute inaccuracies** using CFPB templates
 - **Avoid debt relief scams**—only use NFCC-approved counselors
 - **Consider balance transfers** for rates under 5% if you can pay within intro periods

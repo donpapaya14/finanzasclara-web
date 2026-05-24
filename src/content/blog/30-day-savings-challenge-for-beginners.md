@@ -19,10 +19,10 @@ draft: false
 ---
 
 ## Introduction to the 30-Day Savings Challenge for Beginners
-The **30-day savings challenge for beginners** is a great way to kick-start your savings journey. According to a study by [NerdWallet](https://www.nerdwallet.com), 64% of Americans don't have enough savings to cover a $1,000 emergency. To avoid this, it's essential to create a **savings plan** and stick to it.
+The **30-day savings challenge for beginners** is a great way to kick-start your savings journey. According to a study by NerdWallet, 64% of Americans don't have enough savings to cover a $1,000 emergency. To avoid this, it's essential to create a **savings plan** and stick to it.
 
 ## Understanding the 50/30/20 Rule
-The **50/30/20 rule** is a simple way to allocate your income towards necessities, discretionary spending, and saving. According to [NerdWallet's 50/30/20 Rule Study (2020)](https://www.nerdwallet.com/blog/50-30-20-rule/), 50% of your income should go towards necessities like rent, utilities, and groceries. 30% towards discretionary spending like entertainment, hobbies, and travel. And 20% towards saving and debt repayment.
+The **50/30/20 rule** is a simple way to allocate your income towards necessities, discretionary spending, and saving. According to NerdWallet's 50/30/20 Rule Study (2020), 50% of your income should go towards necessities like rent, utilities, and groceries. 30% towards discretionary spending like entertainment, hobbies, and travel. And 20% towards saving and debt repayment.
 
 Here's a breakdown of how to allocate your income:
 | Category | Percentage of Income |
@@ -32,7 +32,7 @@ Here's a breakdown of how to allocate your income:
 | Saving and Debt Repayment | 20% |
 
 ## Creating a Savings Goal and Setting Realistic Expectations
-To create a **savings goal**, you need to determine how much you want to save and by when. According to [Charles Schwab's Savings Goal Calculator (2022)](https://www.schwab.com/savings-goal-calculator), you should consider factors like your income, expenses, and debt when setting your goal.
+To create a **savings goal**, you need to determine how much you want to save and by when. According to Charles Schwab's Savings Goal Calculator (2022), you should consider factors like your income, expenses, and debt when setting your goal.
 
 Here are the steps to set a savings goal:
 1. Determine your savings goal
@@ -42,7 +42,7 @@ Here are the steps to set a savings goal:
 > Relacionado: [5 Money Habits That Keep Most People Broke (And How to Fix Them)](/blog/5-money-habits-that-keep-you-broke)
 
 ## Daily Savings Plan for 30 Days
-To create a **daily savings plan**, you need to determine how much you can save each day. According to [Dave Ramsey's Daily Savings Plan (2020)](https://www.daveramsey.com/blog/daily-savings-plan/), you should start by saving a small amount each day and increase it over time.
+To create a **daily savings plan**, you need to determine how much you can save each day. According to Dave Ramsey's Daily Savings Plan (2020), you should start by saving a small amount each day and increase it over time.
 
 Here's a daily savings plan for 30 days:
 | Day | Savings Amount |
@@ -57,7 +57,7 @@ Here's a daily savings plan for 30 days:
 > Relacionado: [Automated Savings with 50/30/20 Rule Calculator](/blog/automated-savings-with-50-30-20-rule-calculator)
 
 ## Overcoming Obstacles and Staying Motivated
-To overcome obstacles and stay motivated, you need to create a **support system**. According to [Harvard Business Review's Staying Motivated Study (2019)](https://hbr.org/2019/02/the-science-of-staying-motivated), you should surround yourself with people who support your goals and provide encouragement.
+To overcome obstacles and stay motivated, you need to create a **support system**. According to Harvard Business Review's Staying Motivated Study (2019), you should surround yourself with people who support your goals and provide encouragement.
 
 Here are some strategies to overcome obstacles:
 1. Create a support system
@@ -65,7 +65,7 @@ Here are some strategies to overcome obstacles:
 3. Track your progress
 
 ## Reviewing Progress and Adjusting the Plan
-To review your progress and adjust your plan, you need to track your savings. According to [Kiplinger's Review and Adjust Study (2020)](https://www.kiplinger.com/personal-finance/saving/review-and-adjust-your-savings-plan), you should review your progress regularly and make adjustments as needed.
+To review your progress and adjust your plan, you need to track your savings. According to Kiplinger's Review and Adjust Study (2020), you should review your progress regularly and make adjustments as needed.
 
 Here are the steps to review your progress:
 1. Track your savings
@@ -73,7 +73,7 @@ Here are the steps to review your progress:
 3. Make adjustments as needed
 
 ## Maintaining the Savings Habit Beyond 30 Days
-To maintain the **savings habit**, you need to create a long-term plan. According to [The Balance's Savings Habit Study (2020)](https://www.thebalance.com/how-to-create-a-savings-habit-4117965), you should set a long-term goal and create a plan to achieve it.
+To maintain the **savings habit**, you need to create a long-term plan. According to The Balance's Savings Habit Study (2020), you should set a long-term goal and create a plan to achieve it.
 
 Here are some tips to maintain the savings habit:
 1. Set a long-term goal
@@ -82,22 +82,22 @@ Here are some tips to maintain the savings habit:
 
 ## Frequently Asked Questions
 ### How much should I save each month?
-You should save at least 20% of your income each month. According to [NerdWallet](https://www.nerdwallet.com), this will help you build an **emergency fund** and achieve your long-term goals.
+You should save at least 20% of your income each month. According to NerdWallet, this will help you build an **emergency fund** and achieve your long-term goals.
 ### What is the best way to save money?
-The best way to save money is to create a **budget** and stick to it. According to [Dave Ramsey](https://www.daveramsey.com), you should prioritize your expenses and save for the future.
+The best way to save money is to create a **budget** and stick to it. According to Dave Ramsey, you should prioritize your expenses and save for the future.
 ### How can I avoid overspending?
-You can avoid overspending by creating a **spending plan**. According to [Kiplinger](https://www.kiplinger.com), you should track your expenses and make adjustments as needed.
+You can avoid overspending by creating a **spending plan**. According to Kiplinger, you should track your expenses and make adjustments as needed.
 ### What is the importance of emergency fund?
-An **emergency fund** is essential to cover unexpected expenses. According to [The Balance](https://www.thebalance.com), you should save at least 3-6 months' worth of expenses in an easily accessible savings account.
+An **emergency fund** is essential to cover unexpected expenses. According to The Balance, you should save at least 3-6 months' worth of expenses in an easily accessible savings account.
 ### How can I stay motivated to save?
-You can stay motivated to save by creating a **support system**. According to [Harvard Business Review](https://hbr.org), you should surround yourself with people who support your goals and provide encouragement.
+You can stay motivated to save by creating a **support system**. According to Harvard Business Review, you should surround yourself with people who support your goals and provide encouragement.
 ### What are some good savings apps?
-Some good savings apps include [Qapital](https://www.qapital.com) and [Digit](https://www.digit.co). According to [NerdWallet](https://www.nerdwallet.com), these apps can help you automate your savings and achieve your goals.
+Some good savings apps include Qapital and Digit. According to NerdWallet, these apps can help you automate your savings and achieve your goals.
 
 ## My Take
 As an app developer and professional chef, I understand the importance of saving money. I've been in situations where I had to **cut back on expenses** and prioritize my savings. One of the most effective ways I've found to save money is by using the **envelope system**. I allocate a certain amount of cash for each category of expenses and place it in an envelope. This helps me stick to my budget and avoid overspending.
 
-I also recommend reading [The Automatic Millionaire by David Bach](https://www.amazon.com/Automatic-Millionaire-Transforming-Wealth-Automatically/dp/0767903691) for more tips on saving money. Additionally, you can check out [You Need a Budget (YNAB)](https://www.youneedabudget.com) and [Mint](https://www.mint.com) for budgeting and savings tools.
+I also recommend reading [The Automatic Millionaire by David Bach](https://www.amazon.com/Automatic-Millionaire-Transforming-Wealth-Automatically/dp/0767903691) for more tips on saving money. Additionally, you can check out You Need a Budget (YNAB) and Mint for budgeting and savings tools.
 
 
 

@@ -28,7 +28,7 @@ Key factors to calculate:
 
 ## Creating a Personalized Payoff Plan
 
-A structured **credit card debt payoff plan** starts with calculating your total debt and setting a realistic timeline. The [National Foundation for Credit Counseling](https://www.nfcc.org) (2020) recommends allocating at least 15-20% of your monthly income to debt repayment for balances under $10,000.
+A structured **credit card debt payoff plan** starts with calculating your total debt and setting a realistic timeline. The National Foundation for Credit Counseling (2020) recommends allocating at least 15-20% of your monthly income to debt repayment for balances under $10,000.
 
 **Step-by-step process**:
 1. List all cards with balances, APRs, and minimum payments
@@ -51,7 +51,7 @@ Two proven **debt repayment strategies** dominate financial planning:
 | Method | How It Works | Pros | Cons |
 |--------|-------------|------|------|
 | **Snowball** | Pay smallest balances first | Quick wins boost motivation | Pays more interest long-term |
-| **Avalanche** | Pay highest APR debts first | Saves 15-30% on interest ([HBR 2019](https://hbr.org)) | Requires discipline for slow initial progress |
+| **Avalanche** | Pay highest APR debts first | Saves 15-30% on interest (HBR 2019) | Requires discipline for slow initial progress |
 
 **Case study**: For $5,000 across three cards ($2k at 22%, $2k at 18%, $1k at 15%), the avalanche method saves **$127 more** over 18 months than snowball.
 
@@ -62,11 +62,11 @@ The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) (202
 **Expense reduction tactics**:
 1. **Cancel 2 subscriptions** ($15-30/month savings)
 2. **Switch to generic brands** (23% savings on groceries per [USDA 2020](https://www.usda.gov))
-3. **Negotiate bills**: 61% succeed in lowering internet/cable costs ([J.D. Power 2022](https://www.jdpower.com))
+3. **Negotiate bills**: 61% succeed in lowering internet/cable costs (J.D. Power 2022)
 
 **Income boost options**:
 - **Freelance gigs**: 3-5 hours/week at $20/hour = $240-400/month
-- **Sell unused items**: Average garage sale yields $300-500 ([NAR 2021](https://www.nar.realtor))
+- **Sell unused items**: Average garage sale yields $300-500 (NAR 2021)
 
 ## Using the 50/30/20 Rule for Debt Repayment
 
@@ -81,11 +81,11 @@ For debt payoff, temporarily adjust to **60/10/30**:
   - $300 to wants (10%)
   - $900 to debt (30%) → pays $5k in **6 months**
 
-[American Journal of Economics](https://www.aeaweb.org) (2018) studies show this modified approach accelerates payoff by 40-60% versus standard budgeting.
+American Journal of Economics (2018) studies show this modified approach accelerates payoff by 40-60% versus standard budgeting.
 
 ## Maintaining Momentum and Avoiding Debt Relapse
 
-Relapse affects 43% of debt-free individuals within 2 years ([Credit Counseling Agency 2020](https://www.nfcc.org)). Prevention strategies:
+Relapse affects 43% of debt-free individuals within 2 years (Credit Counseling Agency 2020). Prevention strategies:
 
 1. **Visual tracking**: Color-in debt charts or apps like YNAB
 2. **Monthly check-ins**: Review spending every 30 days
@@ -95,7 +95,7 @@ Relapse affects 43% of debt-free individuals within 2 years ([Credit Counseling 
 ## Frequently Asked Questions
 
 ### How long to pay off $5,000 in credit card debt?
-Paying $500/month at 16% APR clears $5,000 in **11 months** with $300 interest. The exact timeline depends on your APR and monthly payment amount - use a calculator like [Bankrate's](https://www.bankrate.com).
+Paying $500/month at 16% APR clears $5,000 in **11 months** with $300 interest. The exact timeline depends on your APR and monthly payment amount - use a calculator like Bankrate's.
 
 ### Should I pay off credit cards or save first?
 The [Federal Reserve](https://www.federalreserve.gov) recommends prioritizing credit cards with APRs over 10% before saving, as interest costs typically exceed investment returns. Exceptions: Always keep a $500 emergency fund.
@@ -104,7 +104,7 @@ The [Federal Reserve](https://www.federalreserve.gov) recommends prioritizing cr
 The avalanche method combined with increased payments is mathematically optimal. For $5k debt, adding $300/month from side gigs can cut payoff time by 60% versus minimum payments.
 
 ### Can I negotiate credit card interest rates?
-Yes - 76% of consumers who asked for lower rates succeeded in 2021 ([LendingTree](https://www.lendingtree.com)). Call your issuer and mention competitor offers or your payment history.
+Yes - 76% of consumers who asked for lower rates succeeded in 2021 (LendingTree). Call your issuer and mention competitor offers or your payment history.
 
 ### Does debt consolidation help?
 Balance transfers to 0% APR cards can save $400-800 on $5k debt if paid within the promo period (typically 12-18 months). Watch for 3-5% transfer fees.

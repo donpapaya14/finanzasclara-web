@@ -24,7 +24,7 @@ To **calculate APR on a personal loan**, it's essential to understand that APR i
 The **APR vs interest rate** distinction is crucial because APR provides a more comprehensive picture of the loan's cost. The CFPB report emphasizes that APR is a more accurate measure of the cost of borrowing, as it takes into account various fees associated with the loan. For example, if you borrow $10,000 at an interest rate of 6% but with an origination fee of 1%, your APR would be higher than 6%, reflecting the additional cost.
 
 ## The 3 fees lenders hide in small print
-Lenders often charge fees that are not immediately apparent, including **document preparation fees**, **prepayment penalties**, and **late payment fees**. A 2023 fee analysis by [LendingTree](https://www.lendingtree.com) found that these fees can significantly impact the total repayment amount. Typical cost ranges for these fees are:
+Lenders often charge fees that are not immediately apparent, including **document preparation fees**, **prepayment penalties**, and **late payment fees**. A 2023 fee analysis by LendingTree found that these fees can significantly impact the total repayment amount. Typical cost ranges for these fees are:
 - Document preparation fees: $100-$500
 - Prepayment penalties: 1%-5% of the outstanding balance
 - Late payment fees: $25-$50
@@ -45,10 +45,10 @@ The length of the loan term significantly impacts the **true cost of borrowing**
 | --- | --- | --- |
 | 3 years | $299 | $1,077 |
 | 5 years | $197 | $1,831 |
-According to a 2023 loan term analysis by [Bankrate](https://www.bankrate.com), borrowers should carefully consider the loan term when evaluating the true cost of borrowing.
+According to a 2023 loan term analysis by Bankrate, borrowers should carefully consider the loan term when evaluating the true cost of borrowing.
 
 ## APR red flags when comparing lenders
-When comparing lenders, beware of deceptive advertising tactics, such as 'from X% APR' disclaimers. A 2023 lender disclosure study by [NerdWallet](https://www.nerdwallet.com) found that these tactics can lead borrowers to underestimate the true cost of borrowing. To find the real rate you'll qualify for, carefully review the loan terms and ask about all fees associated with the loan.
+When comparing lenders, beware of deceptive advertising tactics, such as 'from X% APR' disclaimers. A 2023 lender disclosure study by NerdWallet found that these tactics can lead borrowers to underestimate the true cost of borrowing. To find the real rate you'll qualify for, carefully review the loan terms and ask about all fees associated with the loan.
 
 ## Interactive APR calculator tool
 Use our interactive APR calculator to input your loan amount, fees, and term to see your true APR and total repayment amount.

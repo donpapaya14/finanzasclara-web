@@ -30,20 +30,20 @@ To estimate the true cost of a loan, follow these steps:
 1. Determine the loan amount and APR.
 2. Calculate the origination fee and other charges.
 3. Use a **loan calculator** to estimate the monthly payment and total repayment amount.
-A downloadable template can be found on [NerdWallet](https://www.nerdwallet.com).
+A downloadable template can be found on NerdWallet.
 
 ## Case Study: Paying Off a Loan with Fees
-A real-life example of a borrower paying off a loan with fees is a **$10,000 personal loan** with a **15% APR** and a **$1,000 origination fee**. According to [Credit Karma](https://www.creditkarma.com), the borrower would need to pay **$333** per month for 36 months to pay off the loan. Late fees can also add up quickly, with an average late fee of **$25** per missed payment.
+A real-life example of a borrower paying off a loan with fees is a **$10,000 personal loan** with a **15% APR** and a **$1,000 origination fee**. According to Credit Karma, the borrower would need to pay **$333** per month for 36 months to pay off the loan. Late fees can also add up quickly, with an average late fee of **$25** per missed payment.
 
 ## Tips for Minimizing Fees and Reducing True Costs
 To minimize fees and reduce the true cost of a loan, follow these tips:
 1. Make timely payments to avoid late fees.
 2. Choose a loan with a lower APR and fewer fees.
 3. Use a **loan calculator** to estimate the true cost of the loan.
-As [Experian](https://www.experian.com) suggests, borrowers should also consider their credit score and history when applying for a loan.
+As Experian suggests, borrowers should also consider their credit score and history when applying for a loan.
 
 ## Conclusion: Making Informed Decisions about Loans
-In conclusion, understanding the **true cost of a loan with fees** is crucial for making informed financial decisions. By using a **loan calculator** and considering the APR, origination fee, and other charges, borrowers can estimate the total repayment amount and make smart choices. As the [National Foundation for Credit Counseling](https://www.nfcc.org) recommends, borrowers should also seek professional advice if needed.
+In conclusion, understanding the **true cost of a loan with fees** is crucial for making informed financial decisions. By using a **loan calculator** and considering the APR, origination fee, and other charges, borrowers can estimate the total repayment amount and make smart choices. As the National Foundation for Credit Counseling recommends, borrowers should also seek professional advice if needed.
 
 ## Frequently Asked Questions
 ### What is the average APR for a personal loan?
@@ -51,7 +51,7 @@ The average APR for a personal loan is around **10.93%**, according to the [Fede
 ### How do I calculate the true cost of a loan?
 To calculate the true cost of a loan, use a **loan calculator** and consider the APR, origination fee, and other charges.
 ### What is the impact of late fees on loan repayments?
-Late fees can add up quickly, with an average late fee of **$25** per missed payment, according to [Credit Karma](https://www.creditkarma.com).
+Late fees can add up quickly, with an average late fee of **$25** per missed payment, according to Credit Karma.
 ### How can I minimize fees and reduce the true cost of a loan?
 To minimize fees and reduce the true cost of a loan, make timely payments, choose a loan with a lower APR and fewer fees, and use a **loan calculator**.
 ### What is the importance of understanding the true cost of a loan?

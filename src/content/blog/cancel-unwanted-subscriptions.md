@@ -21,7 +21,7 @@ draft: false
 The average American spends around **$1,300 per year** on unwanted subscriptions, according to the [Federal Trade Commission](https://www.ftc.gov) (2022). These recurring payments can have a significant impact on personal finance, making it essential to identify and cancel unwanted subscriptions.
 
 ## Most Common Types of Unwanted Subscriptions
-Frequently forgotten subscriptions include streaming services, software, and membership programs. A report by [Consumer Reports](https://www.consumerreports.org) (2020) found that **60% of consumers** have forgotten to cancel a subscription service.
+Frequently forgotten subscriptions include streaming services, software, and membership programs. A report by Consumer Reports (2020) found that **60% of consumers** have forgotten to cancel a subscription service.
 
 | Type of Subscription | Average Annual Cost |
 | --- | --- |
@@ -30,7 +30,7 @@ Frequently forgotten subscriptions include streaming services, software, and mem
 | Membership Programs | $200 |
 
 ## How to Identify Unwanted Subscriptions
-To identify unwanted subscriptions, review your bank statements and credit card receipts for unknown recurring charges. The [National Foundation for Credit Counseling](https://www.nfcc.org) (2021) recommends checking your statements regularly to catch any suspicious activity.
+To identify unwanted subscriptions, review your bank statements and credit card receipts for unknown recurring charges. The National Foundation for Credit Counseling (2021) recommends checking your statements regularly to catch any suspicious activity.
 
 1. Review your bank statements and credit card receipts
 2. Check for unknown recurring charges
@@ -47,10 +47,10 @@ To cancel unwanted subscriptions, follow these steps:
 
 > Relacionado: [passive income from vending machines: costs and profits](/blog/passive-income-from-vending-machines-costs-and-profits)
 
-The [Better Business Bureau](https://www.bbb.org) (2022) recommends keeping a record of your cancellation requests.
+The Better Business Bureau (2022) recommends keeping a record of your cancellation requests.
 
 ## Tools for Managing Subscriptions
-Apps and services like [Truebill Subscription Manager](https://www.truebill.com) and Trim can help track and cancel unwanted subscriptions. The [Balance](https://www.thebalance.com) (2022) recommends using these tools to stay on top of your subscriptions.
+Apps and services like Truebill Subscription Manager and Trim can help track and cancel unwanted subscriptions. The Balance (2022) recommends using these tools to stay on top of your subscriptions.
 
 ## Preventing Future Unwanted Subscriptions
 To avoid accidental sign-ups, always read the terms and conditions before signing up for a service. The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) (2020) recommends being cautious when signing up for free trials.
@@ -69,12 +69,12 @@ Frequently forgotten subscriptions include streaming services, software, and mem
 ### How can I cancel unwanted subscriptions?
 Visit the company website, call the customer service number, or send an email to the customer service department.
 ### What tools can I use to manage my subscriptions?
-Apps and services like [Truebill Subscription Manager](https://www.truebill.com) and Trim can help track and cancel unwanted subscriptions.
+Apps and services like Truebill Subscription Manager and Trim can help track and cancel unwanted subscriptions.
 ### Can I use [Truebill Subscription Manager en Amazon](https://www.amazon.com/s?k=Truebill+Subscription+Manager&tag=vds96-20) to manage my subscriptions?
 Yes, [Truebill Subscription Manager en Amazon](https://www.amazon.com/s?k=Truebill+Subscription+Manager&tag=vds96-20) is a useful tool for managing subscriptions.
 
 ## My Take
-As an app developer and professional chef, I have experienced the frustration of unwanted subscriptions firsthand. I recommend using tools like [Truebill Subscription Manager](https://www.truebill.com) to stay on top of your subscriptions.
+As an app developer and professional chef, I have experienced the frustration of unwanted subscriptions firsthand. I recommend using tools like Truebill Subscription Manager to stay on top of your subscriptions.
 
 I also recommend being cautious when signing up for free trials and reading the terms and conditions carefully. It's essential to be mindful of your spending habits and take control of your finances.
 
@@ -92,7 +92,7 @@ In my experience, canceling unwanted subscriptions can have a significant impact
 ## Practical Summary
 * Review your bank statements and credit card receipts regularly
 * Identify and cancel unwanted subscriptions
-* Use tools like [Truebill Subscription Manager](https://www.truebill.com) to manage your subscriptions
+* Use tools like Truebill Subscription Manager to manage your subscriptions
 * Be cautious when signing up for free trials
 * Read the terms and conditions carefully
 * Set reminders to cancel subscriptions

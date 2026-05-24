@@ -19,16 +19,16 @@ draft: false
 
 ## What is Dollar-Cost Averaging?
 
-**Dollar-cost averaging (DCA)** is an investment strategy where you invest a fixed amount of money at regular intervals, regardless of market conditions. This approach reduces the impact of volatility by spreading purchases over time. According to [Investopedia (2022)](https://www.investopedia.com), DCA lowers the average purchase price per share and mitigates emotional decision-making.
+**Dollar-cost averaging (DCA)** is an investment strategy where you invest a fixed amount of money at regular intervals, regardless of market conditions. This approach reduces the impact of volatility by spreading purchases over time. According to Investopedia (2022), DCA lowers the average purchase price per share and mitigates emotional decision-making.
 
-Historical data supports its effectiveness. A [Vanguard study (2019)](https://www.vanguard.com) analyzed 10-year returns and found that DCA outperformed lump-sum investing in 68% of cases during high-volatility periods. Key benefits include:
+Historical data supports its effectiveness. A Vanguard study (2019) analyzed 10-year returns and found that DCA outperformed lump-sum investing in 68% of cases during high-volatility periods. Key benefits include:
 - **Reduced risk**: Avoids timing the market
 - **Discipline**: Encourages consistent investing
 - **Accessibility**: Works with small amounts
 
 ## Step-by-Step Setup for DCA
 
-1. **Choose a brokerage**: Select a low-fee platform like Fidelity or Schwab. [Fidelity Investments (2020)](https://www.fidelity.com) recommends automated tools for seamless execution.
+1. **Choose a brokerage**: Select a low-fee platform like Fidelity or Schwab. Fidelity Investments (2020) recommends automated tools for seamless execution.
 2. **Set your amount**: Start with as little as $50/month. Consistency matters more than the amount.
 3. **Pick your assets**: Index funds like S&P 500 ETFs are ideal for DCA due to diversification.
 4. **Automate**: Schedule recurring purchases (e.g., every 1st of the month).
@@ -44,26 +44,26 @@ Historical data supports its effectiveness. A [Vanguard study (2019)](https://ww
 
 ## Real Historical Data on DCA
 
-A [Vanguard Research (2019)](https://www.vanguard.com) analysis of U.S. markets (1926–2018) revealed:
+A Vanguard Research (2019) analysis of U.S. markets (1926–2018) revealed:
 - DCA underperformed lump sum by 2.3% annually in bull markets
 - **But** reduced drawdowns by 15% during crashes like 2008
 - 90% of retail investors using DCA held positions longer than 3 years vs. 60% with lump sums
 
 ## Common Mistakes to Avoid in DCA
 
-1. **Stopping during downturns**: [The Balance (2021)](https://www.thebalance.com) found investors who paused DCA in 2020 missed 30%+ rebounds.
+1. **Stopping during downturns**: The Balance (2021) found investors who paused DCA in 2020 missed 30%+ rebounds.
 2. **Overcomplicating assets**: Stick to 1-3 broad index funds.
 3. **Ignoring fees**: Even 0.5% fees can erode 20% of returns over 30 years ([SEC](https://www.sec.gov), 2021).
 
 ## Combining DCA with Other Strategies
 
-- **Tax-advantaged accounts**: [Charles Schwab (2020)](https://www.schwab.com) shows Roth IRAs amplify DCA benefits by shielding gains.
+- **Tax-advantaged accounts**: Charles Schwab (2020) shows Roth IRAs amplify DCA benefits by shielding gains.
 - **Diversification**: Pair DCA with bonds (e.g., 60/40 stocks/bonds) to further reduce risk.
 - **Value averaging**: Adjust contributions based on performance (advanced strategy).
 
 ## Case Studies and Examples
 
-[Forbes (2022)](https://www.forbes.com) highlighted a teacher who invested $200/month in an S&P 500 fund from 1990–2020. Despite three recessions, her portfolio grew to **$285,000** (9.8% annualized). Key takeaways:
+Forbes (2022) highlighted a teacher who invested $200/month in an S&P 500 fund from 1990–2020. Despite three recessions, her portfolio grew to **$285,000** (9.8% annualized). Key takeaways:
 - Started early (age 25)
 - Never skipped a payment
 - Reinvested dividends
@@ -77,13 +77,13 @@ DCA typically underperforms lump sums in bull markets but reduces risk. Vanguard
 Monthly intervals are optimal. A Fidelity (2020) backtest showed monthly DCA captured 95% of gains vs. quarterly (89%) with lower cash drag.
 
 ### What’s the minimum amount for DCA?
-You can start with $50/month. [Schwab (2020)](https://www.schwab.com) found 73% of successful DCA users began with <$100/month.
+You can start with $50/month. Schwab (2020) found 73% of successful DCA users began with <$100/month.
 
 ### Does DCA work in bear markets?
-Yes. During 2008–2009, DCA investors bought more shares at lower prices, recovering losses 18 months faster ([Morningstar](https://www.morningstar.com), 2020).
+Yes. During 2008–2009, DCA investors bought more shares at lower prices, recovering losses 18 months faster (Morningstar, 2020).
 
 ### Can I use DCA for crypto?
-Possible but riskier. Bitcoin DCA from 2015–2020 yielded 200%+ returns, but with 80% drawdowns ([CoinDesk](https://www.coindesk.com), 2021).
+Possible but riskier. Bitcoin DCA from 2015–2020 yielded 200%+ returns, but with 80% drawdowns (CoinDesk, 2021).
 
 ## My Take
 

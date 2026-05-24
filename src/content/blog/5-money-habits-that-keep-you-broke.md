@@ -47,11 +47,11 @@ You cannot manage what you don't measure. Most people have no idea where their m
 
 The average American spends **$219/month on subscriptions alone** (C+R Research, 2022). Most can't name half of them.
 
-**The fix:** Use a free tracker. [YNAB](https://www.youneedabudget.com) or even a spreadsheet. The act of categorizing your spending reduces it by 15-20% on average — just by making it visible.
+**The fix:** Use a free tracker. YNAB or even a spreadsheet. The act of categorizing your spending reduces it by 15-20% on average — just by making it visible.
 
 ## 4. Keeping Emergency Fund in a Regular Checking Account
 
-A standard checking account pays 0.01% interest. A [high-yield savings account](https://www.nerdwallet.com/best/banking/high-yield-online-savings-accounts) pays 4.5-5.0% APY (2024 rates).
+A standard checking account pays 0.01% interest. A high-yield savings account pays 4.5-5.0% APY (2024 rates).
 
 On a $5,000 emergency fund: that's $250/year vs $0.50/year. Free money, zero risk.
 

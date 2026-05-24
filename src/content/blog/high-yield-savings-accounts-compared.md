@@ -28,7 +28,7 @@ Key benefits include:
 
 ## Top High-Yield Savings Accounts
 
-Based on [Bankrate 2023](https://www.bankrate.com) data, here are the top contenders:
+Based on Bankrate 2023 data, here are the top contenders:
 
 | Bank | APY (2023) | Minimum Deposit | Monthly Fees |
 |-------|------------|-----------------|-------------|
@@ -46,7 +46,7 @@ Based on [Bankrate 2023](https://www.bankrate.com) data, here are the top conten
 
 ## Online Banks vs Traditional Banks
 
-[NerdWallet 2023](https://www.nerdwallet.com) analysis shows online banks offer **4x higher interest** on average than brick-and-mortar institutions:
+NerdWallet 2023 analysis shows online banks offer **4x higher interest** on average than brick-and-mortar institutions:
 
 - **Online Banks (CIT Bank, Axos)**: 4.00%-5.00% APY, no physical branches, lower overhead costs
 - **Traditional Banks (Wells Fargo, Bank of America)**: 0.01%-0.05% APY, branch access, often require $500+ minimum balances
@@ -55,7 +55,7 @@ Based on [Bankrate 2023](https://www.bankrate.com) data, here are the top conten
 
 ## Compounding Interest and APY
 
-[Investopedia 2022](https://www.investopedia.com) defines **APY (Annual Percentage Yield)** as the real rate of return including compound interest. Here's how it works:
+Investopedia 2022 defines **APY (Annual Percentage Yield)** as the real rate of return including compound interest. Here's how it works:
 
 1. **Daily Compounding**: Interest is calculated daily and added monthly
 2. **Snowball Effect**: Earnings generate their own earnings over time
@@ -79,7 +79,7 @@ The [Consumer Financial Protection Bureau (CFPB) 2022](https://www.consumerfinan
 
 ## Conclusion and Recommendations
 
-Per [Kiplinger 2023](https://www.kiplinger.com), the best **high-yield savings account** depends on:
+Per Kiplinger 2023, the best **high-yield savings account** depends on:
 - **Goal amount**: CIT Bank for >$5,000 balances
 - **Access frequency**: Discover for ATM access
 - **Tech preferences**: Ally for best mobile experience
@@ -119,7 +119,7 @@ Cooking analogy: Choosing a savings account is like picking a sous vide machine.
 - Open a **no-fee HYSA** (Ally/Marcus) within 15 minutes online
 - Deposit at least **$1,000** to see meaningful interest
 - Set up **auto-transfers** of $100+/month
-- Check rates quarterly using [Bankrate](https://www.bankrate.com)
+- Check rates quarterly using Bankrate
 - Withdraw only 1-2 times/month to avoid fees
 - Combine with a [Fire HD 10 Tablet en Amazon](https://www.amazon.com/s?k=Fire+HD+10+Tablet&tag=vds96-20) for mobile banking
 

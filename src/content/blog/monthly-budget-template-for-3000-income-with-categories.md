@@ -42,7 +42,7 @@ Prioritizing **high-interest debt** over **emergency fund** savings is advisable
 > Relacionado: [Cancel Credit Card Debt](/blog/cancel-credit-card-debt)
 
 ## Flexible Spending (10-20%)
-Flexible spending includes **dining out**, **entertainment**, and **subscriptions**. According to the [NerdWallet Budgeting Survey (2023)](https://www.nerdwallet.com/), using **sinking funds** for irregular expenses like car maintenance can help manage finances more effectively.
+Flexible spending includes **dining out**, **entertainment**, and **subscriptions**. According to the NerdWallet Budgeting Survey (2023), using **sinking funds** for irregular expenses like car maintenance can help manage finances more effectively.
 
 | Category | Allocation |
 | --- | --- |
@@ -53,13 +53,13 @@ Flexible spending includes **dining out**, **entertainment**, and **subscription
 > Relacionado: [YNAB app setup guide for beginners](/blog/ynab-app-setup-guide-for-beginners)
 
 ## Irregular Income Adjustments
-For **gig workers or those with irregular bonuses**, adapting the budget template is essential. The [JP Morgan Chase Income Volatility Report (2021)](https://www.jpmorganchase.com/) suggests allocating **50% of extra income towards savings** to stabilize financial situations.
+For **gig workers or those with irregular bonuses**, adapting the budget template is essential. The JP Morgan Chase Income Volatility Report (2021) suggests allocating **50% of extra income towards savings** to stabilize financial situations.
 
 1. Identify irregular income sources.
 2. Allocate 50% of extra income towards savings or debt repayment.
 
 ## Free Downloadable Template
-A customizable Google Sheets template with pre-set formulas for **$3k income tracking** can be accessed [here](https://docs.google.com/spreadsheets/). This template helps in organizing finances and making adjustments as needed.
+A customizable Google Sheets template with pre-set formulas for **$3k income tracking** can be accessed here. This template helps in organizing finances and making adjustments as needed.
 
 ## Frequently Asked Questions
 ### What is the ideal budget percentage for savings?
@@ -72,13 +72,13 @@ Using **sinking funds** for irregular expenses can help in managing finances mor
 The **50/30/20 rule** suggests allocating **50% of income towards essential expenses**, **30% towards discretionary spending**, and **20% towards savings and debt repayment**. This rule provides a general guideline for budgeting.
 
 ### Can I use a budgeting app?
-Yes, budgeting apps like [Mint](https://www.mint.com/) or [You Need a Budget (YNAB)](https://www.youneedabudget.com/) can help in tracking expenses and staying on top of finances.
+Yes, budgeting apps like Mint or You Need a Budget (YNAB) can help in tracking expenses and staying on top of finances.
 
 ### How often should I review my budget?
 Reviewing the budget **every 3 to 6 months** is recommended to make necessary adjustments and ensure that financial goals are being met.
 
 ### What are some recommended budgeting tools?
-The [Clever Fox Budget Planner](https://www.amazon.com/Clever-Fox-Budget-Planner) and [Personal Capital](https://www.personalcapital.com/) are highly recommended tools for managing finances effectively.
+The [Clever Fox Budget Planner](https://www.amazon.com/Clever-Fox-Budget-Planner) and Personal Capital are highly recommended tools for managing finances effectively.
 
 ## My Take
 As an app developer and professional chef, I understand the importance of budgeting in both personal and professional life. Creating a budget is not just about allocating numbers; it's about making conscious decisions about how to use resources to achieve financial stability and freedom. I recall a time when I had to adjust my budget significantly due to a change in income. It was challenging, but using the 50/30/20 rule as a guideline helped me get back on track.
@@ -101,7 +101,7 @@ For those struggling to create a budget, I would advise starting small. Begin by
 - Prioritize **high-interest debt** over **emergency fund** savings.
 - Use **sinking funds** for irregular expenses.
 - Review and adjust the budget **every 3 to 6 months**.
-- Utilize budgeting tools like the [Clever Fox Budget Planner](https://www.amazon.com/Clever-Fox-Budget-Planner) or [Mint](https://www.mint.com/).
+- Utilize budgeting tools like the [Clever Fox Budget Planner](https://www.amazon.com/Clever-Fox-Budget-Planner) or Mint.
 - Automate budgeting processes where possible.
 - Start small and be consistent in tracking expenses and adjusting the budget as needed.
 

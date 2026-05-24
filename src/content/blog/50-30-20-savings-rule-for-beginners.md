@@ -19,7 +19,7 @@ draft: false
 ---
 
 ## Introduction to the 50/30/20 Savings Rule
-The **50/30/20 savings rule** is a simple and effective way to manage your finances, as stated by [AARP](https://www.aarp.org). According to a study by the [American Association of Retired Persons (AARP)](https://www.aarp.org) in 2020, this rule can help individuals allocate their income wisely. 
+The **50/30/20 savings rule** is a simple and effective way to manage your finances, as stated by AARP. According to a study by the American Association of Retired Persons (AARP) in 2020, this rule can help individuals allocate their income wisely. 
 
 ## What is the 50/30/20 Savings Rule?
 The **50/30/20 savings rule** is a budgeting framework that suggests allocating 50% of your income towards necessary expenses, 30% towards discretionary spending, and 20% towards saving and debt repayment. This rule was first introduced by Senator Elizabeth Warren, a Harvard bankruptcy expert, and her daughter Amelia Warren Tyagi, in their 2005 book 'All Your Worth: The Ultimate Lifetime Money Plan'. 
@@ -30,7 +30,7 @@ Here are the practical steps to allocate your income according to the **50/30/20
 2. Allocate 50% towards necessary expenses: This includes rent, utilities, groceries, and minimum debt payments.
 3. Allocate 30% towards discretionary spending: This includes entertainment, hobbies, and lifestyle upgrades.
 4. Allocate 20% towards saving and debt repayment: This includes emergency funds, retirement savings, and debt repayment. 
-As suggested by [The Balance](https://www.thebalance.com) in 2022, this rule can be adapted to fit individual financial goals. 
+As suggested by The Balance in 2022, this rule can be adapted to fit individual financial goals. 
 
 ## Examples of 50/30/20 Allocation for Different Income Levels
 Here are some examples of how to apply the **50/30/20 savings rule** for different income levels:
@@ -39,28 +39,28 @@ Here are some examples of how to apply the **50/30/20 savings rule** for differe
 | $30,000 | $15,000 (50%) | $9,000 (30%) | $6,000 (20%) |
 | $50,000 | $25,000 (50%) | $15,000 (30%) | $10,000 (20%) |
 | $75,000 | $37,500 (50%) | $22,500 (30%) | $15,000 (20%) |
-According to [NerdWallet](https://www.nerdwallet.com) in 2020, these allocations can serve as a starting point for creating a personalized budget. 
+According to NerdWallet in 2020, these allocations can serve as a starting point for creating a personalized budget. 
 
 ## Overcoming Common Challenges with the 50/30/20 Rule
 Common obstacles to implementing the **50/30/20 savings rule** include variable income, high expenses, or debt. To overcome these challenges, consider the following strategies:
-1. Use budgeting tools and apps: Utilize apps like [Mint](https://www.mint.com) to track your expenses and stay on top of your finances.
+1. Use budgeting tools and apps: Utilize apps like Mint to track your expenses and stay on top of your finances.
 2. Prioritize needs over wants: Be honest about what you need versus what you want, and allocate your income accordingly.
 3. Adjust your allocations: If you're struggling to allocate 20% towards saving and debt repayment, start with a smaller percentage and gradually increase it over time. 
-As suggested by [Kiplinger](https://www.kiplinger.com) in 2020, these strategies can help you overcome common challenges and achieve financial stability. 
+As suggested by Kiplinger in 2020, these strategies can help you overcome common challenges and achieve financial stability. 
 
 ## Customizing the 50/30/20 Rule for Your Financial Goals
 To adapt the **50/30/20 savings rule** to your individual financial goals, consider the following tips:
 1. Prioritize high-interest debt: If you have high-interest debt, consider allocating a larger percentage of your income towards debt repayment.
 2. Build an emergency fund: Aim to save 3-6 months' worth of living expenses in an easily accessible savings account.
 3. Save for long-term goals: Allocate a portion of your income towards long-term goals, such as retirement or a down payment on a house. 
-According to [Dave Ramsey](https://www.daveramsey.com) in 2020, these tips can help you customize the **50/30/20 savings rule** to achieve your financial goals. 
+According to Dave Ramsey in 2020, these tips can help you customize the **50/30/20 savings rule** to achieve your financial goals. 
 
 ## Tracking Progress and Adjusting the 50/30/20 Rule
 To track your progress and adjust the **50/30/20 savings rule** as needed, consider the following methods:
 1. Regularly review your budget: Schedule regular budget reviews to ensure you're on track with your financial goals.
-2. Use budgeting apps: Utilize apps like [Quicken Deluxe 2024](https://www.quicken.com) to track your expenses and stay on top of your finances.
+2. Use budgeting apps: Utilize apps like Quicken Deluxe 2024 to track your expenses and stay on top of your finances.
 3. Adjust your allocations: If you find that you're consistently struggling to allocate 20% towards saving and debt repayment, consider adjusting your allocations to better reflect your financial reality. 
-As suggested by [Mint](https://www.mint.com) in 2020, these methods can help you track your progress and make adjustments as needed. 
+As suggested by Mint in 2020, these methods can help you track your progress and make adjustments as needed. 
 
 ## Frequently Asked Questions
 ### What is the 50/30/20 rule?

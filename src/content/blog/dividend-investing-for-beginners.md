@@ -21,13 +21,13 @@ draft: false
 
 ## Introduction to Dividend Investing
 
-**Dividend investing for beginners** is a strategy where investors buy stocks that pay regular dividends, providing a steady stream of **passive income**. According to [Investopedia (2022)](https://www.investopedia.com), dividend-paying stocks have historically outperformed non-dividend payers by 2-4% annually over the past 50 years. Key benefits include compounding returns and lower volatility, but risks include dividend cuts during economic downturns.
+**Dividend investing for beginners** is a strategy where investors buy stocks that pay regular dividends, providing a steady stream of **passive income**. According to Investopedia (2022), dividend-paying stocks have historically outperformed non-dividend payers by 2-4% annually over the past 50 years. Key benefits include compounding returns and lower volatility, but risks include dividend cuts during economic downturns.
 
-For example, the S&P 500 Dividend Aristocrats—companies with 25+ years of consecutive dividend increases—delivered a 12.3% annualized return from 2005-2020 ([S&P Global, 2021](https://www.spglobal.com)). Beginners should prioritize companies with **dividend yields** between 2-6% and sustainable payout ratios below 75%.
+For example, the S&P 500 Dividend Aristocrats—companies with 25+ years of consecutive dividend increases—delivered a 12.3% annualized return from 2005-2020 (S&P Global, 2021). Beginners should prioritize companies with **dividend yields** between 2-6% and sustainable payout ratios below 75%.
 
 ## Top 5 Dividend Stocks for Beginners
 
-These **high yield dividend stocks** offer stability and growth potential for new investors (data from [Yahoo Finance, 2023](https://finance.yahoo.com)):
+These **high yield dividend stocks** offer stability and growth potential for new investors (data from Yahoo Finance, 2023):
 
 | Stock | Dividend Yield | Consecutive Years of Increases |
 |-------|--------------|-------------------------------|
@@ -45,7 +45,7 @@ These **high yield dividend stocks** offer stability and growth potential for ne
 
 ## Understanding Dividend Yield and Payout Ratio
 
-The **dividend yield** (annual dividend/share price) indicates income potential, while the **payout ratio** (dividends/net income) shows sustainability. [Forbes (2022)](https://www.forbes.com) recommends:
+The **dividend yield** (annual dividend/share price) indicates income potential, while the **payout ratio** (dividends/net income) shows sustainability. Forbes (2022) recommends:
 - **Ideal yield range:** 2-6% (higher yields >8% may signal financial distress)
 - **Safe payout ratio:** <75% for most industries, <90% for REITs
 
@@ -55,7 +55,7 @@ Example: AT&T (T) cut its dividend in 2022 despite a 8% yield because its 160% p
 
 A $10,000 investment in **dividend growth stocks** averaging 7% annual returns with 3% dividend growth would grow to:
 - **$19,672** in 10 years
-- **$38,697** in 20 years ([The Motley Fool, 2020](https://www.fool.com))
+- **$38,697** in 20 years (The Motley Fool, 2020)
 
 **Step-by-step compounding:**
 1. Year 1: $10,000 x 7% = $700 dividend
@@ -76,7 +76,7 @@ The [IRS (2022)](https://www.irs.gov) classifies dividends as:
 
 ## Getting Started with Dividend Investing
 
-Follow these steps from [NerdWallet (2023)](https://www.nerdwallet.com):
+Follow these steps from NerdWallet (2023):
 1. **Open a brokerage account** (e.g., Fidelity, Charles Schwab)
 2. Fund with at least $500-$1,000 (minimum for fractional shares)
 3. Buy 3-5 diversified stocks or ETFs like VYM (3.1% yield)

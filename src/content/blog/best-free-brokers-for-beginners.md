@@ -20,11 +20,11 @@ draft: false
 
 ## Introduction to Free Brokers
 
-Free brokers for beginners offer **commission-free trading**, making them ideal for new investors. According to [Investopedia (2022)](https://www.investopedia.com), these platforms eliminate trading fees but may lack advanced research tools. Key benefits include **low entry barriers** (some require $0 to start) and intuitive interfaces. However, 78% of free brokers limit access to premium analytics, per a 2023 J.D. Power survey.
+Free brokers for beginners offer **commission-free trading**, making them ideal for new investors. According to Investopedia (2022), these platforms eliminate trading fees but may lack advanced research tools. Key benefits include **low entry barriers** (some require $0 to start) and intuitive interfaces. However, 78% of free brokers limit access to premium analytics, per a 2023 J.D. Power survey.
 
 ## Top Free Brokers Compared
 
-Here’s a comparison of the **best brokerage accounts** for beginners based on [NerdWallet (2023)](https://www.nerdwallet.com):
+Here’s a comparison of the **best brokerage accounts** for beginners based on NerdWallet (2023):
 
 | Broker       | Account Minimum | Fractional Shares | Research Tools | Mobile App Rating |
 |--------------|-----------------|-------------------|----------------|-------------------|
@@ -40,7 +40,7 @@ Here’s a comparison of the **best brokerage accounts** for beginners based on 
 
 ## Pros and Cons of Robinhood
 
-Robinhood’s **zero-fee trading** and sleek app attract beginners, but it has limitations. [The Balance (2022)](https://www.thebalance.com) notes its **lack of dividend reinvestment** (DRIP) and 24/7 customer support. However, its "Cash Sweep" program offers 1.5% APY on uninvested funds (as of 2023).
+Robinhood’s **zero-fee trading** and sleek app attract beginners, but it has limitations. The Balance (2022) notes its **lack of dividend reinvestment** (DRIP) and 24/7 customer support. However, its "Cash Sweep" program offers 1.5% APY on uninvested funds (as of 2023).
 
 **Pros**:
 1. Instant deposits up to $1,000
@@ -52,7 +52,7 @@ Robinhood’s **zero-fee trading** and sleek app attract beginners, but it has l
 
 ## Fidelity vs Ally Invest
 
-[Forbes (2023)](https://www.forbes.com) ranks Fidelity higher for **long-term investors** due to its:
+Forbes (2023) ranks Fidelity higher for **long-term investors** due to its:
 - **Zero-expense-ratio index funds** (e.g., FZROX)
 - 24/7 phone support
 
@@ -64,7 +64,7 @@ Ally Invest suits **active traders** with:
 
 ## Getting Started with Free Brokers
 
-Follow these steps to open an account ([The Motley Fool, 2022](https://www.fool.com)):
+Follow these steps to open an account (The Motley Fool, 2022):
 1. **Compare platforms**: Prioritize your needs (e.g., ETFs vs. stocks).
 2. **Verify fees**: Some brokers charge for transfers ($75 at Robinhood).
 3. **Fund your account**: Link a bank account (1-3 business days).
@@ -72,7 +72,7 @@ Follow these steps to open an account ([The Motley Fool, 2022](https://www.fool.
 
 ## Avoiding Common Mistakes
 
-[CNBC (2023)](https://www.cnbc.com) warns against:
+CNBC (2023) warns against:
 1. **Overtrading**: 45% of Robinhood users trade daily vs. 6% at Fidelity.
 2. **Ignoring taxes**: Short-term gains are taxed at 10-37% (IRS 2023).
 3. **Single-stock risk**: 60% of beginners hold ≤3 stocks (FINRA, 2022).

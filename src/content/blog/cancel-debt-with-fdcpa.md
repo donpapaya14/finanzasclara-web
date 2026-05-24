@@ -39,7 +39,7 @@ If they fail to validate, the debt may be canceled. Here’s how to request vali
 > Relacionado: [YNAB app setup guide for beginners](/blog/ynab-app-setup-guide-for-beginners)
 
 ## FDCPA Deadline for Debt Dispute
-The FDCPA gives you **30 days to dispute a debt** after receiving a validation notice. The [National Consumer Law Center (2019)](https://www.nclc.org) warns that failing to respond can result in the collector assuming the debt is valid. Key deadlines:
+The FDCPA gives you **30 days to dispute a debt** after receiving a validation notice. The National Consumer Law Center (2019) warns that failing to respond can result in the collector assuming the debt is valid. Key deadlines:
 
 | Action | Deadline |
 |--------|----------|
@@ -58,7 +58,7 @@ The [Federal Trade Commission (2022)](https://www.ftc.gov) bans debt collectors 
 Violations can lead to **cancellation of the debt** or monetary damages.
 
 ## Sample FDCPA Debt Validation Letter
-Here’s a template based on [Credit Karma (2021)](https://www.creditkarma.com):
+Here’s a template based on Credit Karma (2021):
 
 ```
 [Your Name]
@@ -87,7 +87,7 @@ If a collector violates the FDCPA, you can sue for:
 - **Statutory damages** up to $1,000 per violation
 - **Attorney fees** (if you win)
 
-The [National Consumer Law Center (2020)](https://www.nclc.org) reports that courts awarded over **$350 million** in FDCPA cases from 2010–2020.
+The National Consumer Law Center (2020) reports that courts awarded over **$350 million** in FDCPA cases from 2010–2020.
 
 ## Frequently Asked Questions
 
@@ -98,13 +98,13 @@ Yes, if the collector cannot validate the debt or violates the FDCPA, the debt m
 You lose the right to dispute the debt’s validity, but collectors must still comply with other FDCPA rules. The FTC recommends sending a late dispute letter anyway.
 
 ### Can I record debt collector calls?
-Yes, in most states. Check your state’s consent laws—12 states require two-party consent. The [Digital Media Law Project (2021)](https://www.dmlp.org) provides a state-by-state guide.
+Yes, in most states. Check your state’s consent laws—12 states require two-party consent. The Digital Media Law Project (2021) provides a state-by-state guide.
 
 ### How much can I sue for under the FDCPA?
 Up to **$1,000 per violation**, plus actual damages. Class actions can reach millions, like the $5.2 million case against Portfolio Recovery Associates (2019).
 
 ### Do I need a lawyer for an FDCPA case?
-Not always, but lawyers often take these cases on contingency. The National Association of Consumer Advocates offers a [free directory](https://www.consumeradvocates.org).
+Not always, but lawyers often take these cases on contingency. The National Association of Consumer Advocates offers a free directory.
 
 ## My Take
 As someone who’s dealt with aggressive collectors, I learned the hard way that **knowledge is power**. When a collector called about an old medical bill, I used the FDCPA to request validation—they couldn’t provide it, and the debt disappeared. Tools like the [ Credit Repair Kit en Amazon](https://www.amazon.com/s?k=+Credit+Repair+Kit&tag=vds96-20) helped me organize my disputes. If you’re overwhelmed, start with one step: send that validation letter. It’s shocking how often collectors fold when you assert your rights.

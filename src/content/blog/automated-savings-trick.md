@@ -27,7 +27,7 @@ Automation works because it leverages behavioral economics—the principle that 
 
 Follow these steps to automate your savings:
 
-1. **Choose a savings account**: Opt for a high-yield account (e.g., Ally or Marcus) to maximize interest. [NerdWallet (2022)](https://www.nerdwallet.com) recommends accounts with APY above 3%.
+1. **Choose a savings account**: Opt for a high-yield account (e.g., Ally or Marcus) to maximize interest. NerdWallet (2022) recommends accounts with APY above 3%.
 2. **Link accounts**: Connect your checking and savings accounts via your bank’s app or website.
 3. **Set transfer rules**: Schedule transfers to occur **1–2 days after payday** to avoid overdrafts.
 4. **Start small**: Begin with 3–5% of your income and increase by 1% every 3 months.
@@ -36,7 +36,7 @@ For hands-off users, apps like [Qapital Savings App en Amazon](https://www.amazo
 
 ## The 5% Rule for Savings
 
-Allocating **5% of your income** to savings can yield substantial long-term growth. [The Balance (2019)](https://www.thebalance.com) found that saving $200/month at 4% interest grows to **$29,000 in 10 years**. Here’s how it breaks down:
+Allocating **5% of your income** to savings can yield substantial long-term growth. The Balance (2019) found that saving $200/month at 4% interest grows to **$29,000 in 10 years**. Here’s how it breaks down:
 
 | Income | 5% Monthly Savings | 10-Year Total (4% APY) |
 |---------|--------------------|------------------------|
@@ -60,7 +60,7 @@ Common mistakes when automating savings include:
 
 ## Case Studies of Successful Automated Savings
 
-- **Sarah, 28**: Used automation to save $15,000 in 3 years by increasing her savings rate from 5% to 10% after promotions ([Kiplinger, 2021](https://www.kiplinger.com)).
+- **Sarah, 28**: Used automation to save $15,000 in 3 years by increasing her savings rate from 5% to 10% after promotions (Kiplinger, 2021).
 - **James, 35**: Saved $500/month via round-up apps, accumulating $18,000 in 5 years for a down payment.
 
 ## Conclusion and Next Steps
@@ -70,7 +70,7 @@ To start:
 2. Automate transfers for 5% of your income.
 3. Review and adjust quarterly.
 
-[Investopedia (2022)](https://www.investopedia.com) notes that automated savers are **4x more likely** to hit their financial goals.
+Investopedia (2022) notes that automated savers are **4x more likely** to hit their financial goals.
 
 ## Frequently Asked Questions
 
@@ -78,16 +78,16 @@ To start:
 **Aim for 5–10% of your income initially.** The [Federal Reserve (2020)](https://www.federalreserve.gov) found this range balances growth and affordability. Increase by 1% every 6 months.
 
 ### Can automated savings work with irregular income?
-**Yes.** Freelancers can use apps like [Qapital Savings App en Amazon](https://www.amazon.com/s?k=Qapital+Savings+App&tag=vds96-20) to save a percentage of each deposit. A [2021 JPMorgan study](https://www.jpmorgan.com) showed gig workers save 12% more with variable-amount automation.
+**Yes.** Freelancers can use apps like [Qapital Savings App en Amazon](https://www.amazon.com/s?k=Qapital+Savings+App&tag=vds96-20) to save a percentage of each deposit. A 2021 JPMorgan study showed gig workers save 12% more with variable-amount automation.
 
 ### What’s the best day to schedule transfers?
-**1–2 days after payday.** A [Bankrate survey (2022)](https://www.bankrate.com) found this timing reduces overdraft risks by 40%.
+**1–2 days after payday.** A Bankrate survey (2022) found this timing reduces overdraft risks by 40%.
 
 ### How do I avoid overdrafts with automated savings?
 **Maintain a buffer of $100–200 in checking.** The [CFPB (2018)](https://www.consumerfinance.gov) recommends this to cover unexpected expenses.
 
 ### Are round-up apps effective for savings?
-**Yes.** Users of round-up apps save **$50–100/month** on average, per a [NerdWallet analysis (2023)](https://www.nerdwallet.com).
+**Yes.** Users of round-up apps save **$50–100/month** on average, per a NerdWallet analysis (2023).
 
 ## My Take
 

@@ -22,7 +22,7 @@ draft: false
 Treasury Inflation-Protected Securities (TIPS) are a type of **fixed income investment** that provides protection against **inflation**. According to the [Federal Reserve](https://www.federalreserve.gov), TIPS work by adjusting the principal value of the security to keep pace with **inflation**, as measured by the Consumer Price Index (CPI). This means that the interest payments on TIPS are calculated based on the adjusted principal value, providing investors with a **real return** above inflation.
 
 ## How to Buy TIPS: Online Platforms and Brokerages
-Investors can buy TIPS through various online platforms and brokerages, such as [Fidelity Investments](https://www.fidelity.com) and [Charles Schwab](https://www.schwab.com). According to [Investopedia](https://www.investopedia.com), some popular online platforms for buying TIPS include:
+Investors can buy TIPS through various online platforms and brokerages, such as Fidelity Investments and Charles Schwab. According to Investopedia, some popular online platforms for buying TIPS include:
 * TreasuryDirect: a platform provided by the US Department of the Treasury
 * Fidelity Investments: offers a wide range of TIPS with competitive commission fees
 * Charles Schwab: provides TIPS with no commission fees and a minimum investment requirement of $1,000
@@ -39,7 +39,7 @@ Historically, TIPS have provided **stable returns** with low volatility. Accordi
 The interest income from TIPS is subject to **federal income tax**, but exempt from state and local taxes. According to the [Internal Revenue Service](https://www.irs.gov), the tax treatment of TIPS interest income is similar to that of traditional Treasury bonds. However, the adjusted principal value of TIPS is subject to **capital gains tax** when the security is sold.
 
 ## Risks and Drawbacks of TIPS Investing
-While TIPS provide protection against inflation, they are not without risks. According to [Fidelity Investments](https://www.fidelity.com), some common risks associated with TIPS include:
+While TIPS provide protection against inflation, they are not without risks. According to Fidelity Investments, some common risks associated with TIPS include:
 1. **Interest rate risk**: changes in interest rates can affect the value of TIPS
 2. **Liquidity risk**: TIPS may be less liquid than other fixed income investments
 3. **Inflation risk**: if inflation is lower than expected, the returns on TIPS may be lower than those of traditional Treasury bonds
@@ -54,9 +54,9 @@ For new investors, it's essential to understand the basics of TIPS investing. He
 ### What are the benefits of investing in TIPS?
 The benefits of investing in TIPS include **protection against inflation** and **stable returns** with low volatility. According to a study by the [Federal Reserve](https://www.federalreserve.gov), TIPS have provided a **real return** above inflation, making them an attractive option for investors seeking to preserve their purchasing power.
 ### How do I buy TIPS?
-Investors can buy TIPS through various online platforms and brokerages, such as [Fidelity Investments](https://www.fidelity.com) and [Charles Schwab](https://www.schwab.com). The minimum investment requirement for TIPS is typically $1,000.
+Investors can buy TIPS through various online platforms and brokerages, such as Fidelity Investments and Charles Schwab. The minimum investment requirement for TIPS is typically $1,000.
 ### What are the risks associated with TIPS investing?
-The risks associated with TIPS investing include **interest rate risk**, **liquidity risk**, and **inflation risk**. According to [Fidelity Investments](https://www.fidelity.com), these risks can be managed by diversifying your portfolio and considering a TIPS ladder.
+The risks associated with TIPS investing include **interest rate risk**, **liquidity risk**, and **inflation risk**. According to Fidelity Investments, these risks can be managed by diversifying your portfolio and considering a TIPS ladder.
 ### Can I invest in TIPS through a tax-advantaged account?
 Yes, investors can invest in TIPS through a tax-advantaged account, such as a **401(k)** or **IRA**. According to the [Internal Revenue Service](https://www.irs.gov), the tax treatment of TIPS interest income is similar to that of traditional Treasury bonds.
 ### How do I calculate the return on my TIPS investment?
