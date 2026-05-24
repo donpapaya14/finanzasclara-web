@@ -99,3 +99,9 @@ Here are some concrete actions you can take to avoid overdraft fees:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [5-Step 52-Week Savings Challenge with Real-Life Examples](/blog/5-step-52-week-savings-challenge-with-real-life-examples)
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-23)
+- [Savings Challenge 2024](/blog/savings-challenge-2024)

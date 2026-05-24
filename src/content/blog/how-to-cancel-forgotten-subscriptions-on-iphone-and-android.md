@@ -103,3 +103,9 @@ By following these steps, you can avoid **hidden subscription costs** and **unwa
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Zero-Based Budgeting for Beginners](/blog/zero-based-budgeting-for-beginners)
+- [Hidden Subscriptions Costs](/blog/hidden-subscriptions-costs)
+- [50/30/20 Rule $6,000 Salary](/blog/50-30-20-rule-6000-salary)

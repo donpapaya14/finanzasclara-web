@@ -92,3 +92,9 @@ To get started with DCA, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Best Free Brokers for Beginners](/blog/best-free-brokers-for-beginners)
+- [Dollar-Cost Averaging Strategy for Retirement](/blog/dollar-cost-averaging-strategy-for-retirement)
+- [DCA Investing Strategy](/blog/dca-investing-strategy)

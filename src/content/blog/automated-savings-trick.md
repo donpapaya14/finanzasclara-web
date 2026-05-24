@@ -118,3 +118,9 @@ Cooking professionally taught me that consistency—like weekly meal prep—buil
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [30-Day Savings Challenge for Beginners](/blog/30-day-savings-challenge-for-beginners)
+- [Automated Savings with 50/30/20 Rule Calculator](/blog/automated-savings-with-50-30-20-rule-calculator)
+- [High-Yield Savings Accounts Compared](/blog/high-yield-savings-accounts-compared-2026-05-15)

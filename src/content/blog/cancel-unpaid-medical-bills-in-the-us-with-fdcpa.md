@@ -99,3 +99,9 @@ Here are the key takeaways for canceling unpaid medical bills in the US with FDC
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [True Cost of a Loan: Understanding APR and Loan Calculators](/blog/true-cost-of-a-loan-understanding-apr-and-loan-calculators)
+- [how to negotiate credit card debt with bank](/blog/how-to-negotiate-credit-card-debt-with-bank)
+- [Cancel Debt with FDCPA](/blog/cancel-debt-with-fdcpa)

@@ -98,3 +98,9 @@ To get started with compound interest, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Best Free Stock Brokers for Beginners 2024: Fees & Features](/blog/best-free-stock-brokers-for-beginners-2024-fees-features)
+- [Beginner](/blog/beginner-s-guide-to-investing-in-reits-for-passive-income)
+- [Investing in IPOs](/blog/investing-in-ipos)

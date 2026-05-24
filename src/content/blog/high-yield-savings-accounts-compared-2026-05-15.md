@@ -137,3 +137,9 @@ My chef training taught me precision with measurements, and the same applies to 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [High-Yield Savings Accounts Compared](/blog/high-yield-savings-accounts-compared)
+- [50/30/20 rule for freelancers](/blog/50-30-20-rule-for-freelancers)
+- [Savings Challenge 2024](/blog/savings-challenge-2024)

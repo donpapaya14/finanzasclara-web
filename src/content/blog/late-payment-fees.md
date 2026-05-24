@@ -111,3 +111,9 @@ For freelancers or small business owners, I recommend treating due dates like cl
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [High-Yield Savings Accounts Compared](/blog/high-yield-savings-accounts-compared-2026-05-15)
+- [50/30/20 savings rule for beginners](/blog/50-30-20-savings-rule-for-beginners)
+- [YNAB app setup guide for beginners](/blog/ynab-app-setup-guide-for-beginners)

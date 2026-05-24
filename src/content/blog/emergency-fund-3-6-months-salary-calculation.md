@@ -80,3 +80,9 @@ As an app developer and professional chef, I understand the importance of having
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [50/30/20 rule for freelancers](/blog/50-30-20-rule-for-freelancers)
+- [50/30/20 savings rule for beginners](/blog/50-30-20-savings-rule-for-beginners)
+- [Overdraft fees average cost per year](/blog/overdraft-fees-average-cost-per-year)

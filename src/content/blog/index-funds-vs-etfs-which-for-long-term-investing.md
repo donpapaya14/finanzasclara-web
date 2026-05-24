@@ -127,3 +127,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [best free brokers for beginners with fees compared](/blog/best-free-brokers-for-beginners-with-fees-compared)
+- [compound interest calculator 20 year example](/blog/compound-interest-calculator-20-year-example)
+- [Compound interest example: $10,000 over 10/20/30 years](/blog/compound-interest-example-10000-over-10-20-30-years-2026-05-20)

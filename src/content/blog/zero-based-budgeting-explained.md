@@ -97,3 +97,9 @@ To get started with zero-based budgeting, follow these concrete action bullets:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-20)
+- [monthly budget template for $4000 salary](/blog/monthly-budget-template-for-4000-salary)
+- [Monthly budget template for $3,000 income with categories](/blog/monthly-budget-template-for-3000-income-with-categories)

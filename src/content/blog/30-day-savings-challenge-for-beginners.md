@@ -122,3 +122,9 @@ Here are some concrete actions you can take to start saving money:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Emergency fund 3-6 months salary calculation](/blog/emergency-fund-3-6-months-salary-calculation)
+- [50/30/20 Budgeting for Irregular Income](/blog/50-30-20-budgeting-for-irregular-income)
+- [Micro Savings Apps](/blog/micro-savings-apps)

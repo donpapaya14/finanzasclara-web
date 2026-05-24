@@ -117,3 +117,9 @@ One hack? I **cooked all meals** using budget-friendly ingredients like lentils 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Credit Card Debt Payoff Plan in 24 Months](/blog/credit-card-debt-payoff-plan-in-24-months)
+- [Credit card debt payoff plan for $10,000 balance](/blog/credit-card-debt-payoff-plan-for-10000-balance)
+- [True Cost of Loans](/blog/true-cost-of-loans)

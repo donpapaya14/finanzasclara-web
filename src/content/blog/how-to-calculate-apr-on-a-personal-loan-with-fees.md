@@ -94,3 +94,9 @@ To calculate APR on a personal loan and make informed decisions, follow these st
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Avalanche vs Snowball Debt](/blog/avalanche-vs-snowball-debt)
+- [Avalanche vs Snowball Debt Repayment Strategies](/blog/avalanche-vs-snowball-debt-repayment-strategies)
+- [how to negotiate credit card debt with bank](/blog/how-to-negotiate-credit-card-debt-with-bank)

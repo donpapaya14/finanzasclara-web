@@ -105,3 +105,9 @@ In conclusion, investing in REITs can be a great way to generate income and dive
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dollar-cost averaging calculator example](/blog/dollar-cost-averaging-calculator-example)
+- [compound interest calculator 20 year example](/blog/compound-interest-calculator-20-year-example)
+- [Dollar-cost averaging with ETFs: step-by-step backtested guide](/blog/dollar-cost-averaging-with-etfs-step-by-step-backtested-guide)

@@ -94,3 +94,9 @@ Here are the concrete steps to create and sell online courses:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How I made $1,200/month with peer-to-peer lending](/blog/how-i-made-1200-month-with-peer-to-peer-lending)
+- [Best dividend stocks for beginners with 5%+ yield](/blog/best-dividend-stocks-for-beginners-with-5-yield-2026-05-11)
+- [Dividend Investing for Beginners](/blog/dividend-investing-for-beginners)

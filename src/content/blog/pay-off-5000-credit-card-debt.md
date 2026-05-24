@@ -139,3 +139,9 @@ I now swear by the **"one extra payment" rule**: Whenever I earn unexpected inco
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Cancel Debt with FDCPA](/blog/cancel-debt-with-fdcpa)
+- [Paying Off $10,000 Credit Card Debt](/blog/paying-off-10000-credit-card-debt)
+- [True Cost of a Loan: Understanding APR and Loan Calculators](/blog/true-cost-of-a-loan-understanding-apr-and-loan-calculators)

@@ -112,3 +112,9 @@ For those looking to calculate their car loan costs manually, I recommend using 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Credit card debt payoff plan for $10,000 balance](/blog/credit-card-debt-payoff-plan-for-10000-balance)
+- [Avalanche vs Snowball Debt Repayment Strategies](/blog/avalanche-vs-snowball-debt-repayment-strategies)
+- [paying off $20,000 credit card debt in 36 months](/blog/paying-off-20000-credit-card-debt-in-36-months)

@@ -111,3 +111,9 @@ In conclusion, dollar-cost averaging is a powerful investing strategy that can h
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Compound Interest Over 30 Years](/blog/compound-interest-over-30-years)
+- [DCA Investing Strategy](/blog/dca-investing-strategy)
+- [Best Free Brokers for Beginners with Fees](/blog/best-free-brokers-for-beginners-with-fees)

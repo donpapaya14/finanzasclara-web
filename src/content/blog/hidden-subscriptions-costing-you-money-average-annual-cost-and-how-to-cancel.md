@@ -100,3 +100,9 @@ Here are some concrete actions you can take to avoid hidden subscription costs:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [50/30/20 Budget Template for 80000 Salary](/blog/50-30-20-budget-template-for-80000-salary)
+- [Monthly budget template for $75,000 income with categories and percentages](/blog/monthly-budget-template-for-75000-income-with-categories-and-percentages)
+- [Monthly budget template for $3,000 income with categories](/blog/monthly-budget-template-for-3000-income-with-categories)

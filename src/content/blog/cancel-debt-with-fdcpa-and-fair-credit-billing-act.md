@@ -94,3 +94,9 @@ I have worked with individuals who have successfully canceled their debt under F
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Pay Off $10,000 Credit Card Debt](/blog/pay-off-10000-credit-card-debt)
+- [Avalanche vs Snowball Debt: Which Method is Faster](/blog/avalanche-vs-snowball-debt-which-method-is-faster)
+- [Cancel Debt with FDCPA](/blog/cancel-debt-with-fdcpa-2026-05-22)

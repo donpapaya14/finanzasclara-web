@@ -121,3 +121,9 @@ I also recommend tools like [Secured Certified Mail envelopes en Amazon](https:/
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Avalanche vs Snowball Debt: Which Method is Faster](/blog/avalanche-vs-snowball-debt-which-method-is-faster)
+- [Cancel Unpaid Medical Bills in the US with FDCPA](/blog/cancel-unpaid-medical-bills-in-the-us-with-fdcpa)
+- [True Cost of a Loan: Understanding APR and Loan Calculators](/blog/true-cost-of-a-loan-understanding-apr-and-loan-calculators)

@@ -126,3 +126,9 @@ Here are the key takeaways from this article:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dollar-cost averaging vs. lump sum investing: historical data comparison](/blog/dollar-cost-averaging-vs-lump-sum-investing-historical-data-comparison)
+- [Best Free Brokers for Beginners with Fees](/blog/best-free-brokers-for-beginners-with-fees)
+- [Index Funds vs ETFs: Which for Long-Term Investing](/blog/index-funds-vs-etfs-which-for-long-term-investing)

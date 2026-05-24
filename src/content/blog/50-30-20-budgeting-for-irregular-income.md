@@ -93,3 +93,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [automated savings trick for small monthly savings](/blog/automated-savings-trick-for-small-monthly-savings)
+- [Overdraft fees average cost per year](/blog/overdraft-fees-average-cost-per-year)
+- [5-Step 52-Week Savings Challenge with Real-Life Examples](/blog/5-step-52-week-savings-challenge-with-real-life-examples)

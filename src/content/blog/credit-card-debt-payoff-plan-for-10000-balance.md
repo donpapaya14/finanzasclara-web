@@ -90,3 +90,9 @@ To pay off a $10,000 credit card balance in 3 years, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [true cost of a loan with fees](/blog/true-cost-of-a-loan-with-fees)
+- [Credit Card Debt Payoff Plan in 24 Months](/blog/credit-card-debt-payoff-plan-in-24-months)
+- [Avalanche vs Snowball Debt: Which Method is Faster](/blog/avalanche-vs-snowball-debt-which-method-is-faster)

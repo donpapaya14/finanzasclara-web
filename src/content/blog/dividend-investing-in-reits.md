@@ -141,3 +141,9 @@ I now allocate 15% of my portfolio to REITs, focusing on sectors with **recessio
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How to earn $500/month with vending machines](/blog/how-to-earn-500-month-with-vending-machines)
+- [Create Online Courses](/blog/create-online-courses)
+- [Creating a Print on Demand Store](/blog/creating-a-print-on-demand-store)

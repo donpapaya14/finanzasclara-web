@@ -129,3 +129,9 @@ I also recommend the [ Clever Fox Budget Book en Amazon](https://www.amazon.com/
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Zero-based budgeting for freelancers with irregular income](/blog/zero-based-budgeting-for-freelancers-with-irregular-income)
+- [50/30/20 Rule $4,000 Salary](/blog/50-30-20-rule-4000-salary)
+- [Zero-Based Budgeting Explained](/blog/zero-based-budgeting-explained)

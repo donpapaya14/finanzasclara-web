@@ -111,3 +111,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [DCA Investing Strategy](/blog/dca-investing-strategy)
+- [Compound Interest Over 30 Years](/blog/compound-interest-over-30-years)
+- [Exchange Traded Funds (ETFs) Performance](/blog/exchange-traded-funds-etfs-performance)

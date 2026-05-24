@@ -139,3 +139,9 @@ The psychological pull of IPOs reminds me of restaurant openings in my chef days
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [compound interest calculator 20 year example](/blog/compound-interest-calculator-20-year-example)
+- [Best Free Brokers for Beginners with Fees](/blog/best-free-brokers-for-beginners-with-fees)
+- [Investing in Treasury Inflation-Protected Securities (TIPS)](/blog/investing-in-treasury-inflation-protected-securities-tips)

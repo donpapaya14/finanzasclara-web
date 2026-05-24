@@ -98,3 +98,9 @@ To get started with **debt repayment strategies**, follow these concrete action 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Cancel Debt with FDCPA](/blog/cancel-debt-with-fdcpa)
+- [How to calculate APR on a personal loan with fees](/blog/how-to-calculate-apr-on-a-personal-loan-with-fees)
+- [true cost of a loan with fees](/blog/true-cost-of-a-loan-with-fees)

@@ -96,3 +96,9 @@ Here are some concrete action steps to get started with automated investment pla
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Create a Mobile App to Earn $10,000 Passive Income per Year](/blog/create-a-mobile-app-to-earn-10000-passive-income-per-year)
+- [Affiliate Marketing on Medium](/blog/affiliate-marketing-on-medium)
+- [Create Online Courses](/blog/create-online-courses)

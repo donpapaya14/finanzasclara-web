@@ -124,3 +124,9 @@ My pro tip: Automate payments. I set up weekly $125 transfers—small enough to 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Cancel Unpaid Medical Bills in the US with FDCPA](/blog/cancel-unpaid-medical-bills-in-the-us-with-fdcpa)
+- [Negotiate Bank Debt](/blog/negotiate-bank-debt)
+- [Pay Off $5,000 Credit Card Debt](/blog/pay-off-5000-credit-card-debt)

@@ -98,3 +98,9 @@ Here are some concrete action bullets to help you create a budget plan with a $4
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Monthly budget template for $3,000 income with categories](/blog/monthly-budget-template-for-3000-income-with-categories-2026-05-12)
+- [Hidden Subscriptions Costing You Money: Average Annual Cost and How to Cancel](/blog/hidden-subscriptions-costing-you-money-average-annual-cost-and-how-to-cancel)
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-20)

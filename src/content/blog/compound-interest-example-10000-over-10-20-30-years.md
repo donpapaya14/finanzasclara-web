@@ -96,3 +96,9 @@ To get started with compound interest, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Index Funds vs ETFs: Which for Long-Term Investing](/blog/index-funds-vs-etfs-which-for-long-term-investing)
+- [Compound Interest Over 30 Years](/blog/compound-interest-over-30-years)
+- [Dollar-cost averaging with ETFs: step-by-step backtested guide](/blog/dollar-cost-averaging-with-etfs-step-by-step-backtested-guide)

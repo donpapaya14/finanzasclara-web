@@ -92,3 +92,9 @@ Here are some concrete steps to take away:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [YNAB app setup guide for beginners](/blog/ynab-app-setup-guide-for-beginners)
+- [50/30/20 budgeting for $75,000 income](/blog/50-30-20-budgeting-for-75000-income)
+- [Automated Savings Trick](/blog/automated-savings-trick)

@@ -97,3 +97,9 @@ To earn $500/month with passive income vending machines, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dividend Investing for Beginners](/blog/dividend-investing-for-beginners)
+- [Dividend Investing in REITs](/blog/dividend-investing-in-reits)
+- [Renting Out a Spare Room on Airbnb](/blog/renting-out-a-spare-room-on-airbnb)

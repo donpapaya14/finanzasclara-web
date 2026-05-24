@@ -154,3 +154,9 @@ Today, I use dollar-cost averaging with all of my investments, and I highly reco
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Compound interest example: $10,000 over 10/20/30 years](/blog/compound-interest-example-10000-over-10-20-30-years)
+- [Beginner](/blog/beginner-s-guide-to-investing-in-reits-for-passive-income)
+- [Best Free Brokers for Beginners with Fees](/blog/best-free-brokers-for-beginners-with-fees)

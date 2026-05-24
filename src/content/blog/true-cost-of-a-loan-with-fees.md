@@ -84,3 +84,9 @@ As an app developer and professional chef, I have seen firsthand the importance 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [true cost of a car loan with APR calculator example](/blog/true-cost-of-a-car-loan-with-apr-calculator-example)
+- [How to calculate APR on a personal loan with fees](/blog/how-to-calculate-apr-on-a-personal-loan-with-fees)
+- [True Cost of Loans](/blog/true-cost-of-loans)

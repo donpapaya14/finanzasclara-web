@@ -92,3 +92,9 @@ To get started with zero-based budgeting, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Monthly budget template for $3,000 income with categories](/blog/monthly-budget-template-for-3000-income-with-categories)
+- [50/30/20 Rule $4,000 Salary](/blog/50-30-20-rule-4000-salary)
+- [5 Money Habits That Keep Most People Broke (And How to Fix Them)](/blog/5-money-habits-that-keep-you-broke)

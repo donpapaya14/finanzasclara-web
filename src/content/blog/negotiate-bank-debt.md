@@ -89,3 +89,9 @@ Here are the key takeaways from this article:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Avalanche vs Snowball Debt Repayment Strategies](/blog/avalanche-vs-snowball-debt-repayment-strategies)
+- [Paying Off $10,000 Credit Card Debt](/blog/paying-off-10000-credit-card-debt)
+- [True Cost of Loans](/blog/true-cost-of-loans)

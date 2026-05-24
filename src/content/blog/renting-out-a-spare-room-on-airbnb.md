@@ -93,3 +93,9 @@ Here are some concrete action bullets to get started with renting out a spare ro
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How I made $1,200/month with peer-to-peer lending](/blog/how-i-made-1200-month-with-peer-to-peer-lending)
+- [Earn Passive Income with Free Survey Sites](/blog/earn-passive-income-with-free-survey-sites)
+- [Best Automated Investment Platforms for Long-Term Growth](/blog/best-automated-investment-platforms-for-long-term-growth)

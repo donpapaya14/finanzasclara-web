@@ -109,3 +109,9 @@ For those struggling to create a budget, I would advise starting small. Begin by
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Applying 50/30/20 Rule on $60,000 Salary](/blog/applying-50-30-20-rule-on-60000-salary)
+- [Hidden Subscriptions Costing You Money: Average Annual Cost and How to Cancel](/blog/hidden-subscriptions-costing-you-money-average-annual-cost-and-how-to-cancel)
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-20)

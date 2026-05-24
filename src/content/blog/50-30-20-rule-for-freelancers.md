@@ -100,3 +100,9 @@ Here are some concrete action bullets to help you implement the 50/30/20 rule:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [automated savings trick for small monthly savings](/blog/automated-savings-trick-for-small-monthly-savings)
+- [Overdraft fees average cost per year](/blog/overdraft-fees-average-cost-per-year)
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-23)

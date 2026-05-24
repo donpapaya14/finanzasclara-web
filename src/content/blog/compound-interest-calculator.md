@@ -91,3 +91,9 @@ Here are some concrete action bullets to help you get started with **long term i
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Exchange Traded Funds (ETFs) Performance](/blog/exchange-traded-funds-etfs-performance)
+- [Dollar-cost averaging vs. lump sum investing: historical data comparison](/blog/dollar-cost-averaging-vs-lump-sum-investing-historical-data-comparison)
+- [Dollar-cost averaging calculator example](/blog/dollar-cost-averaging-calculator-example)

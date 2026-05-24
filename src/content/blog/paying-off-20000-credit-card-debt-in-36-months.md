@@ -97,3 +97,9 @@ Here are some concrete action bullets to help you pay off $20,000 in credit card
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Credit Card Debt Payoff Plan in 24 Months](/blog/credit-card-debt-payoff-plan-in-24-months)
+- [Avalanche vs Snowball Debt Repayment Strategies](/blog/avalanche-vs-snowball-debt-repayment-strategies)
+- [Pay Off $5,000 Credit Card Debt](/blog/pay-off-5000-credit-card-debt)

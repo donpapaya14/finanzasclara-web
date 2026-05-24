@@ -93,3 +93,9 @@ Here are some concrete actions to take when considering the **true cost of loans
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Negotiate Bank Debt](/blog/negotiate-bank-debt)
+- [Debt Relief Laws by State Exact Deadlines](/blog/debt-relief-laws-by-state-exact-deadlines)
+- [Pay Off $10,000 Credit Card Debt](/blog/pay-off-10000-credit-card-debt)

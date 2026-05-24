@@ -117,3 +117,9 @@ Here are the key takeaways:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Earning $500/month with Amazon Kindle Direct Publishing](/blog/earning-500-month-with-amazon-kindle-direct-publishing)
+- [Create a Mobile App to Earn $10,000 Passive Income per Year](/blog/create-a-mobile-app-to-earn-10000-passive-income-per-year)
+- [How to earn passive income with print-on-demand t-shirts](/blog/how-to-earn-passive-income-with-print-on-demand-t-shirts)

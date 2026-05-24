@@ -120,3 +120,9 @@ As an app developer, I appreciate Mint’s **clean UI** and **real-time sync**�
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Micro Savings Apps](/blog/micro-savings-apps)
+- [Savings Challenge 2024](/blog/savings-challenge-2024)
+- [50/30/20 Budgeting for Irregular Income](/blog/50-30-20-budgeting-for-irregular-income)

@@ -118,3 +118,9 @@ As an app developer, I treat dividend investing like coding: **automate and opti
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [passive income from vending machines: costs and profits](/blog/passive-income-from-vending-machines-costs-and-profits)
+- [Creating a Print on Demand Store](/blog/creating-a-print-on-demand-store)
+- [How I made $1,200/month with peer-to-peer lending](/blog/how-i-made-1200-month-with-peer-to-peer-lending)

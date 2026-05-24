@@ -127,3 +127,9 @@ Cooking analogy: Choosing a savings account is like picking a sous vide machine.
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-23)
+- [Overdraft fees average cost per year](/blog/overdraft-fees-average-cost-per-year)
+- [Mint App Setup Guide](/blog/mint-app-setup-guide)

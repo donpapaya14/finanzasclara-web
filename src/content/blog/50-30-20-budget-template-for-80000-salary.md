@@ -100,3 +100,9 @@ Here are some concrete action bullets to help you implement the **50/30/20 budge
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Monthly Budget Template $5000](/blog/monthly-budget-template-5000)
+- [Cancel Gym Membership Fees](/blog/cancel-gym-membership-fees)
+- [Monthly budget template for $3,000 income with categories](/blog/monthly-budget-template-for-3000-income-with-categories)

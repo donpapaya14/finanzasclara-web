@@ -232,3 +232,9 @@ Here are six concrete action bullets to help you get started with robo-advisors:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dividend Investing in REITs](/blog/dividend-investing-in-reits)
+- [How I made $1,200/month with peer-to-peer lending](/blog/how-i-made-1200-month-with-peer-to-peer-lending)
+- [automated investing platforms with highest returns 2024](/blog/automated-investing-platforms-with-highest-returns-2024)

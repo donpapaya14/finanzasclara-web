@@ -93,3 +93,9 @@ To get started with YNAB, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [automated savings trick for small monthly savings](/blog/automated-savings-trick-for-small-monthly-savings)
+- [overdraft fees cost average American $250 yearly](/blog/overdraft-fees-cost-average-american-250-yearly)
+- [Automated Savings Trick](/blog/automated-savings-trick)

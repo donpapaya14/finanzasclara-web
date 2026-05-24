@@ -108,3 +108,9 @@ To protect yourself from costly loan surprises:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Avalanche vs Snowball Debt](/blog/avalanche-vs-snowball-debt)
+- [Cancel Debt with FDCPA](/blog/cancel-debt-with-fdcpa)
+- [How to calculate APR on a personal loan with fees](/blog/how-to-calculate-apr-on-a-personal-loan-with-fees)

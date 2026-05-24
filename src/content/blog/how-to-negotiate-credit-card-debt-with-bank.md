@@ -93,3 +93,9 @@ Remember, negotiating credit card debt is a process that requires patience, pers
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Negotiate Bank Debt](/blog/negotiate-bank-debt)
+- [Cancel Debt with FDCPA and Fair Credit Billing Act](/blog/cancel-debt-with-fdcpa-and-fair-credit-billing-act)
+- [Pay Off $5,000 Credit Card Debt](/blog/pay-off-5000-credit-card-debt)

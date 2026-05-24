@@ -99,3 +99,9 @@ Here are some concrete action bullets to get started with Medium affiliate marke
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Renting Out a Spare Room on Airbnb](/blog/renting-out-a-spare-room-on-airbnb)
+- [Earn Passive Income with Free Survey Sites](/blog/earn-passive-income-with-free-survey-sites)
+- [Dividend Investing in REITs](/blog/dividend-investing-in-reits)

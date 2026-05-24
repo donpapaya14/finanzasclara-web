@@ -136,3 +136,9 @@ For beginners, I recommend reading [ Print on Demand: A Comprehensive Guide to C
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dividend Investing for Beginners](/blog/dividend-investing-for-beginners-2026-05-17)
+- [Best dividend stocks for beginners with 5%+ yield](/blog/best-dividend-stocks-for-beginners-with-5-yield-2026-05-11)
+- [automated investing platforms with highest returns 2024](/blog/automated-investing-platforms-with-highest-returns-2024)

@@ -94,3 +94,9 @@ Here are some concrete steps you can take to implement the **Avalanche method**:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [true cost of a loan with fees](/blog/true-cost-of-a-loan-with-fees)
+- [Pay Off $5,000 Credit Card Debt](/blog/pay-off-5000-credit-card-debt)
+- [Cancel Credit Card Debt](/blog/cancel-credit-card-debt)

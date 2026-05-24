@@ -91,3 +91,9 @@ To summarize, here are the key takeaways:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-23)
+- [Overdraft fees average cost per year](/blog/overdraft-fees-average-cost-per-year)
+- [50/30/20 rule for freelancers](/blog/50-30-20-rule-for-freelancers)

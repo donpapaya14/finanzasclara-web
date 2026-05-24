@@ -129,3 +129,9 @@ My rule? If I wouldn’t pay full price upfront, I don’t subscribe. This minds
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How to cancel forgotten subscriptions on iPhone and Android](/blog/how-to-cancel-forgotten-subscriptions-on-iphone-and-android)
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-20)
+- [50/30/20 Rule $4,000 Salary](/blog/50-30-20-rule-4000-salary)

@@ -102,3 +102,9 @@ As an app developer and professional chef, I understand the importance of saving
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [overdraft fees cost average American $250 yearly](/blog/overdraft-fees-cost-average-american-250-yearly)
+- [50/30/20 Budgeting for Irregular Income](/blog/50-30-20-budgeting-for-irregular-income)
+- [50/30/20 rule for freelancers](/blog/50-30-20-rule-for-freelancers)

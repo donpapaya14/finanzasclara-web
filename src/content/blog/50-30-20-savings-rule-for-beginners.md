@@ -110,3 +110,9 @@ Here are the key takeaways from this article:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [50/30/20 Budgeting for Irregular Income](/blog/50-30-20-budgeting-for-irregular-income)
+- [YNAB App Setup Guide for Beginners](/blog/ynab-app-setup-guide-for-beginners-2026-05-13)
+- [Late Payment Fees](/blog/late-payment-fees)

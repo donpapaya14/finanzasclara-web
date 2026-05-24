@@ -97,3 +97,9 @@ As an app developer and professional chef, I have seen firsthand the impact of d
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Cancel Debt with FDCPA and Fair Credit Billing Act](/blog/cancel-debt-with-fdcpa-and-fair-credit-billing-act)
+- [True Cost of Loans](/blog/true-cost-of-loans)
+- [Paying Off $10,000 Credit Card Debt](/blog/paying-off-10000-credit-card-debt)

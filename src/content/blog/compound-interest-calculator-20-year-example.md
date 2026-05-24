@@ -86,3 +86,9 @@ In conclusion, compound interest is a powerful tool for growing your investment 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [best free stock brokers for beginners with no minimum deposit](/blog/best-free-stock-brokers-for-beginners-with-no-minimum-deposit)
+- [Beginner](/blog/beginner-s-guide-to-investing-in-reits-for-passive-income)
+- [Dollar-cost averaging calculator example](/blog/dollar-cost-averaging-calculator-example)

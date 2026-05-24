@@ -140,3 +140,9 @@ I apply this to my own investments: automating contributions to Vanguard index f
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [DCA Investing Strategy](/blog/dca-investing-strategy)
+- [Dollar-cost averaging with S&P 500 ETF](/blog/dollar-cost-averaging-with-s-p-500-etf)
+- [Best Free Brokers for Beginners](/blog/best-free-brokers-for-beginners)

@@ -104,3 +104,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Best Free Brokers for Beginners](/blog/best-free-brokers-for-beginners)
+- [Best Free Brokers for Beginners with Fees](/blog/best-free-brokers-for-beginners-with-fees)
+- [Compound Interest Calculator](/blog/compound-interest-calculator)

@@ -97,3 +97,9 @@ As an app developer and professional chef, I have always been interested in find
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How I Earn $2,500/Month with Print-on-Demand T-Shirts](/blog/how-i-earn-2500-month-with-print-on-demand-t-shirts)
+- [Best robo-advisors for passive investing in 2024](/blog/best-robo-advisors-for-passive-investing-in-2024)
+- [Best automated investment platforms for passive income 2024](/blog/best-automated-investment-platforms-for-passive-income-2024)

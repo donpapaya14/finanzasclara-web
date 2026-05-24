@@ -117,3 +117,9 @@ As an app developer and professional chef, I've learned the importance of patien
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dividend Investing in REITs](/blog/dividend-investing-in-reits)
+- [Best automated investment platforms for passive income 2024](/blog/best-automated-investment-platforms-for-passive-income-2024)
+- [Earn Passive Income with Free Survey Sites](/blog/earn-passive-income-with-free-survey-sites)

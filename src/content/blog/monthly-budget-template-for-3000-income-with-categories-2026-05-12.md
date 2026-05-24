@@ -125,3 +125,9 @@ For those looking to start their budgeting journey, I suggest starting with smal
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [50/30/20 Rule $4,000 Salary](/blog/50-30-20-rule-4000-salary)
+- [Zero-Based Budgeting for Beginners](/blog/zero-based-budgeting-for-beginners)
+- [Hidden Subscriptions Costing You Money](/blog/hidden-subscriptions-costing-you-money)

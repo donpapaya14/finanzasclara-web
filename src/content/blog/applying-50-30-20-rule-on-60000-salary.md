@@ -130,3 +130,9 @@ Budgeting isn’t about deprivation; it’s about aligning spending with priorit
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Cancel Unwanted Subscriptions](/blog/cancel-unwanted-subscriptions)
+- [Monthly budget template for $75,000 income with categories and percentages](/blog/monthly-budget-template-for-75000-income-with-categories-and-percentages)
+- [monthly budget template for $4000 salary](/blog/monthly-budget-template-for-4000-salary)

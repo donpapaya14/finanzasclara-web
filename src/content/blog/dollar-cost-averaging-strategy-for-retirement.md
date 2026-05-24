@@ -104,3 +104,9 @@ Here are some concrete action bullets to get you started with dollar-cost averag
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [DCA Investing Strategy](/blog/dca-investing-strategy)
+- [Beginner](/blog/beginner-s-guide-to-investing-in-reits-for-passive-income)
+- [Index Funds vs ETFs: Which for Long-Term Investing](/blog/index-funds-vs-etfs-which-for-long-term-investing)

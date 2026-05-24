@@ -146,3 +146,9 @@ For those struggling, I recommend [The Automatic Millionaire en Amazon](https://
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [50/30/20 rule for freelancers](/blog/50-30-20-rule-for-freelancers)
+- [50/30/20 budgeting for $75,000 income](/blog/50-30-20-budgeting-for-75000-income)
+- [Overdraft fees average cost per year](/blog/overdraft-fees-average-cost-per-year)

@@ -127,3 +127,9 @@ I also automate dividends via apps like Robinhood. Passive income isn’t glamor
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How I made $1,200/month with peer-to-peer lending](/blog/how-i-made-1200-month-with-peer-to-peer-lending)
+- [Earning $500/month with Amazon Kindle Direct Publishing](/blog/earning-500-month-with-amazon-kindle-direct-publishing)
+- [Creating a Print on Demand Store](/blog/creating-a-print-on-demand-store)

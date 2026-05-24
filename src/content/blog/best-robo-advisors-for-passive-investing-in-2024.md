@@ -113,3 +113,9 @@ Here are six concrete action bullets to help you get started with **robo-advisor
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Earn Passive Income with Free Survey Sites](/blog/earn-passive-income-with-free-survey-sites)
+- [automated investing platforms with highest returns 2024](/blog/automated-investing-platforms-with-highest-returns-2024)
+- [How to earn passive income with print-on-demand t-shirts](/blog/how-to-earn-passive-income-with-print-on-demand-t-shirts)

@@ -130,3 +130,9 @@ Here are 6 concrete action bullets to get started with the best free brokers for
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dollar-cost averaging with S&P 500 ETF](/blog/dollar-cost-averaging-with-s-p-500-etf)
+- [Compound Interest Over 30 Years](/blog/compound-interest-over-30-years)
+- [Dollar-cost averaging with ETFs: step-by-step backtested guide](/blog/dollar-cost-averaging-with-etfs-step-by-step-backtested-guide)

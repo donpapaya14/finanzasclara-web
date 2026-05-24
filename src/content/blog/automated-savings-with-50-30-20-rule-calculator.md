@@ -93,3 +93,9 @@ As an app developer and professional chef, I've seen firsthand the importance of
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Automated Savings Trick](/blog/automated-savings-trick)
+- [Overpaying for car insurance: how to save $600/year](/blog/overpaying-for-car-insurance-how-to-save-600-year)
+- [Micro Savings Apps](/blog/micro-savings-apps)

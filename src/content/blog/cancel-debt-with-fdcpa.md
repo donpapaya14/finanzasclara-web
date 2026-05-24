@@ -132,3 +132,9 @@ As someone who’s dealt with aggressive collectors, I learned the hard way that
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [true cost of a loan with fees](/blog/true-cost-of-a-loan-with-fees)
+- [Credit card debt payoff plan for $10,000 balance](/blog/credit-card-debt-payoff-plan-for-10000-balance)
+- [Cancel Unpaid Medical Bills in the US with FDCPA](/blog/cancel-unpaid-medical-bills-in-the-us-with-fdcpa)

@@ -122,3 +122,9 @@ As an app developer, I automate my ETF investments via APIs from my salary accou
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Compound Interest Over 30 Years](/blog/compound-interest-over-30-years)
+- [Investing in Treasury Inflation-Protected Securities (TIPS)](/blog/investing-in-treasury-inflation-protected-securities-tips)
+- [Best Free Stock Brokers for Beginners 2024: Fees & Features](/blog/best-free-stock-brokers-for-beginners-2024-fees-features)

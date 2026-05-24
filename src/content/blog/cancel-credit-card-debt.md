@@ -120,3 +120,9 @@ Tools like [ Budget Planners en Amazon](https://www.amazon.com/s?k=+Budget+Plann
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Negotiate Bank Debt](/blog/negotiate-bank-debt)
+- [paying off $20,000 credit card debt in 36 months](/blog/paying-off-20000-credit-card-debt-in-36-months)
+- [Debt Relief Laws by State Exact Deadlines](/blog/debt-relief-laws-by-state-exact-deadlines)

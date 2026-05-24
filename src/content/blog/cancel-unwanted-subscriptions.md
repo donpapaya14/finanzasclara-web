@@ -102,3 +102,9 @@ In my experience, canceling unwanted subscriptions can have a significant impact
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Monthly Budget Template $5000](/blog/monthly-budget-template-5000)
+- [Hidden Subscriptions Costing You Money: Average Annual Cost and How to Cancel](/blog/hidden-subscriptions-costing-you-money-average-annual-cost-and-how-to-cancel)
+- [Hidden Subscriptions Costs](/blog/hidden-subscriptions-costs)

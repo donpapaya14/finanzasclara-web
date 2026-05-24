@@ -102,3 +102,9 @@ Here are some concrete action bullets to get started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dividend Investing for Beginners](/blog/dividend-investing-for-beginners-2026-05-17)
+- [How to earn passive income with print-on-demand t-shirts](/blog/how-to-earn-passive-income-with-print-on-demand-t-shirts)
+- [Affiliate Marketing on Medium](/blog/affiliate-marketing-on-medium)

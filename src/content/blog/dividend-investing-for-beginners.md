@@ -129,3 +129,9 @@ For fellow beginners, I suggest starting with **dividend ETFs** like SCHD while 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Creating a Print on Demand Store](/blog/creating-a-print-on-demand-store)
+- [Best Automated Investment Platforms for Long-Term Growth](/blog/best-automated-investment-platforms-for-long-term-growth)
+- [passive income from vending machines: costs and profits](/blog/passive-income-from-vending-machines-costs-and-profits)

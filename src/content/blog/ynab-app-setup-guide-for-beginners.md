@@ -93,3 +93,9 @@ To get started with YNAB, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [30-Day Savings Challenge for Beginners](/blog/30-day-savings-challenge-for-beginners)
+- [Overpaying for car insurance: how to save $600/year](/blog/overpaying-for-car-insurance-how-to-save-600-year)
+- [50/30/20 budgeting for $75,000 income](/blog/50-30-20-budgeting-for-75000-income)

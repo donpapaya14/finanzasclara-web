@@ -105,3 +105,9 @@ To create an effective **credit card debt payoff plan**, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [true cost of a car loan with APR calculator example](/blog/true-cost-of-a-car-loan-with-apr-calculator-example)
+- [how to negotiate credit card debt with bank](/blog/how-to-negotiate-credit-card-debt-with-bank)
+- [Paying Off $10,000 Credit Card Debt](/blog/paying-off-10000-credit-card-debt)

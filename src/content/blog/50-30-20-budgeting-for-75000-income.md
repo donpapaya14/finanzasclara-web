@@ -111,3 +111,9 @@ Here are some concrete action steps to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [YNAB App Setup Guide for Beginners](/blog/ynab-app-setup-guide-for-beginners-2026-05-13)
+- [Automated Savings with 50/30/20 Rule Calculator](/blog/automated-savings-with-50-30-20-rule-calculator)
+- [High-Yield Savings Accounts Compared](/blog/high-yield-savings-accounts-compared)

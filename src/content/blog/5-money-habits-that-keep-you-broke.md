@@ -104,3 +104,9 @@ Pay down revolving debt (credit cards) to below **30% of your credit limit**. Th
 - **50/50 rule on raises** — half to savings, half to lifestyle
 - **48-hour rule** for any non-essential purchase over $50
 - **Quarterly subscription audit** — cancel everything you haven't used in 30 days
+
+## 📚 Continue reading
+
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-20)
+- [Monthly budget template for $3,000 income with categories](/blog/monthly-budget-template-for-3000-income-with-categories)
+- [Hidden Subscriptions Costs](/blog/hidden-subscriptions-costs)

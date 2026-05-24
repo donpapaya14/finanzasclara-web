@@ -121,3 +121,9 @@ Here are some concrete actions you can take to cancel unwanted subscriptions and
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Mint App Setup Guide](/blog/mint-app-setup-guide-2026-05-20)
+- [50/30/20 Rule $6,000 Salary](/blog/50-30-20-rule-6000-salary)
+- [Zero-based budgeting for freelancers with irregular income](/blog/zero-based-budgeting-for-freelancers-with-irregular-income)

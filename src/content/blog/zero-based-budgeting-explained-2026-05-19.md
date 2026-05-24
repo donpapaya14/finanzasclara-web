@@ -140,3 +140,9 @@ In my kitchen, I apply ZBB principles too: **every ingredient must have a purpos
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Cancel Gym Membership Fees](/blog/cancel-gym-membership-fees)
+- [Hidden Subscriptions Costs](/blog/hidden-subscriptions-costs)
+- [50/30/20 Rule $4,000 Salary](/blog/50-30-20-rule-4000-salary)

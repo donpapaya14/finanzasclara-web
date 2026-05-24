@@ -88,3 +88,9 @@ Here are the key takeaways from this article:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Best Automated Investment Platforms for Long-Term Growth](/blog/best-automated-investment-platforms-for-long-term-growth)
+- [Best automated investment platforms for passive income 2024](/blog/best-automated-investment-platforms-for-passive-income-2024)
+- [passive income from vending machines: costs and profits](/blog/passive-income-from-vending-machines-costs-and-profits)

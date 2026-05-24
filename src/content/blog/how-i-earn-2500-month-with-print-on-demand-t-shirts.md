@@ -108,3 +108,9 @@ As an app developer and professional chef, I was surprised by how much I enjoyed
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [passive income from vending machines: costs and profits](/blog/passive-income-from-vending-machines-costs-and-profits)
+- [Dividend Investing for Beginners](/blog/dividend-investing-for-beginners-2026-05-17)
+- [Best robo-advisors for passive investing in 2024](/blog/best-robo-advisors-for-passive-investing-in-2024)

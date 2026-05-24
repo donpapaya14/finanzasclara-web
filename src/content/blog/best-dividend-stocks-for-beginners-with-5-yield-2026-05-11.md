@@ -101,3 +101,9 @@ Here are the key takeaways for beginner dividend investors:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Dividend Investing in REITs](/blog/dividend-investing-in-reits)
+- [How I Earn $2,500/Month with Print-on-Demand T-Shirts](/blog/how-i-earn-2500-month-with-print-on-demand-t-shirts)
+- [Create a Mobile App to Earn $10,000 Passive Income per Year](/blog/create-a-mobile-app-to-earn-10000-passive-income-per-year)

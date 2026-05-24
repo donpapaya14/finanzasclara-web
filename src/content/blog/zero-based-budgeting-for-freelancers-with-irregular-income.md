@@ -100,3 +100,9 @@ Here are some concrete steps you can take to implement zero-based budgeting for 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [How to cancel forgotten subscriptions on iPhone and Android](/blog/how-to-cancel-forgotten-subscriptions-on-iphone-and-android)
+- [Hidden Subscriptions Costs](/blog/hidden-subscriptions-costs)
+- [monthly budget template for $4000 salary](/blog/monthly-budget-template-for-4000-salary)

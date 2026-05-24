@@ -89,3 +89,9 @@ In my experience, the key to successful investing is to **start early** and **be
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Investing in Treasury Inflation-Protected Securities (TIPS)](/blog/investing-in-treasury-inflation-protected-securities-tips)
+- [Dollar-cost averaging with ETFs: step-by-step backtested guide](/blog/dollar-cost-averaging-with-etfs-step-by-step-backtested-guide)
+- [Dollar-cost averaging calculator example](/blog/dollar-cost-averaging-calculator-example)

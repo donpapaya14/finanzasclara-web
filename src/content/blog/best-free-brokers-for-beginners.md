@@ -122,3 +122,9 @@ As an app developer, I appreciate Robinhood’s **UI/UX design**—it’s the Ap
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@FinanzasClara-l3w).*
+
+## 📚 Continue reading
+
+- [Compound interest example: $10,000 over 10/20/30 years](/blog/compound-interest-example-10000-over-10-20-30-years-2026-05-20)
+- [Exchange Traded Funds (ETFs) Performance](/blog/exchange-traded-funds-etfs-performance)
+- [Index Funds vs ETFs: Which for Long-Term Investing](/blog/index-funds-vs-etfs-which-for-long-term-investing)
